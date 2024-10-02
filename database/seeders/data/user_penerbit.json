@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Gramedia Pustaka Utama",
+        "alamat": "Gedung Kompas Gramedia Lantai 5, Jl. Palmerah Barat 29-37. Jakarta 10270",
+        "nomor": "199103112022021006"
+    },
+    {
+        "name": "Erlangga",
+        "alamat": "Jl. H. Baping No. 100, Ciracas, Jakarta Timur 13720",
+        "nomor": "199103112022031005"
+    },
+    {
+        "name": "Penerbit Ikon",
+        "alamat": "Jln. Rambutan VIII No. 4 Komplek Mahkamah Agung R.I Pejaten Barat, Pasar Minggu, Jakarta Selatan",
+        "nomor": "199103112022011007"
+    },
+    {
+        "name": "Media Kita",
+        "alamat": "Jl. H. Montong No.57, RT.6/RW.2, Ciganjur, Kec. Jagakarsa, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12630",
+        "nomor": "199103112022022009"
+    },
+    {
+        "name": "Gradien Mediatama",
+        "alamat": "Jl. Wora Wari No.A-74, Baciro, Kec. Gondokusuman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55225",
+        "nomor": "199103112022023002"
+    }
+]

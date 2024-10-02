@@ -1,0 +1,816 @@
+[
+    {
+        "prodi": "Teknologi Rekayasa Perangkat Lunak",
+        "jurusan": "Bisnis dan Informatika",
+        "data": [
+            {
+                "NAMA": "Muh. Fuad Al Haris, S.T., M.T.",
+                "NIP/NIK": "197806132014041001"
+            },
+            {
+                "NAMA": "Devit Suwardiyanto, S.Si., M.T.",
+                "NIP/NIK": "198311052015041001"
+            },
+            {
+                "NAMA": "Mohamad Dimyati Ayatullah, S.T., M.Kom.",
+                "NIP/NIK": "197601222021211001"
+            },
+            {
+                "NAMA": "Dianni Yusuf, S.Kom., M.Kom.",
+                "NIP/NIK": "198403052021212004"
+            },
+            {
+                "NAMA": "Moh. Nur Shodiq, S.T., M.T.",
+                "NIP/NIK": "198301192021211006"
+            },
+            {
+                "NAMA": "Herman Yuliandoko, S.T., M.T.",
+                "NIP/NIK": "197509272021211002"
+            },
+            {
+                "NAMA": "Vivien Arief Wardhany, S.T., M.T.",
+                "NIP/NIK": "198404032019032012"
+            },
+            {
+                "NAMA": "Dedy Hidayat Kusuma, S.T., M.Cs.",
+                "NIP/NIK": "197704042021211004"
+            },
+            {
+                "NAMA": "Subono, S.T., M.T.",
+                "NIP/NIK": "197506252021211003"
+            },
+            {
+                "NAMA": "Eka Mistiko Rini, S.Kom, M.Kom.",
+                "NIP/NIK": "198310202014042001"
+            },
+            {
+                "NAMA": "Farizqi Panduardi, S.ST., M.T.",
+                "NIP/NIK": "2013.36.106"
+            },
+            {
+                "NAMA": "Endi Sailul Haq, S.T., M.Kom.",
+                "NIP/NIK": "198403112019031005"
+            },
+            {
+                "NAMA": "Alfin Hidayat, S.T., M.T.",
+                "NIP/NIK": "199010052014041002"
+            },
+            {
+                "NAMA": "I Wayan Suardinata, S.Kom., M.T.",
+                "NIP/NIK": "198010222015041001"
+            },
+            {
+                "NAMA": "Junaedi Adi Prasetyo, S.ST., M.Sc.",
+                "NIP/NIK": "199004192018031001"
+            },
+            {
+                "NAMA": "Lutfi Hakim, S.Pd., M.T.",
+                "NIP/NIK": "199203302019031012"
+            },
+            {
+                "NAMA": "Sepyan Purnama Kristanto, S.Kom., M.Kom.",
+                "NIP/NIK": "199009052019031024"
+            },
+            {
+                "NAMA": "Ruth Ema Febrita, S.Pd., M.Kom.",
+                "NIP/NIK": "199202272020122019"
+            },
+            {
+                "NAMA": "Arum Andary Ratri, S.Si., M.Si.",
+                "NIP/NIK": "199209212020122021"
+            },
+            {
+                "NAMA": "Agus Priyo Utomo, S.ST., M.Tr.Kom.",
+                "NIP/NIK": "2010.36.048"
+            },
+            {
+                "NAMA": "Khoirul Umam, S.Pd., M.Kom.",
+                "NIP/NIK": "199103112022031006"
+            },
+            {
+                "NAMA": "Lukman Hakim, S.Kom., M.T.",
+                "NIP/NIK": "198903232022031007"
+            },
+            {
+                "NAMA": "Galih Hendra Wibowo, S.Tr.Kom., M.T.",
+                "NIP/NIK": "199209052022031004"
+            }
+        ]
+    },
+    {
+        "prodi": "Bisnis Digital",
+        "jurusan": "Bisnis dan Informatika",
+        "data": [
+            {
+                "NAMA": "Junaedi Adi Prasetyo, S.ST., M.Sc.",
+                "NIP/NIK": "199004192018031001"
+            },
+            {
+                "NAMA": "Lutfi Hakim, S.Pd., M.T.",
+                "NIP/NIK": "199203302019031012"
+            },
+            {
+                "NAMA": "Subono, S.T., M.T.",
+                "NIP/NIK": "197506252021211003"
+            },
+            {
+                "NAMA": "Moh. Nur Shodiq, S.T., M.T.",
+                "NIP/NIK": "198301192021211006"
+            },
+            {
+                "NAMA": "I Wayan Suardinata, S.Kom., M.T.",
+                "NIP/NIK": "198010222015041001"
+            },
+            {
+                "NAMA": "Dedy Hidayat Kusuma, S.T., M.Cs.",
+                "NIP/NIK": "197704042021211004"
+            },
+            {
+                "NAMA": "Arum Andary Ratri, S.Si., M.Si.",
+                "NIP/NIK": "199209212020122021"
+            },
+            {
+                "NAMA": "Indira Nuansa Ratri, S.M., M.SM.",
+                "NIP/NIK": "2021.36.248"
+            }
+        ]
+    },
+    {
+        "prodi": "Teknologi Rekayasa Komputer",
+        "jurusan": "Bisnis dan Informatika",
+        "data": [
+            {
+                "NAMA": "Agus Priyo Utomo, S.ST., M.Tr.Kom.",
+                "NIP/NIK": "2010.36.048"
+            },
+            {
+                "NAMA": "Arum Andary Ratri, S.Si., M.Si.",
+                "NIP/NIK": "199209212020122021"
+            },
+            {
+                "NAMA": "Farizqi Panduardi, S.ST., M.T.",
+                "NIP/NIK": "2013.36.106"
+            },
+            {
+                "NAMA": "Endi Sailul Haq, S.T., M.Kom.",
+                "NIP/NIK": "198403112019031005"
+            },
+            {
+                "NAMA": "Galih Hendra Wibowo, S.Tr.Kom., M.T.",
+                "NIP/NIK": "199209052022031004"
+            },
+            {
+                "NAMA": "Junaedi Adi Prasetyo, S.ST., M.Sc.",
+                "NIP/NIK": "199004192018031001"
+            },
+            {
+                "NAMA": "Lutfi Hakim, S.Pd., M.T.",
+                "NIP/NIK": "199203302019031012"
+            },
+            {
+                "NAMA": "Herman Yuliandoko, S.T., M.T.",
+                "NIP/NIK": "197509272021211002"
+            },
+            {
+                "NAMA": "Mohamad Dimyati Ayatullah, S.T., M.Kom.",
+                "NIP/NIK": "197601222021211001"
+            },
+            {
+                "NAMA": "Sepyan Purnama Kristanto, S.Kom., M.Kom.",
+                "NIP/NIK": "199009052019031024"
+            },
+            {
+                "NAMA": "Subono, S.T., M.T.",
+                "NIP/NIK": "197506252021211003"
+            }
+        ]
+    },
+    {
+        "prodi": "Teknik Sipil",
+        "jurusan": "Teknik Sipil",
+        "data": [
+            {
+                "NAMA": "Zulis Erwanto, S.T., M.T.",
+                "NIP/NIK": "198505172015041003"
+            },
+            {
+                "NAMA": "Enes Ariyanto Sandi, S.T., M.M.",
+                "NIP/NIK": "197108272021211002"
+            },
+            {
+                "NAMA": "Erna Suryani, S.T., M.Eng.",
+                "NIP/NIK": "198401142019032006"
+            },
+            {
+                "NAMA": "Yuni Ulfiyati, S.T., M.T.",
+                "NIP/NIK": "198106072021212007"
+            },
+            {
+                "NAMA": "M. Shofi'ul Amin, S.T., M.T.",
+                "NIP/NIK": "198605212015041002"
+            },
+            {
+                "NAMA": "Wahyu Naris Wari, S.T., M.T.",
+                "NIP/NIK": "198612312019032016"
+            },
+            {
+                "NAMA": "Mirza Ghulam Rifqi, S.T., MST.",
+                "NIP/NIK": "198403312019031007"
+            },
+            {
+                "NAMA": "Dadang Dwi Pranowo, S.T., M.Eng.",
+                "NIP/NIK": "198210142014041001"
+            },
+            {
+                "NAMA": "Siska Aprilia Hardiyanti, S.Pd., M.Si.",
+                "NIP/NIK": "2016.36.187"
+            },
+            {
+                "NAMA": "Dora Melati Nurita Sandi, S.T., M.T.",
+                "NIP/NIK": "199011212019032012"
+            },
+            {
+                "NAMA": "I Ketut Hendra Wiryasuta, S.T., M.T.",
+                "NIP/NIK": "199202022019031027"
+            },
+            {
+                "NAMA": "Qurrotus Shofiyah, S.T., M.T.",
+                "NIP/NIK": "199302072019032026"
+            },
+            {
+                "NAMA": "Mohamad Galuh Khomari, S.Pd., M.T.",
+                "NIP/NIK": "2019.36.233"
+            },
+            {
+                "NAMA": "Muhammad Hilmy, S.Pd.I., M.Pd.",
+                "NIP/NIK": "199104142020121013"
+            },
+            {
+                "NAMA": "Rahayu Pradita, S.ST., M.T.",
+                "NIP/NIK": "2021.36.235"
+            },
+            {
+                "NAMA": "Eva Olivia Hutasoit, S.T., M.T.",
+                "NIP/NIK": "199211222022032011"
+            },
+            {
+                "NAMA": "Fikca Ayuk Safitri, S.T., M.T.",
+                "NIP/NIK": "199506262022032029"
+            },
+            {
+                "NAMA": "Catur Bejo Santoso, S.T., M.T.",
+                "NIP/NIK": "198906062022031006"
+            },
+            {
+                "NAMA": "Megalita Rodiyani, S.T., M.T.",
+                "NIP/NIK": "198807222022032002"
+            },
+            {
+                "NAMA": "Ahmad Utanaka, S.S.T., M.T.",
+                "NIP/NIK": "199512242022031009"
+            },
+            {
+                "NAMA": "Wahyu Satyaning Budhi, S.ST., M.T.",
+                "NIP/NIK": "199612032022032022"
+            }
+        ]
+    },
+    {
+        "prodi": "Teknologi Rekayasa Konstruksi Jalan dan Jembatan",
+        "jurusan": "Teknik Sipil",
+        "data": [
+            {
+                "NAMA": "Dora Melati Nurita Sandi, S.T., M.T.",
+                "NIP/NIK": "199011212019032012"
+            },
+            {
+                "NAMA": "I Ketut Hendra Wiryasuta, S.T., M.T.",
+                "NIP/NIK": "199202022019031027"
+            },
+            {
+                "NAMA": "Qurrotus Shofiyah, S.T., M.T.",
+                "NIP/NIK": "199302072019032026"
+            },
+            {
+                "NAMA": "Mohamad Galuh Khomari, S.Pd., M.T.",
+                "NIP/NIK": "2019.36.233"
+            },
+            {
+                "NAMA": "Muhammad Hilmy, S.Pd.I., M.Pd.",
+                "NIP/NIK": "199104142020121013"
+            },
+            {
+                "NAMA": "Rahayu Pradita, S.ST., M.T.",
+                "NIP/NIK": "2021.36.235"
+            },
+            {
+                "NAMA": "Eva Olivia Hutasoit, S.T., M.T.",
+                "NIP/NIK": "199211222022032011"
+            },
+            {
+                "NAMA": "Fikca Ayuk Safitri, S.T., M.T.",
+                "NIP/NIK": "199506262022032029"
+            },
+            {
+                "NAMA": "Catur Bejo Santoso, S.T., M.T.",
+                "NIP/NIK": "198906062022031006"
+            },
+            {
+                "NAMA": "Megalita Rodiyani, S.T., M.T.",
+                "NIP/NIK": "198807222022032002"
+            },
+            {
+                "NAMA": "Ahmad Utanaka, S.S.T., M.T.",
+                "NIP/NIK": "199512242022031009"
+            }
+        ]
+    },
+    {
+        "prodi": "Teknologi Rekayasa Manufaktur",
+        "jurusan": "Teknik Mesin",
+        "data": [
+            {
+                "NAMA": "Nuraini Lusi, S.Pd., M.T.",
+                "NIP/NIK": "198902172015042004"
+            },
+            {
+                "NAMA": "Dian Ridlo Pamuji, S.T., M.T.",
+                "NIP/NIK": "198208072021211005"
+            },
+            {
+                "NAMA": "Mohammad Abdul Wahid, S.T., M.T.",
+                "NIP/NIK": "197903112021211002"
+            },
+            {
+                "NAMA": "Chairul Anam, S.T., M.T.",
+                "NIP/NIK": "198205072021211007"
+            },
+            {
+                "NAMA": "Akhmad Afandi, S.Si., M.Si.",
+                "NIP/NIK": "198905222019031013"
+            },
+            {
+                "NAMA": "IGN Bagus Catrawedarma, S.T., M.Eng.",
+                "NIP/NIK": "198504262014041002"
+            },
+            {
+                "NAMA": "Ely Trianasari, S.Pd., M.Pd.",
+                "NIP/NIK": "198606152021212003"
+            },
+            {
+                "NAMA": "Galang Sandy Prayogo, S.T., M.T.",
+                "NIP/NIK": "198707272019031010"
+            },
+            {
+                "NAMA": "Ika Yuniwati, S.Pd., M.Si.",
+                "NIP/NIK": "198706232019032009"
+            },
+            {
+                "NAMA": "Anggra Fiveriati, S.T., M.T.",
+                "NIP/NIK": "198805042019032017"
+            },
+            {
+                "NAMA": "Agung Fauzi Hanafi, S.T., M.T.",
+                "NIP/NIK": "198810032019031011"
+            },
+            {
+                "NAMA": "Asmar Finali, S.T., M.T.",
+                "NIP/NIK": "198603312019031008"
+            },
+            {
+                "NAMA": "Prabuditya Bhisma Wisnu Wardhana, S.T., M.Eng.",
+                "NIP/NIK": "198603292019031006"
+            },
+            {
+                "NAMA": "Mega Lazuardi Umar, S.T., M.Sc.",
+                "NIP/NIK": "199306082020121015"
+            },
+            {
+                "NAMA": "Eli Novita Sari, M.T.",
+                "NIP/NIK": "199511052022032017"
+            }
+        ]
+    },
+    {
+        "prodi": "Teknik Manufaktur Kapal",
+        "jurusan": "Teknik Mesin",
+        "data": [
+            {
+                "NAMA": "Khairul Muzaka, S.T., M.Eng-Res.",
+                "NIP/NIK": "2008.36.019"
+            },
+            {
+                "NAMA": "Abdul Rohman, S.T., M.T.",
+                "NIP/NIK": "198304132021211003"
+            },
+            {
+                "NAMA": "Yeddid Yonatan Eka Darma, S.T., M.S.",
+                "NIP/NIK": "198807102019031010"
+            },
+            {
+                "NAMA": "Hery Inprasetyobudi, S.T., M.T.",
+                "NIP/NIK": "2018.36.215"
+            },
+            {
+                "NAMA": "IGN Agung Satria Prasetya D Y, S.T., M.T.",
+                "NIP/NIK": "198806102019031014"
+            },
+            {
+                "NAMA": "Rochmad Eko Prasetyaning Utomo, S.T., M.Eng.",
+                "NIP/NIK": "199203102019031010"
+            },
+            {
+                "NAMA": "Jangka Rulianto, S.T., M.T.",
+                "NIP/NIK": "2021.36.247"
+            }
+        ]
+    },
+    {
+        "prodi": "Manajemen Bisnis Pariwisata",
+        "jurusan": "Pariwisata",
+        "data": [
+            {
+                "NAMA": "Masetya Mukti, S.ST., M.M.",
+                "NIP/NIK": "198904092019031012"
+            },
+            {
+                "NAMA": "Firda Rachma Amalia, S.E., M.M.",
+                "NIP/NIK": "199011112019032019"
+            },
+            {
+                "NAMA": "Adetiya Prananda Putra, S.ST., M.M.",
+                "NIP/NIK": "198912262018031001"
+            },
+            {
+                "NAMA": "Rudi Tri Handoko, S.ST Par., M.Par.",
+                "NIP/NIK": "2016.36.169"
+            },
+            {
+                "NAMA": "Aprilia Divi Yustita, S.Si., M.Si.",
+                "NIP/NIK": "2016.36.181"
+            },
+            {
+                "NAMA": "Eka Afrida Ermawati, S.Pd., M.Pd.",
+                "NIP/NIK": "2016.36.180"
+            },
+            {
+                "NAMA": "Aditya Wiralatief Sanjaya, S.ST., M.ST.",
+                "NIP/NIK": "2016.36.167"
+            },
+            {
+                "NAMA": "Ayu Wanda Febrian, S.Par., M.B.A.",
+                "NIP/NIK": "199202042022032016"
+            },
+            {
+                "NAMA": "Jemi Cahya Adi Wijaya S.E., M.M.",
+                "NIP/NIK": "198708292018031001"
+            },
+            {
+                "NAMA": "Ayu Purwaningtyas, S.Hut., M.M.",
+                "NIP/NIK": "2018.36.222"
+            },
+            {
+                "NAMA": "Auda Nuril Zazilah, S.Si., M.Sc.",
+                "NIP/NIK": "199408312019032020"
+            },
+            {
+                "NAMA": "Randhi Nanang Darmawan, S.Si., M.Si.",
+                "NIP/NIK": "198910252019031015"
+            },
+            {
+                "NAMA": "I Putu Sudhyana Mecha, S.Kom., M.Par.",
+                "NIP/NIK": "199108052019031011"
+            },
+            {
+                "NAMA": "Kanom, S.Pd., M.Par.",
+                "NIP/NIK": "198608142019031006"
+            },
+            {
+                "NAMA": "Nurhalimah, S.Pd., M.Pd.",
+                "NIP/NIK": "198605242019032014"
+            },
+            {
+                "NAMA": "Putu Ngurah Rusmawan, S.Pd., M.Pd.",
+                "NIP/NIK": "198707212019031007"
+            },
+            {
+                "NAMA": "Esa Riandy Cardias, S.Par., M.Sc.",
+                "NIP/NIK": "2020.36.234"
+            },
+            {
+                "NAMA": "Ahmadintya Anggit Hanggraito S.A.B., M.Sc.",
+                "NIP/NIK": "199006142022031003"
+            },
+            {
+                "NAMA": "Reni Nur Jannah, S.ST., M.Par.",
+                "NIP/NIK": "2021.36.238"
+            },
+            {
+                "NAMA": "Inno Cahyaning Tyas, S.Pd., M.Pd.",
+                "NIP/NIK": "2021.36.239"
+            },
+            {
+                "NAMA": "Muhamad Ari Perdana, M.P.Par.",
+                "NIP/NIK": "199010132022031003"
+            }
+        ]
+    },
+    {
+        "prodi": "Destinasi Pariwisata",
+        "jurusan": "Pariwisata",
+        "data": [
+            {
+                "NAMA": "Aditya Wiralatief Sanjaya, S.ST., M.ST.",
+                "NIP/NIK": "2016.36.167"
+            },
+            {
+                "NAMA": "Ayu Wanda Febrian, S.Par., M.B.A.",
+                "NIP/NIK": "199202042022032016"
+            },
+            {
+                "NAMA": "Jemi Cahya Adi Wijaya S.E., M.M.",
+                "NIP/NIK": "198708292018031001"
+            },
+            {
+                "NAMA": "Ayu Purwaningtyas, S.Hut., M.M.",
+                "NIP/NIK": "2018.36.222"
+            },
+            {
+                "NAMA": "Auda Nuril Zazilah, S.Si., M.Sc.",
+                "NIP/NIK": "199408312019032020"
+            },
+            {
+                "NAMA": "Randhi Nanang Darmawan, S.Si., M.Si.",
+                "NIP/NIK": "198910252019031015"
+            },
+            {
+                "NAMA": "I Putu Sudhyana Mecha, S.Kom., M.Par.",
+                "NIP/NIK": "199108052019031011"
+            },
+            {
+                "NAMA": "Kanom, S.Pd., M.Par.",
+                "NIP/NIK": "198608142019031006"
+            },
+            {
+                "NAMA": "Nurhalimah, S.Pd., M.Pd.",
+                "NIP/NIK": "198605242019032014"
+            }
+        ]
+    },
+    {
+        "prodi": "Pengelolaan Perhotelan",
+        "jurusan": "Pariwisata",
+        "data": [
+            {
+                "NAMA": "Esa Riandy Cardias, S.Par., M.Sc.",
+                "NIP/NIK": "2020.36.234"
+            },
+            {
+                "NAMA": "Ahmadintya Anggit Hanggraito S.A.B., M.Sc.",
+                "NIP/NIK": "199006142022031003"
+            },
+            {
+                "NAMA": "Reni Nur Jannah, S.ST., M.Par.",
+                "NIP/NIK": "2021.36.238"
+            },
+            {
+                "NAMA": "Inno Cahyaning Tyas, S.Pd., M.Pd.",
+                "NIP/NIK": "2021.36.239"
+            },
+            {
+                "NAMA": "Muhamad Ari Perdana, M.P.Par.",
+                "NIP/NIK": "199010132022031003"
+            }
+        ]
+    },
+    {
+        "prodi": "Agribisnis",
+        "jurusan": "Pertanian",
+        "data": [
+            {
+                "NAMA": "Danang Sudarso Widya Prakoso Joyo Widakdo, S.P., M.M.",
+                "NIP/NIK": "2013.36.111"
+            },
+            {
+                "NAMA": "Ardito Atmaka Aji, S.ST., M.M.",
+                "NIP/NIK": "198901162018031001"
+            },
+            {
+                "NAMA": "Shinta Setiadevi, S.TP., M.M.",
+                "NIP/NIK": "2013.36.115"
+            },
+            {
+                "NAMA": "Kurniawan Muhammad Nur, S.ST., M.M.",
+                "NIP/NIK": "198804042018031001"
+            },
+            {
+                "NAMA": "Sari Wiji Utami, SP., M.M.",
+                "NIP/NIK": "198312092019032007"
+            },
+            {
+                "NAMA": "Sandryas Alief Kurniasanti, S.ST., M.M.",
+                "NIP/NIK": "198806072019032017"
+            },
+            {
+                "NAMA": "Riza Rahimi Bachtiar, S.P., M.P.",
+                "NIP/NIK": "199106082019032020"
+            },
+            {
+                "NAMA": "Driyanto Wahyu Wicaksono, S.E., M.ST.",
+                "NIP/NIK": "2008.36.022"
+            },
+            {
+                "NAMA": "Abdul Holik, S.TP., M.Sc.",
+                "NIP/NIK": "198909092019031008"
+            },
+            {
+                "NAMA": "Halil, S.Pd., M.ST.",
+                "NIP/NIK": "198409092019031009"
+            },
+            {
+                "NAMA": "Ari Istanti, S.P., M.P.",
+                "NIP/NIK": "2018.36.218"
+            },
+            {
+                "NAMA": "Mohamad Ilham Hilal, S.ST., M.ST.",
+                "NIP/NIK": "2018.36.219"
+            },
+            {
+                "NAMA": "Novilia Kareja, S.E., M.A.",
+                "NIP/NIK": "199002162020122010"
+            },
+            {
+                "NAMA": "Aldy Bahaduri Indraloka, S.Si., M.P.",
+                "NIP/NIK": "199210182022031010"
+            },
+            {
+                "NAMA": "Nanda Rusti, S.P., M.Sc.",
+                "NIP/NIK": "199502082022032009"
+            },
+            {
+                "NAMA": "Nurul Alfiyah, S.E., M.Akun.",
+                "NIP/NIK": "2021.36.243"
+            },
+            {
+                "NAMA": "Karina Meidayanti, S.TP., M.Si.",
+                "NIP/NIK": "2021.36.244"
+            },
+            {
+                "NAMA": "Astri Iga Siska, S.Pi., M.P.",
+                "NIP/NIK": "2021.36.245"
+            }
+        ]
+    },
+    {
+        "prodi": "Teknologi Pengolahan Hasil Ternak",
+        "jurusan": "Pertanian",
+        "data": [
+            {
+                "NAMA": "Asmaul Khusna, S.Pt., M.M.",
+                "NIP/NIK": "198804062018032001"
+            },
+            {
+                "NAMA": "Sefri Ton, S.ST., M.M.",
+                "NIP/NIK": "198602192019031006"
+            },
+            {
+                "NAMA": "Ninik Sri Rahayu Wilujeng, S.H., M.H.",
+                "NIP/NIK": "196501152021212001"
+            },
+            {
+                "NAMA": "Mustofa Hilmi, S.Pt., M.Si.",
+                "NIP/NIK": "2016.36.160"
+            },
+            {
+                "NAMA": "Anis Usfah Prastujati, S.Pt., M.Si.",
+                "NIP/NIK": "198904022019032013"
+            },
+            {
+                "NAMA": "Muh. Habbib Khirzin, S.Pi., M.Si.",
+                "NIP/NIK": "198904072019031009"
+            },
+            {
+                "NAMA": "Dwi Ahmad Priyadi, S.Pt., M.Sc.",
+                "NIP/NIK": "199104142019031010"
+            },
+            {
+                "NAMA": "Dani Agung Wicaksono, S.E., M.M.",
+                "NIP/NIK": "198606302019031005"
+            },
+            {
+                "NAMA": "Trias Ayu Laksanawati, S.T., M.T.",
+                "NIP/NIK": "2019.36.232"
+            },
+            {
+                "NAMA": "Maghfirotul Amaniyah, S.P., M.Si.",
+                "NIP/NIK": "199106072020122019"
+            },
+            {
+                "NAMA": "Salvian Setyo Prayitno, S.Pt., M.Pt.",
+                "NIP/NIK": "2021.36.249"
+            },
+            {
+                "NAMA": "Nadia Maharani, S.Pt., M.Si.",
+                "NIP/NIK": "2021.36.250"
+            },
+            {
+                "NAMA": "Mita Ayu Liliyanti, S.Pi., M.Si.",
+                "NIP/NIK": "199005132022032007"
+            },
+            {
+                "NAMA": "Dewiarum Sari, S.Pt., M.Pt.",
+                "NIP/NIK": "199408272022032007"
+            }
+        ]
+    },
+    {
+        "prodi": "Teknologi Budi Daya Perikanan",
+        "jurusan": "Pertanian",
+        "data": [
+            {
+                "NAMA": "Muh. Habbib Khirzin, S.Pi., M.Si.",
+                "NIP/NIK": "198904072019031009"
+            },
+            {
+                "NAMA": "Dwi Ahmad Priyadi, S.Pt., M.Sc.",
+                "NIP/NIK": "199104142019031010"
+            },
+            {
+                "NAMA": "Dani Agung Wicaksono, S.E., M.M.",
+                "NIP/NIK": "198606302019031005"
+            },
+            {
+                "NAMA": "Trias Ayu Laksanawati, S.T., M.T.",
+                "NIP/NIK": "2019.36.232"
+            },
+            {
+                "NAMA": "Maghfirotul Amaniyah, S.P., M.Si.",
+                "NIP/NIK": "199106072020122019"
+            },
+            {
+                "NAMA": "Salvian Setyo Prayitno, S.Pt., M.Pt.",
+                "NIP/NIK": "2021.36.249"
+            }
+        ]
+    },
+    {
+        "prodi": "Teknologi Produksi Tanaman Pangan",
+        "jurusan": "Pertanian",
+        "data": [
+            {
+                "NAMA": "Novilia Kareja, S.E., M.A.",
+                "NIP/NIK": "199002162020122010"
+            },
+            {
+                "NAMA": "Aldy Bahaduri Indraloka, S.Si., M.P.",
+                "NIP/NIK": "199210182022031010"
+            },
+            {
+                "NAMA": "Nanda Rusti, S.P., M.Sc.",
+                "NIP/NIK": "199502082022032009"
+            },
+            {
+                "NAMA": "Nurul Alfiyah, S.E., M.Akun.",
+                "NIP/NIK": "2021.36.243"
+            },
+            {
+                "NAMA": "Karina Meidayanti, S.TP., M.Si.",
+                "NIP/NIK": "2021.36.244"
+            },
+            {
+                "NAMA": "Astri Iga Siska, S.Pi., M.P.",
+                "NIP/NIK": "2021.36.245"
+            }
+        ]
+    },
+    {
+        "prodi": "Teknologi Produksi Ternak",
+        "jurusan": "Pertanian",
+        "data": [
+            {
+                "NAMA": "Ardito Atmaka Aji, S.ST., M.M.",
+                "NIP/NIK": "198901162018031001"
+            },
+            {
+                "NAMA": "Shinta Setiadevi, S.TP., M.M.",
+                "NIP/NIK": "2013.36.115"
+            },
+            {
+                "NAMA": "Kurniawan Muhammad Nur, S.ST., M.M.",
+                "NIP/NIK": "198804042018031001"
+            },
+            {
+                "NAMA": "Sari Wiji Utami, SP., M.M.",
+                "NIP/NIK": "198312092019032007"
+            },
+            {
+                "NAMA": "Sandryas Alief Kurniasanti, S.ST., M.M.",
+                "NIP/NIK": "198806072019032017"
+            },
+            {
+                "NAMA": "Riza Rahimi Bachtiar, S.P., M.P.",
+                "NIP/NIK": "199106082019032020"
+            }
+        ]
+    }
+]

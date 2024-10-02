@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Pustakawan",
+        "guard_name": "web"
+    },
+    {
+        "name": "Penerbit",
+        "guard_name": "web"
+    }
+]

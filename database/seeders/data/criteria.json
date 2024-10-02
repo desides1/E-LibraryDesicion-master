@@ -1,0 +1,44 @@
+[
+    {
+        "code": "C1",
+        "name": "Tahun Terbit",
+        "weight": 0.20,
+        "type": "Benefit",
+        "sub_criterias": "Iya"
+    },
+    {
+        "code": "C2",
+        "name": "Jumlah Usulan Buku",
+        "weight": 0.20,
+        "type": "Benefit",
+        "sub_criterias": "Iya"
+    },
+    {
+        "code": "C3",
+        "name": "Harga Buku",
+        "weight": 0.10,
+        "type": "Cost",
+        "sub_criterias": "Iya"
+    },
+    {
+        "code": "C4",
+        "name": "Stok Buku",
+        "weight": 0.30,
+        "type": "Cost",
+        "sub_criterias": "Tidak"
+    },
+    {
+        "code": "C5",
+        "name": "Ketersediaan Buku",
+        "weight": 0.20,
+        "type": "Benefit",
+        "sub_criterias": "Tidak"
+    },
+    {
+        "code": "C6",
+        "name": "Program Studi",
+        "weight": 0.20,
+        "type": "Benefit",
+        "sub_criterias": "Iya"
+    }
+]

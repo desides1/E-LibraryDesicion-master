@@ -1,0 +1,15 @@
+.choices__inner {
+    background-color: transparent !important;
+    font-size: 15px;
+}
+
+.choices__item--selectable {
+    font-weight: 500;
+}
+
+.pagination {
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 0;
+    list-style: none;
+}

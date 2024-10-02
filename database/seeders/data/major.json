@@ -1,0 +1,66 @@
+[
+    {
+        "name": "Teknologi Rekayasa Perangkat Lunak",
+        "department": "Bisnis dan Informatika"
+    },
+    {
+        "name": "Bisnis Digital",
+        "department": "Bisnis dan Informatika"
+    },
+    {
+        "name": "Teknologi Rekayasa Komputer",
+        "department": "Bisnis dan Informatika"
+    },
+    {
+        "name": "Teknik Sipil",
+        "department": "Teknik Sipil"
+    },
+    {
+        "name": "Teknologi Rekayasa Konstruksi Jalan dan Jembatan",
+        "department": "Teknik Sipil"
+    },
+    {
+        "name": "Teknologi Rekayasa Manufaktur",
+        "department": "Teknik Mesin"
+    },
+    {
+        "name": "Teknik Manufaktur Kapal",
+        "department": "Teknik Mesin"
+    },
+    {
+        "name": "Manajemen Bisnis Pariwisata",
+        "department": "Pariwisata"
+    },
+    {
+        "name": "Destinasi Pariwisata",
+        "department": "Pariwisata"
+    },
+    {
+        "name": "Pengelolaan Perhotelan",
+        "department": "Pariwisata"
+    },
+    {
+        "name": "Agribisnis",
+        "department": "Pertanian"
+    },
+    {
+        "name": "Teknologi Pengolahan Hasil Ternak",
+        "department": "Pertanian"
+    },
+    {
+        "name": "Pengembangan Produk Agroindustri",
+        "department": "Pertanian"
+    },
+    {
+        "name": "Teknologi Budi Daya Perikanan",
+        "department": "Pertanian"
+    },
+    {
+        "name": "Teknologi Produksi Tanaman Pangan",
+        "department": "Pertanian"
+    },
+    {
+        "name": "Teknologi Produksi Ternak",
+        "department": "Pertanian"
+    }
+]

@@ -1,0 +1,6674 @@
+[
+	{
+		"publisher_id": 13,
+		"publisher_name": "Penerbit INFORMATIKA",
+		"input_date": "2011-10-27",
+		"last_update": "2011-10-27"
+	},
+	{
+		"publisher_id": 18,
+		"publisher_name": "ELEX media Computindo",
+		"input_date": "2011-10-27",
+		"last_update": "2011-10-27"
+	},
+	{
+		"publisher_id": 14,
+		"publisher_name": "Gramedia",
+		"input_date": "2011-10-27",
+		"last_update": "2011-10-27"
+	},
+	{
+		"publisher_id": 15,
+		"publisher_name": "Al Mizan",
+		"input_date": "2011-10-27",
+		"last_update": "2011-10-27"
+	},
+	{
+		"publisher_id": 16,
+		"publisher_name": "Erlangga",
+		"input_date": "2011-10-27",
+		"last_update": "2011-10-27"
+	},
+	{
+		"publisher_id": 17,
+		"publisher_name": "Andy Publiser",
+		"input_date": "2011-10-27",
+		"last_update": "2011-10-27"
+	},
+	{
+		"publisher_id": 19,
+		"publisher_name": "MAXICOM",
+		"input_date": "2011-10-29",
+		"last_update": "2011-10-31"
+	},
+	{
+		"publisher_id": 20,
+		"publisher_name": "GRAHA ILMU",
+		"input_date": "2011-10-29",
+		"last_update": "2011-10-29"
+	},
+	{
+		"publisher_id": 21,
+		"publisher_name": "INFORMATIKA BANDUNG",
+		"input_date": "2011-10-29",
+		"last_update": "2011-10-29"
+	},
+	{
+		"publisher_id": 22,
+		"publisher_name": "SALEMBA TEKNIKA",
+		"input_date": "2011-10-29",
+		"last_update": "2011-10-29"
+	},
+	{
+		"publisher_id": 23,
+		"publisher_name": "YRAMA WIDYA",
+		"input_date": "2011-10-29",
+		"last_update": "2011-10-29"
+	},
+	{
+		"publisher_id": 24,
+		"publisher_name": "MEDIAKOM",
+		"input_date": "2011-10-30",
+		"last_update": "2011-10-30"
+	},
+	{
+		"publisher_id": 25,
+		"publisher_name": "ARDANA MEDIA",
+		"input_date": "2011-10-30",
+		"last_update": "2011-10-30"
+	},
+	{
+		"publisher_id": 28,
+		"publisher_name": "ANDI OFFSET",
+		"input_date": "2011-10-30",
+		"last_update": "2011-10-30"
+	},
+	{
+		"publisher_id": 29,
+		"publisher_name": "SALEMBA INFOTEK",
+		"input_date": "2011-10-31",
+		"last_update": "2011-10-31"
+	},
+	{
+		"publisher_id": 32,
+		"publisher_name": "PRADNYA PARAMITA",
+		"input_date": "2011-11-01",
+		"last_update": "2011-11-01"
+	},
+	{
+		"publisher_id": 33,
+		"publisher_name": "BUMI AKSARA",
+		"input_date": "2011-11-01",
+		"last_update": "2011-11-01"
+	},
+	{
+		"publisher_id": 36,
+		"publisher_name": "REKAYASA SAINS",
+		"input_date": "2011-11-03",
+		"last_update": "2011-11-03"
+	},
+	{
+		"publisher_id": 37,
+		"publisher_name": "HASTA",
+		"input_date": "2011-11-04",
+		"last_update": "2011-11-04"
+	},
+	{
+		"publisher_id": 38,
+		"publisher_name": "GITAMEDIA PRESS",
+		"input_date": "2011-11-04",
+		"last_update": "2011-11-04"
+	},
+	{
+		"publisher_id": 39,
+		"publisher_name": "PANJI PUSTAKA",
+		"input_date": "2011-11-04",
+		"last_update": "2011-11-04"
+	},
+	{
+		"publisher_id": 40,
+		"publisher_name": "KARISMA PUBLISHING GROUP",
+		"input_date": "2011-11-04",
+		"last_update": "2011-11-04"
+	},
+	{
+		"publisher_id": 41,
+		"publisher_name": "PUSTAKA GRAFIKA",
+		"input_date": "2011-11-04",
+		"last_update": "2011-11-04"
+	},
+	{
+		"publisher_id": 43,
+		"publisher_name": "MEGA AKSARA",
+		"input_date": "2011-11-04",
+		"last_update": "2011-11-04"
+	},
+	{
+		"publisher_id": 44,
+		"publisher_name": "PUSTAKA SETIA",
+		"input_date": "2011-11-04",
+		"last_update": "2011-11-04"
+	},
+	{
+		"publisher_id": 46,
+		"publisher_name": "RINEKA CIPTA",
+		"input_date": "2011-11-04",
+		"last_update": "2011-11-04"
+	},
+	{
+		"publisher_id": 47,
+		"publisher_name": "CITRA HARTA PRIMA",
+		"input_date": "2011-11-04",
+		"last_update": "2011-11-04"
+	},
+	{
+		"publisher_id": 48,
+		"publisher_name": "BINARUPA AKSARA",
+		"input_date": "2011-11-04",
+		"last_update": "2011-11-04"
+	},
+	{
+		"publisher_id": 53,
+		"publisher_name": "SALEMBA EMPAT",
+		"input_date": "2011-11-29",
+		"last_update": "2011-11-29"
+	},
+	{
+		"publisher_id": 55,
+		"publisher_name": "BADAN PENERBIT FILSAFAT UGM",
+		"input_date": "2012-02-03",
+		"last_update": "2012-02-03"
+	},
+	{
+		"publisher_id": 56,
+		"publisher_name": "TAZKIA CENDEKIA",
+		"input_date": "2012-02-03",
+		"last_update": "2012-02-03"
+	},
+	{
+		"publisher_id": 57,
+		"publisher_name": "ANDI YOGYAKARTA",
+		"input_date": "2012-02-03",
+		"last_update": "2012-02-03"
+	},
+	{
+		"publisher_id": 58,
+		"publisher_name": "ZENITH PUBLISHER",
+		"input_date": "2012-02-03",
+		"last_update": "2012-02-03"
+	},
+	{
+		"publisher_id": 59,
+		"publisher_name": "WILEY PUBLISHING",
+		"input_date": "2012-02-03",
+		"last_update": "2012-02-03"
+	},
+	{
+		"publisher_id": 61,
+		"publisher_name": "PEARSON EDUCATION",
+		"input_date": "2012-02-03",
+		"last_update": "2012-02-03"
+	},
+	{
+		"publisher_id": 62,
+		"publisher_name": "THOMSON COURSE TECHNOLOGY",
+		"input_date": "2012-02-03",
+		"last_update": "2012-02-03"
+	},
+	{
+		"publisher_id": 65,
+		"publisher_name": "PT BUMI AKSARA",
+		"input_date": "2012-02-06",
+		"last_update": "2012-02-06"
+	},
+	{
+		"publisher_id": 66,
+		"publisher_name": "NeduFire  GROUP",
+		"input_date": "2012-02-06",
+		"last_update": "2012-02-06"
+	},
+	{
+		"publisher_id": 67,
+		"publisher_name": "ELSEVIER, INC.",
+		"input_date": "2012-02-06",
+		"last_update": "2012-02-06"
+	},
+	{
+		"publisher_id": 72,
+		"publisher_name": "CENGAGE LEARNING",
+		"input_date": "2012-02-08",
+		"last_update": "2012-02-08"
+	},
+	{
+		"publisher_id": 73,
+		"publisher_name": "COURSE TECHNOLOGY",
+		"input_date": "2012-02-08",
+		"last_update": "2012-02-08"
+	},
+	{
+		"publisher_id": 75,
+		"publisher_name": "MICROSOFT PRESS",
+		"input_date": "2012-02-16",
+		"last_update": "2012-02-16"
+	},
+	{
+		"publisher_id": 76,
+		"publisher_name": "PREMIER PRESS",
+		"input_date": "2012-02-17",
+		"last_update": "2012-02-17"
+	},
+	{
+		"publisher_id": 77,
+		"publisher_name": "PRENTICE HALL",
+		"input_date": "2012-02-20",
+		"last_update": "2012-02-20"
+	},
+	{
+		"publisher_id": 78,
+		"publisher_name": "WORLD SCIENTIFIC PUBLISHING CO.",
+		"input_date": "2012-02-24",
+		"last_update": "2012-02-24"
+	},
+	{
+		"publisher_id": 79,
+		"publisher_name": "PUBLICIS CORPORATE PUBLISHING",
+		"input_date": "2012-02-24",
+		"last_update": "2012-02-24"
+	},
+	{
+		"publisher_id": 80,
+		"publisher_name": "TAYLOR AND FRANCIS GROUP,LLC",
+		"input_date": "2012-02-24",
+		"last_update": "2012-02-24"
+	},
+	{
+		"publisher_id": 81,
+		"publisher_name": "IVY PUBLISHING HOUSE",
+		"input_date": "2012-02-24",
+		"last_update": "2012-02-24"
+	},
+	{
+		"publisher_id": 82,
+		"publisher_name": "NEW JERSEY",
+		"input_date": "2012-02-24",
+		"last_update": "2012-02-24"
+	},
+	{
+		"publisher_id": 83,
+		"publisher_name": "WESTNET LEARNING TECHNOLOGIES",
+		"input_date": "2012-02-28",
+		"last_update": "2012-02-28"
+	},
+	{
+		"publisher_id": 84,
+		"publisher_name": "CISCO PRESS",
+		"input_date": "2012-02-28",
+		"last_update": "2012-02-28"
+	},
+	{
+		"publisher_id": 85,
+		"publisher_name": "TATA McGRAW HILL PUBLISHING CO",
+		"input_date": "2012-02-28",
+		"last_update": "2012-02-28"
+	},
+	{
+		"publisher_id": 88,
+		"publisher_name": "CHARLES RIVER MEDIA INC",
+		"input_date": "2012-03-05",
+		"last_update": "2012-03-05"
+	},
+	{
+		"publisher_id": 96,
+		"publisher_name": "NATURE PUBLISHING GROUP",
+		"input_date": "2012-03-13",
+		"last_update": "2012-03-13"
+	},
+	{
+		"publisher_id": 97,
+		"publisher_name": "MUSKA&LIPMAN PUBLISHING",
+		"input_date": "2012-03-13",
+		"last_update": "2012-03-13"
+	},
+	{
+		"publisher_id": 99,
+		"publisher_name": "DELMAR PUBLISHING",
+		"input_date": "2012-03-13",
+		"last_update": "2012-03-13"
+	},
+	{
+		"publisher_id": 102,
+		"publisher_name": "ADOBE PRE",
+		"input_date": "2012-03-14",
+		"last_update": "2012-03-14"
+	},
+	{
+		"publisher_id": 103,
+		"publisher_name": "ADOBE SYSTEMS INC.",
+		"input_date": "2012-03-14",
+		"last_update": "2012-03-14"
+	},
+	{
+		"publisher_id": 105,
+		"publisher_name": "WADSWORTH PUBLISHING COMPANY",
+		"input_date": "2012-03-14",
+		"last_update": "2012-03-14"
+	},
+	{
+		"publisher_id": 106,
+		"publisher_name": "THOMSON DELMAR LEARNING",
+		"input_date": "2012-03-15",
+		"last_update": "2012-03-15"
+	},
+	{
+		"publisher_id": 108,
+		"publisher_name": "MEDIA EKA PUSTAKA",
+		"input_date": "2012-04-03",
+		"last_update": "2012-04-03"
+	},
+	{
+		"publisher_id": 109,
+		"publisher_name": "NEW RIDERS PUBLISHING",
+		"input_date": "2012-04-11",
+		"last_update": "2012-04-11"
+	},
+	{
+		"publisher_id": 119,
+		"publisher_name": "CHAMAN ENTERPRISES",
+		"input_date": "2012-05-07",
+		"last_update": "2012-05-07"
+	},
+	{
+		"publisher_id": 121,
+		"publisher_name": "GULF PROFESSIONAL PUBLISHING",
+		"input_date": "2012-05-07",
+		"last_update": "2012-05-07"
+	},
+	{
+		"publisher_id": 122,
+		"publisher_name": "NAZIA PRINTERS",
+		"input_date": "2012-05-07",
+		"last_update": "2012-05-07"
+	},
+	{
+		"publisher_id": 124,
+		"publisher_name": "AMERICAN SOCIETY OF CIVIL ENGINEERS",
+		"input_date": "2012-05-07",
+		"last_update": "2012-05-07"
+	},
+	{
+		"publisher_id": 125,
+		"publisher_name": "ISTE LTD",
+		"input_date": "2012-05-07",
+		"last_update": "2012-05-07"
+	},
+	{
+		"publisher_id": 128,
+		"publisher_name": "AMERICAN CONCRETE INSTITUTE",
+		"input_date": "2012-05-08",
+		"last_update": "2012-05-08"
+	},
+	{
+		"publisher_id": 129,
+		"publisher_name": "BIRKHAUSER",
+		"input_date": "2012-05-08",
+		"last_update": "2012-05-08"
+	},
+	{
+		"publisher_id": 132,
+		"publisher_name": "SPRINGER SCIENCE",
+		"input_date": "2012-05-29",
+		"last_update": "2012-05-29"
+	},
+	{
+		"publisher_id": 133,
+		"publisher_name": "CAMBRIDGE UNIVERSITY PRESS",
+		"input_date": "2012-05-29",
+		"last_update": "2012-05-29"
+	},
+	{
+		"publisher_id": 134,
+		"publisher_name": "CENCAGE LEARNING",
+		"input_date": "2012-05-30",
+		"last_update": "2012-05-30"
+	},
+	{
+		"publisher_id": 140,
+		"publisher_name": "NOYES PUBLICATIONS",
+		"input_date": "2012-06-05",
+		"last_update": "2012-06-05"
+	},
+	{
+		"publisher_id": 141,
+		"publisher_name": "HANSER PUBLISHING",
+		"input_date": "2012-06-06",
+		"last_update": "2012-06-06"
+	},
+	{
+		"publisher_id": 142,
+		"publisher_name": "PWS PUBLISHING COMPANY",
+		"input_date": "2012-06-06",
+		"last_update": "2012-06-06"
+	},
+	{
+		"publisher_id": 143,
+		"publisher_name": "WILEY-VCH",
+		"input_date": "2012-06-07",
+		"last_update": "2012-06-07"
+	},
+	{
+		"publisher_id": 144,
+		"publisher_name": "THOMSON CANADA LIMITED",
+		"input_date": "2012-06-12",
+		"last_update": "2012-06-12"
+	},
+	{
+		"publisher_id": 145,
+		"publisher_name": "ALPHA BOOKS",
+		"input_date": "2012-06-28",
+		"last_update": "2012-06-28"
+	},
+	{
+		"publisher_id": 146,
+		"publisher_name": "THOMSON SOUTH-WESTERN",
+		"input_date": "2012-06-28",
+		"last_update": "2012-06-28"
+	},
+	{
+		"publisher_id": 147,
+		"publisher_name": "ACM PRESS",
+		"input_date": "2012-06-28",
+		"last_update": "2012-06-28"
+	},
+	{
+		"publisher_id": 148,
+		"publisher_name": "MORGAN KAUFMANN PUBLISHERS",
+		"input_date": "2012-06-28",
+		"last_update": "2012-06-28"
+	},
+	{
+		"publisher_id": 149,
+		"publisher_name": "APH PUBLISHING CORPORATION",
+		"input_date": "2012-07-10",
+		"last_update": "2012-07-10"
+	},
+	{
+		"publisher_id": 150,
+		"publisher_name": "DISCOVERY PUBLISHING HOUSE",
+		"input_date": "2012-07-10",
+		"last_update": "2012-07-10"
+	},
+	{
+		"publisher_id": 151,
+		"publisher_name": "ANDI OFFSET PUBLISHING",
+		"input_date": "2012-07-12",
+		"last_update": "2012-07-12"
+	},
+	{
+		"publisher_id": 152,
+		"publisher_name": "GAVA MEDIA",
+		"input_date": "2012-07-12",
+		"last_update": "2012-07-12"
+	},
+	{
+		"publisher_id": 153,
+		"publisher_name": "MODULA",
+		"input_date": "2012-07-13",
+		"last_update": "2012-07-13"
+	},
+	{
+		"publisher_id": 154,
+		"publisher_name": "AUTHORSPRESS",
+		"input_date": "2012-07-13",
+		"last_update": "2012-07-13"
+	},
+	{
+		"publisher_id": 155,
+		"publisher_name": "QUEPUBLISHING",
+		"input_date": "2012-07-13",
+		"last_update": "2012-07-13"
+	},
+	{
+		"publisher_id": 156,
+		"publisher_name": "OXFORD UNIVERSITY PRESS",
+		"input_date": "2012-07-16",
+		"last_update": "2012-07-16"
+	},
+	{
+		"publisher_id": 157,
+		"publisher_name": "AIRLANGGA",
+		"input_date": "2012-07-17",
+		"last_update": "2012-07-17"
+	},
+	{
+		"publisher_id": 158,
+		"publisher_name": "THAMES & HUDSON, LTD",
+		"input_date": "2012-07-18",
+		"last_update": "2012-07-18"
+	},
+	{
+		"publisher_id": 159,
+		"publisher_name": "PEACHPIT PRESS",
+		"input_date": "2012-07-20",
+		"last_update": "2012-07-20"
+	},
+	{
+		"publisher_id": 160,
+		"publisher_name": "ANGKASA",
+		"input_date": "2012-07-23",
+		"last_update": "2012-07-23"
+	},
+	{
+		"publisher_id": 161,
+		"publisher_name": "POLITEKNIK NEGERI BANDUNG",
+		"input_date": "2012-07-23",
+		"last_update": "2012-07-23"
+	},
+	{
+		"publisher_id": 162,
+		"publisher_name": "BETA OFFSET",
+		"input_date": "2012-07-23",
+		"last_update": "2012-07-23"
+	},
+	{
+		"publisher_id": 163,
+		"publisher_name": "KANISIUS",
+		"input_date": "2012-07-23",
+		"last_update": "2012-07-23"
+	},
+	{
+		"publisher_id": 164,
+		"publisher_name": "RAND CORPORATION",
+		"input_date": "2012-07-23",
+		"last_update": "2012-07-23"
+	},
+	{
+		"publisher_id": 165,
+		"publisher_name": "EMERALD GROUP PUBLISHING",
+		"input_date": "2012-07-24",
+		"last_update": "2012-07-24"
+	},
+	{
+		"publisher_id": 166,
+		"publisher_name": "PENERBIT ITB",
+		"input_date": "2012-07-24",
+		"last_update": "2012-07-24"
+	},
+	{
+		"publisher_id": 169,
+		"publisher_name": "GADJAH MADA UNIVERSITY PRESS",
+		"input_date": "2012-07-25",
+		"last_update": "2012-07-25"
+	},
+	{
+		"publisher_id": 170,
+		"publisher_name": "ALFABETA",
+		"input_date": "2012-07-25",
+		"last_update": "2012-07-25"
+	},
+	{
+		"publisher_id": 171,
+		"publisher_name": "REFIKA ADITAMA",
+		"input_date": "2012-07-25",
+		"last_update": "2012-07-25"
+	},
+	{
+		"publisher_id": 172,
+		"publisher_name": "THOMAS TELFORD",
+		"input_date": "2012-07-25",
+		"last_update": "2012-07-25"
+	},
+	{
+		"publisher_id": 173,
+		"publisher_name": "DJAMBATAN",
+		"input_date": "2012-07-25",
+		"last_update": "2012-07-25"
+	},
+	{
+		"publisher_id": 174,
+		"publisher_name": "UNIVERSITAS ATMAJAYA YOGYAKARTA",
+		"input_date": "2012-07-25",
+		"last_update": "2012-07-25"
+	},
+	{
+		"publisher_id": 175,
+		"publisher_name": "RAJA GRAFINDO PERSADA",
+		"input_date": "2012-07-25",
+		"last_update": "2012-07-25"
+	},
+	{
+		"publisher_id": 176,
+		"publisher_name": "WILEY-BLACKWELL",
+		"input_date": "2012-07-25",
+		"last_update": "2012-07-25"
+	},
+	{
+		"publisher_id": 177,
+		"publisher_name": "WOODHEAD PUBLISHING LIMITED",
+		"input_date": "2012-07-26",
+		"last_update": "2012-07-26"
+	},
+	{
+		"publisher_id": 178,
+		"publisher_name": "GRAMEDIA PUSTAKA UTAMA",
+		"input_date": "2012-07-27",
+		"last_update": "2012-07-27"
+	},
+	{
+		"publisher_id": 179,
+		"publisher_name": "MANDAR MAJU",
+		"input_date": "2012-07-27",
+		"last_update": "2012-07-27"
+	},
+	{
+		"publisher_id": 180,
+		"publisher_name": "P.T. ALUMNI",
+		"input_date": "2012-07-30",
+		"last_update": "2012-07-30"
+	},
+	{
+		"publisher_id": 181,
+		"publisher_name": "MOMENTUM PRESS",
+		"input_date": "2012-12-12",
+		"last_update": "2012-12-12"
+	},
+	{
+		"publisher_id": 182,
+		"publisher_name": "JOSSEY BASS",
+		"input_date": "2012-12-28",
+		"last_update": "2012-12-28"
+	},
+	{
+		"publisher_id": 183,
+		"publisher_name": "BLOOMBERG PRESS",
+		"input_date": "2012-12-28",
+		"last_update": "2012-12-28"
+	},
+	{
+		"publisher_id": 184,
+		"publisher_name": "LYNNE RIENNER PUBLISHERS",
+		"input_date": "2013-01-02",
+		"last_update": "2013-01-02"
+	},
+	{
+		"publisher_id": 185,
+		"publisher_name": "W.W NORTON & COMPANY, Inc",
+		"input_date": "2013-01-02",
+		"last_update": "2013-01-02"
+	},
+	{
+		"publisher_id": 186,
+		"publisher_name": "McGraw-Hill",
+		"input_date": "2013-01-02",
+		"last_update": "2013-01-02"
+	},
+	{
+		"publisher_id": 187,
+		"publisher_name": "McGraw-Hill Irwin",
+		"input_date": "2013-01-02",
+		"last_update": "2013-01-02"
+	},
+	{
+		"publisher_id": 188,
+		"publisher_name": "Jossey-Bass",
+		"input_date": "2013-01-02",
+		"last_update": "2013-01-02"
+	},
+	{
+		"publisher_id": 189,
+		"publisher_name": "UNICEF",
+		"input_date": "2013-01-02",
+		"last_update": "2013-01-02"
+	},
+	{
+		"publisher_id": 190,
+		"publisher_name": "ITS PRESS",
+		"input_date": "2013-12-19",
+		"last_update": "2013-12-19"
+	},
+	{
+		"publisher_id": 191,
+		"publisher_name": "McDOUGAL LITTEL",
+		"input_date": "2013-12-20",
+		"last_update": "2013-12-20"
+	},
+	{
+		"publisher_id": 192,
+		"publisher_name": "POLHEMUS PRESS",
+		"input_date": "2013-12-20",
+		"last_update": "2013-12-20"
+	},
+	{
+		"publisher_id": 193,
+		"publisher_name": "McGRAWHILL\/SRA",
+		"input_date": "2013-12-20",
+		"last_update": "2013-12-20"
+	},
+	{
+		"publisher_id": 194,
+		"publisher_name": "HARCOURT SCHOOL PUBLISHERS",
+		"input_date": "2013-12-20",
+		"last_update": "2013-12-20"
+	},
+	{
+		"publisher_id": 195,
+		"publisher_name": "HOUGHTON MIFFLIN",
+		"input_date": "2013-12-20",
+		"last_update": "2013-12-20"
+	},
+	{
+		"publisher_id": 196,
+		"publisher_name": "BINACIPTA",
+		"input_date": "2013-12-23",
+		"last_update": "2013-12-23"
+	},
+	{
+		"publisher_id": 197,
+		"publisher_name": "DPU & TL",
+		"input_date": "2013-12-23",
+		"last_update": "2013-12-23"
+	},
+	{
+		"publisher_id": 198,
+		"publisher_name": "VAN NOSTRAND REINHOLD COMPANY",
+		"input_date": "2013-12-23",
+		"last_update": "2013-12-23"
+	},
+	{
+		"publisher_id": 199,
+		"publisher_name": "HOLDEN DAY",
+		"input_date": "2013-12-23",
+		"last_update": "2013-12-23"
+	},
+	{
+		"publisher_id": 200,
+		"publisher_name": "THE WESTMINSTER PRESS",
+		"input_date": "2013-12-23",
+		"last_update": "2013-12-23"
+	},
+	{
+		"publisher_id": 201,
+		"publisher_name": "PORTLAND CEMENT ASSOCIATION",
+		"input_date": "2013-12-23",
+		"last_update": "2013-12-23"
+	},
+	{
+		"publisher_id": 202,
+		"publisher_name": "D.C. HEATH AND COMPANY",
+		"input_date": "2013-12-23",
+		"last_update": "2013-12-23"
+	},
+	{
+		"publisher_id": 203,
+		"publisher_name": "STANDARD ASSOCIATION OF AUSTRALIA",
+		"input_date": "2013-12-24",
+		"last_update": "2013-12-24"
+	},
+	{
+		"publisher_id": 204,
+		"publisher_name": "STRUCTURES PUBLISHING COMPANY",
+		"input_date": "2013-12-24",
+		"last_update": "2013-12-24"
+	},
+	{
+		"publisher_id": 205,
+		"publisher_name": "HOUGHTON MIFFLIN COMPANY",
+		"input_date": "2013-12-24",
+		"last_update": "2013-12-24"
+	},
+	{
+		"publisher_id": 206,
+		"publisher_name": "IKATAN ARSITEK INDONESIA",
+		"input_date": "2013-12-24",
+		"last_update": "2013-12-24"
+	},
+	{
+		"publisher_id": 207,
+		"publisher_name": "STUDIO VISTA LONDON",
+		"input_date": "2013-12-24",
+		"last_update": "2013-12-24"
+	},
+	{
+		"publisher_id": 208,
+		"publisher_name": "PT. GRAMEDIA PUSTAKA UTAMA",
+		"input_date": "2013-12-24",
+		"last_update": "2013-12-24"
+	},
+	{
+		"publisher_id": 209,
+		"publisher_name": "LIBERTY",
+		"input_date": "2013-12-31",
+		"last_update": "2013-12-31"
+	},
+	{
+		"publisher_id": 210,
+		"publisher_name": "CIPTA OFFSET",
+		"input_date": "2013-12-31",
+		"last_update": "2013-12-31"
+	},
+	{
+		"publisher_id": 211,
+		"publisher_name": "SEAMOLEC",
+		"input_date": "2013-12-31",
+		"last_update": "2013-12-31"
+	},
+	{
+		"publisher_id": 212,
+		"publisher_name": "USAHA NASIONAL",
+		"input_date": "2013-12-31",
+		"last_update": "2013-12-31"
+	},
+	{
+		"publisher_id": 213,
+		"publisher_name": "AIRLANGGA UNIVERSITY PRESS",
+		"input_date": "2013-12-31",
+		"last_update": "2013-12-31"
+	},
+	{
+		"publisher_id": 214,
+		"publisher_name": "ALFAMAMI",
+		"input_date": "2013-12-31",
+		"last_update": "2013-12-31"
+	},
+	{
+		"publisher_id": 215,
+		"publisher_name": "DIVA PRESS",
+		"input_date": "2013-12-31",
+		"last_update": "2013-12-31"
+	},
+	{
+		"publisher_id": 216,
+		"publisher_name": "DELTA TEKNIK GROUP",
+		"input_date": "2014-01-03",
+		"last_update": "2014-01-03"
+	},
+	{
+		"publisher_id": 217,
+		"publisher_name": "THE MIT PRESS",
+		"input_date": "2014-01-06",
+		"last_update": "2014-01-06"
+	},
+	{
+		"publisher_id": 218,
+		"publisher_name": "PT. GUNA WIDYA",
+		"input_date": "2014-01-06",
+		"last_update": "2014-01-06"
+	},
+	{
+		"publisher_id": 219,
+		"publisher_name": "CV. MANDAR MAJU",
+		"input_date": "2014-01-07",
+		"last_update": "2014-01-07"
+	},
+	{
+		"publisher_id": 220,
+		"publisher_name": "WILEY DREAMTECH",
+		"input_date": "2014-01-07",
+		"last_update": "2014-01-07"
+	},
+	{
+		"publisher_id": 221,
+		"publisher_name": "PENERBIT BUKU KOMPAS",
+		"input_date": "2014-01-07",
+		"last_update": "2014-01-07"
+	},
+	{
+		"publisher_id": 222,
+		"publisher_name": "SOUTH-WESTERN COLLEGE PUBLISHING",
+		"input_date": "2014-01-28",
+		"last_update": "2014-01-28"
+	},
+	{
+		"publisher_id": 223,
+		"publisher_name": "BARRON'S EDUCATIONAL SERIES, INC",
+		"input_date": "2014-01-28",
+		"last_update": "2014-01-28"
+	},
+	{
+		"publisher_id": 224,
+		"publisher_name": "PENERBIT ANDI",
+		"input_date": "2014-01-28",
+		"last_update": "2014-01-28"
+	},
+	{
+		"publisher_id": 225,
+		"publisher_name": "UNIVERSITAS ATMA JAYA",
+		"input_date": "2014-01-28",
+		"last_update": "2014-01-28"
+	},
+	{
+		"publisher_id": 226,
+		"publisher_name": "CITRA UMBARA",
+		"input_date": "2014-01-28",
+		"last_update": "2014-01-28"
+	},
+	{
+		"publisher_id": 227,
+		"publisher_name": "PT. ELEX MEDIA KOMPUTINDO",
+		"input_date": "2014-01-30",
+		"last_update": "2014-01-30"
+	},
+	{
+		"publisher_id": 228,
+		"publisher_name": "PUSTAKA BARU PRESS",
+		"input_date": "2014-01-30",
+		"last_update": "2014-01-30"
+	},
+	{
+		"publisher_id": 229,
+		"publisher_name": "CV. YRAMA WIDYA",
+		"input_date": "2014-01-30",
+		"last_update": "2014-01-30"
+	},
+	{
+		"publisher_id": 230,
+		"publisher_name": "PRESTASI PUSTAKA PUBLISHER",
+		"input_date": "2014-01-30",
+		"last_update": "2014-01-30"
+	},
+	{
+		"publisher_id": 231,
+		"publisher_name": "ASWAJA PRESS",
+		"input_date": "2014-01-30",
+		"last_update": "2014-01-30"
+	},
+	{
+		"publisher_id": 232,
+		"publisher_name": "LOKOMEDIA",
+		"input_date": "2014-01-30",
+		"last_update": "2014-01-30"
+	},
+	{
+		"publisher_id": 233,
+		"publisher_name": "PT. ALIF MEDIA",
+		"input_date": "2014-02-03",
+		"last_update": "2014-02-03"
+	},
+	{
+		"publisher_id": 234,
+		"publisher_name": "PT. SKRIPTA MEDIA CREATIVE",
+		"input_date": "2014-02-03",
+		"last_update": "2014-02-03"
+	},
+	{
+		"publisher_id": 235,
+		"publisher_name": "UST PRESS",
+		"input_date": "2014-02-04",
+		"last_update": "2014-02-04"
+	},
+	{
+		"publisher_id": 236,
+		"publisher_name": "PRESTASI PUSTAKARAYA",
+		"input_date": "2014-02-04",
+		"last_update": "2014-02-04"
+	},
+	{
+		"publisher_id": 237,
+		"publisher_name": "KASHIKO PUBLISHER",
+		"input_date": "2014-02-04",
+		"last_update": "2014-02-04"
+	},
+	{
+		"publisher_id": 238,
+		"publisher_name": "COMMONWEALTH OF AUSTRALIA",
+		"input_date": "2014-02-04",
+		"last_update": "2014-02-04"
+	},
+	{
+		"publisher_id": 239,
+		"publisher_name": "Departemen Energi dan Sumber Daya Mineral",
+		"input_date": "2014-02-04",
+		"last_update": "2014-02-04"
+	},
+	{
+		"publisher_id": 240,
+		"publisher_name": "UMM PRESS",
+		"input_date": "2014-02-05",
+		"last_update": "2014-02-05"
+	},
+	{
+		"publisher_id": 241,
+		"publisher_name": "BHRATARA",
+		"input_date": "2014-02-10",
+		"last_update": "2014-02-10"
+	},
+	{
+		"publisher_id": 242,
+		"publisher_name": "ERLANGA",
+		"input_date": "2014-09-10",
+		"last_update": "2014-09-10"
+	},
+	{
+		"publisher_id": 243,
+		"publisher_name": "ANDI OPSET",
+		"input_date": "2014-09-10",
+		"last_update": "2014-09-10"
+	},
+	{
+		"publisher_id": 244,
+		"publisher_name": "ANDI OFFET",
+		"input_date": "2014-09-11",
+		"last_update": "2014-09-11"
+	},
+	{
+		"publisher_id": 245,
+		"publisher_name": "PT ELEX MEDIA KOMPUTINDO",
+		"input_date": "2014-09-16",
+		"last_update": "2014-09-16"
+	},
+	{
+		"publisher_id": 246,
+		"publisher_name": "RAJAWALI PERS",
+		"input_date": "2014-09-18",
+		"last_update": "2014-09-18"
+	},
+	{
+		"publisher_id": 247,
+		"publisher_name": "PENEBAR SWADAYA",
+		"input_date": "2014-09-19",
+		"last_update": "2014-09-19"
+	},
+	{
+		"publisher_id": 248,
+		"publisher_name": "yescom",
+		"input_date": "2014-09-24",
+		"last_update": "2014-09-24"
+	},
+	{
+		"publisher_id": 249,
+		"publisher_name": "INDEKS",
+		"input_date": "2014-09-29",
+		"last_update": "2014-09-29"
+	},
+	{
+		"publisher_id": 250,
+		"publisher_name": "JEMBER UNIVERSITY  PRESS",
+		"input_date": "2014-09-29",
+		"last_update": "2014-09-29"
+	},
+	{
+		"publisher_id": 252,
+		"publisher_name": "ANGKASA BANDUNG",
+		"input_date": "2014-10-02",
+		"last_update": "2014-10-02"
+	},
+	{
+		"publisher_id": 253,
+		"publisher_name": "PT MEDIA GLOBAL EDUKASI",
+		"input_date": "2014-10-03",
+		"last_update": "2014-10-03"
+	},
+	{
+		"publisher_id": 254,
+		"publisher_name": "KENCANA",
+		"input_date": "2014-10-03",
+		"last_update": "2014-10-03"
+	},
+	{
+		"publisher_id": 256,
+		"publisher_name": "SELEMBA EMPAT",
+		"input_date": "2014-10-08",
+		"last_update": "2014-10-08"
+	},
+	{
+		"publisher_id": 257,
+		"publisher_name": "GRASINDO",
+		"input_date": "2014-10-22",
+		"last_update": "2014-10-22"
+	},
+	{
+		"publisher_id": 258,
+		"publisher_name": "G-MEDIA",
+		"input_date": "2014-10-23",
+		"last_update": "2014-10-23"
+	},
+	{
+		"publisher_id": 259,
+		"publisher_name": "PT AGRO MEDIA PUSTAKA",
+		"input_date": "2014-11-10",
+		"last_update": "2014-11-10"
+	},
+	{
+		"publisher_id": 260,
+		"publisher_name": "YAYASAN UNILEVER INDONESIA",
+		"input_date": "2014-11-10",
+		"last_update": "2014-11-10"
+	},
+	{
+		"publisher_id": 261,
+		"publisher_name": "PT RAJAGRAFINDO PERSADA",
+		"input_date": "2014-11-10",
+		"last_update": "2014-11-10"
+	},
+	{
+		"publisher_id": 262,
+		"publisher_name": "RUKO JAMBUSARI",
+		"input_date": "2014-11-10",
+		"last_update": "2014-11-10"
+	},
+	{
+		"publisher_id": 263,
+		"publisher_name": "SYUKRI S",
+		"input_date": "2014-11-10",
+		"last_update": "2014-11-10"
+	},
+	{
+		"publisher_id": 264,
+		"publisher_name": "CHANGE PUBLICATION",
+		"input_date": "2014-11-10",
+		"last_update": "2014-11-10"
+	},
+	{
+		"publisher_id": 265,
+		"publisher_name": "GHALIA INDONESIA",
+		"input_date": "2014-11-10",
+		"last_update": "2014-11-10"
+	},
+	{
+		"publisher_id": 266,
+		"publisher_name": "UI-PRESS",
+		"input_date": "2014-11-10",
+		"last_update": "2014-11-10"
+	},
+	{
+		"publisher_id": 267,
+		"publisher_name": "GOSYEN PUBLISHING",
+		"input_date": "2014-11-11",
+		"last_update": "2014-11-11"
+	},
+	{
+		"publisher_id": 268,
+		"publisher_name": "GADJA MADA UNIVERSITY PRESS",
+		"input_date": "2014-11-14",
+		"last_update": "2014-11-14"
+	},
+	{
+		"publisher_id": 269,
+		"publisher_name": "IRCISOD",
+		"input_date": "2014-11-14",
+		"last_update": "2014-11-14"
+	},
+	{
+		"publisher_id": 270,
+		"publisher_name": "BUKU KEDOKTERAN EGC",
+		"input_date": "2014-11-14",
+		"last_update": "2014-11-14"
+	},
+	{
+		"publisher_id": 271,
+		"publisher_name": "ERLAGGA",
+		"input_date": "2014-11-14",
+		"last_update": "2014-11-14"
+	},
+	{
+		"publisher_id": 272,
+		"publisher_name": "UNIVERSITAS BRAWIJAYA PRESS",
+		"input_date": "2014-11-14",
+		"last_update": "2014-11-14"
+	},
+	{
+		"publisher_id": 273,
+		"publisher_name": "ABUDDIN NATA,HAJI",
+		"input_date": "2014-11-17",
+		"last_update": "2014-11-17"
+	},
+	{
+		"publisher_id": 274,
+		"publisher_name": "KANAL PUBLIKA",
+		"input_date": "2014-11-17",
+		"last_update": "2014-11-17"
+	},
+	{
+		"publisher_id": 275,
+		"publisher_name": "PT INDEKS",
+		"input_date": "2014-11-17",
+		"last_update": "2014-11-17"
+	},
+	{
+		"publisher_id": 276,
+		"publisher_name": "PT MACANAN JAYA CEMERLANG",
+		"input_date": "2014-11-17",
+		"last_update": "2014-11-17"
+	},
+	{
+		"publisher_id": 277,
+		"publisher_name": "PERMATA PURI MEDIA",
+		"input_date": "2014-11-17",
+		"last_update": "2014-11-17"
+	},
+	{
+		"publisher_id": 278,
+		"publisher_name": "PT CITRA AJI PARAMA",
+		"input_date": "2014-11-17",
+		"last_update": "2014-11-17"
+	},
+	{
+		"publisher_id": 279,
+		"publisher_name": "PT GRAMEDIA",
+		"input_date": "2014-11-17",
+		"last_update": "2014-11-17"
+	},
+	{
+		"publisher_id": 280,
+		"publisher_name": "LTNNU",
+		"input_date": "2015-01-09",
+		"last_update": "2015-01-09"
+	},
+	{
+		"publisher_id": 281,
+		"publisher_name": "PROGRAM STUDI TEKNIK MESIN POLIWANGI",
+		"input_date": "2015-01-28",
+		"last_update": "2015-01-28"
+	},
+	{
+		"publisher_id": 282,
+		"publisher_name": "PROGRAM STUDI TEKNIK SIPIL POLIWANGI",
+		"input_date": "2015-01-28",
+		"last_update": "2015-01-28"
+	},
+	{
+		"publisher_id": 283,
+		"publisher_name": "PROGRAM STUDI TEKNIK INFORMATIKA POLIWANGI",
+		"input_date": "2015-01-29",
+		"last_update": "2015-01-29"
+	},
+	{
+		"publisher_id": 284,
+		"publisher_name": "WINDY ARIESTANTY",
+		"input_date": "2015-02-05",
+		"last_update": "2015-02-05"
+	},
+	{
+		"publisher_id": 285,
+		"publisher_name": "QANITA",
+		"input_date": "2015-02-05",
+		"last_update": "2015-02-05"
+	},
+	{
+		"publisher_id": 286,
+		"publisher_name": "CAK LONTONG",
+		"input_date": "2015-02-05",
+		"last_update": "2015-02-05"
+	},
+	{
+		"publisher_id": 287,
+		"publisher_name": "PT GRAMEDIA PUSTAKA UTAMA",
+		"input_date": "2015-02-05",
+		"last_update": "2015-02-05"
+	},
+	{
+		"publisher_id": 288,
+		"publisher_name": "GAGAS MEDIA",
+		"input_date": "2015-02-05",
+		"last_update": "2015-02-05"
+	},
+	{
+		"publisher_id": 289,
+		"publisher_name": "ASMA NADIA PUBLISHING HOUSE",
+		"input_date": "2015-02-05",
+		"last_update": "2015-02-05"
+	},
+	{
+		"publisher_id": 290,
+		"publisher_name": "REPUBLIKA",
+		"input_date": "2015-02-05",
+		"last_update": "2015-02-05"
+	},
+	{
+		"publisher_id": 291,
+		"publisher_name": "PT.TIGA LANCAR SEMESTA",
+		"input_date": "2015-02-05",
+		"last_update": "2015-02-05"
+	},
+	{
+		"publisher_id": 292,
+		"publisher_name": "PT MIZAN PUSTAKA",
+		"input_date": "2015-02-05",
+		"last_update": "2015-02-05"
+	},
+	{
+		"publisher_id": 293,
+		"publisher_name": "PT MIZAN PUBLIKA",
+		"input_date": "2015-02-05",
+		"last_update": "2015-02-05"
+	},
+	{
+		"publisher_id": 294,
+		"publisher_name": "PT BENTANG PUSTAKA",
+		"input_date": "2015-02-05",
+		"last_update": "2015-02-05"
+	},
+	{
+		"publisher_id": 295,
+		"publisher_name": "IMANIA",
+		"input_date": "2015-02-05",
+		"last_update": "2015-02-05"
+	},
+	{
+		"publisher_id": 296,
+		"publisher_name": "PT GRAMEDIA2014",
+		"input_date": "2015-02-05",
+		"last_update": "2015-02-05"
+	},
+	{
+		"publisher_id": 297,
+		"publisher_name": "PT WAHYU MEDIA",
+		"input_date": "2015-02-05",
+		"last_update": "2015-02-05"
+	},
+	{
+		"publisher_id": 298,
+		"publisher_name": "SYURA MEDIA UTAMA",
+		"input_date": "2015-03-03",
+		"last_update": "2015-03-03"
+	},
+	{
+		"publisher_id": 299,
+		"publisher_name": "PT AQWAM MEDIA PROFETIKA",
+		"input_date": "2015-03-03",
+		"last_update": "2015-03-03"
+	},
+	{
+		"publisher_id": 300,
+		"publisher_name": "SAGUNG SETO",
+		"input_date": "2015-03-03",
+		"last_update": "2015-03-03"
+	},
+	{
+		"publisher_id": 301,
+		"publisher_name": "PT JEPE PRESS MEDIA UTAMA",
+		"input_date": "2015-03-03",
+		"last_update": "2015-03-03"
+	},
+	{
+		"publisher_id": 302,
+		"publisher_name": "MEDIA HINDU",
+		"input_date": "2015-03-03",
+		"last_update": "2015-03-03"
+	},
+	{
+		"publisher_id": 303,
+		"publisher_name": "JALASUTRA",
+		"input_date": "2015-03-03",
+		"last_update": "2015-03-03"
+	},
+	{
+		"publisher_id": 304,
+		"publisher_name": "DUTA IKWANA SALAMA",
+		"input_date": "2015-03-03",
+		"last_update": "2015-03-03"
+	},
+	{
+		"publisher_id": 305,
+		"publisher_name": "PASLA MEDIA",
+		"input_date": "2015-03-03",
+		"last_update": "2015-03-03"
+	},
+	{
+		"publisher_id": 306,
+		"publisher_name": "KUNCIKOM",
+		"input_date": "2015-03-04",
+		"last_update": "2015-03-04"
+	},
+	{
+		"publisher_id": 307,
+		"publisher_name": "KAWAHNEDIA",
+		"input_date": "2015-03-04",
+		"last_update": "2015-03-04"
+	},
+	{
+		"publisher_id": 308,
+		"publisher_name": "WAHYUMEDIA",
+		"input_date": "2015-03-04",
+		"last_update": "2015-03-04"
+	},
+	{
+		"publisher_id": 309,
+		"publisher_name": "PUSTAKA WIDYATAMA",
+		"input_date": "2015-03-04",
+		"last_update": "2015-03-04"
+	},
+	{
+		"publisher_id": 310,
+		"publisher_name": "NAJAH",
+		"input_date": "2015-03-04",
+		"last_update": "2015-03-04"
+	},
+	{
+		"publisher_id": 311,
+		"publisher_name": "LAKSANA",
+		"input_date": "2015-03-04",
+		"last_update": "2015-03-04"
+	},
+	{
+		"publisher_id": 312,
+		"publisher_name": "BENING",
+		"input_date": "2015-03-04",
+		"last_update": "2015-03-04"
+	},
+	{
+		"publisher_id": 313,
+		"publisher_name": "CV NUANSA AULIA",
+		"input_date": "2015-03-09",
+		"last_update": "2015-03-09"
+	},
+	{
+		"publisher_id": 314,
+		"publisher_name": "BATAVIA PRESS",
+		"input_date": "2015-03-09",
+		"last_update": "2015-03-09"
+	},
+	{
+		"publisher_id": 315,
+		"publisher_name": "ANEKA ILMU",
+		"input_date": "2015-03-09",
+		"last_update": "2015-03-09"
+	},
+	{
+		"publisher_id": 316,
+		"publisher_name": "FLASHBOOKS",
+		"input_date": "2015-03-09",
+		"last_update": "2015-03-09"
+	},
+	{
+		"publisher_id": 317,
+		"publisher_name": "DUNIA KOMPUTER",
+		"input_date": "2015-03-12",
+		"last_update": "2015-03-12"
+	},
+	{
+		"publisher_id": 318,
+		"publisher_name": "SERBAJAYA",
+		"input_date": "2015-03-12",
+		"last_update": "2015-03-12"
+	},
+	{
+		"publisher_id": 319,
+		"publisher_name": "POLITEKNIK NEGERI BANYUWANGI",
+		"input_date": "2015-04-30",
+		"last_update": "2015-04-30"
+	},
+	{
+		"publisher_id": 320,
+		"publisher_name": "JASAKOM",
+		"input_date": "2015-09-03",
+		"last_update": "2015-09-03"
+	},
+	{
+		"publisher_id": 321,
+		"publisher_name": "CV ARFINO RAYA",
+		"input_date": "2015-11-19",
+		"last_update": "2015-11-19"
+	},
+	{
+		"publisher_id": 322,
+		"publisher_name": "INFORMATIKA  BANDUNG",
+		"input_date": "2015-11-19",
+		"last_update": "2015-11-19"
+	},
+	{
+		"publisher_id": 323,
+		"publisher_name": "IMPERIUM",
+		"input_date": "2015-11-19",
+		"last_update": "2015-11-19"
+	},
+	{
+		"publisher_id": 324,
+		"publisher_name": "CV.MAXIKOM",
+		"input_date": "2015-11-19",
+		"last_update": "2015-11-19"
+	},
+	{
+		"publisher_id": 325,
+		"publisher_name": "GLOBAL MEDIA UTAMA",
+		"input_date": "2015-11-19",
+		"last_update": "2015-11-19"
+	},
+	{
+		"publisher_id": 326,
+		"publisher_name": "PT.ERCONTARA RAJAWALI",
+		"input_date": "2015-11-19",
+		"last_update": "2015-11-19"
+	},
+	{
+		"publisher_id": 327,
+		"publisher_name": "PADMA PRESS",
+		"input_date": "2015-11-19",
+		"last_update": "2015-11-19"
+	},
+	{
+		"publisher_id": 328,
+		"publisher_name": "POLITEKNIK BANYUWANGI",
+		"input_date": "2015-11-23",
+		"last_update": "2015-11-23"
+	},
+	{
+		"publisher_id": 329,
+		"publisher_name": "UNIVERSITAS UDAYANA",
+		"input_date": "2015-11-23",
+		"last_update": "2015-11-23"
+	},
+	{
+		"publisher_id": 330,
+		"publisher_name": "KHAIRUL MUZAKA,S.T,",
+		"input_date": "2015-11-27",
+		"last_update": "2015-11-27"
+	},
+	{
+		"publisher_id": 331,
+		"publisher_name": "AZY COM",
+		"input_date": "2015-11-27",
+		"last_update": "2015-11-27"
+	},
+	{
+		"publisher_id": 332,
+		"publisher_name": "ARASKA",
+		"input_date": "2015-11-27",
+		"last_update": "2015-11-27"
+	},
+	{
+		"publisher_id": 333,
+		"publisher_name": "DATAPRINT GRAFITAMA",
+		"input_date": "2015-11-27",
+		"last_update": "2015-11-27"
+	},
+	{
+		"publisher_id": 334,
+		"publisher_name": "BOLA BINTANG PUBLISHING",
+		"input_date": "2015-11-27",
+		"last_update": "2015-11-27"
+	},
+	{
+		"publisher_id": 335,
+		"publisher_name": "KATA HATI",
+		"input_date": "2015-11-27",
+		"last_update": "2015-11-27"
+	},
+	{
+		"publisher_id": 336,
+		"publisher_name": "PT SARAN TUTORIAL NURANI SEJAHTERA",
+		"input_date": "2015-11-27",
+		"last_update": "2015-11-27"
+	},
+	{
+		"publisher_id": 337,
+		"publisher_name": "LITERA MEDIA CREATIVA",
+		"input_date": "2015-11-27",
+		"last_update": "2015-11-27"
+	},
+	{
+		"publisher_id": 338,
+		"publisher_name": "MAJALAH INFOLINUX",
+		"input_date": "2015-11-27",
+		"last_update": "2015-11-27"
+	},
+	{
+		"publisher_id": 339,
+		"publisher_name": "SAKILA",
+		"input_date": "2015-11-27",
+		"last_update": "2015-11-27"
+	},
+	{
+		"publisher_id": 340,
+		"publisher_name": "LIRIS",
+		"input_date": "2015-11-30",
+		"last_update": "2015-11-30"
+	},
+	{
+		"publisher_id": 341,
+		"publisher_name": "GAJAH MADA UNIVERSITY PRESS",
+		"input_date": "2015-11-30",
+		"last_update": "2015-11-30"
+	},
+	{
+		"publisher_id": 342,
+		"publisher_name": "GANECA EXACT",
+		"input_date": "2015-11-30",
+		"last_update": "2015-11-30"
+	},
+	{
+		"publisher_id": 343,
+		"publisher_name": "BINTANG MULIA",
+		"input_date": "2015-11-30",
+		"last_update": "2015-11-30"
+	},
+	{
+		"publisher_id": 344,
+		"publisher_name": "FAKULTAS TEKNIK UNVERSITAS KRISTEN INDONESIA",
+		"input_date": "2015-12-08",
+		"last_update": "2015-12-08"
+	},
+	{
+		"publisher_id": 345,
+		"publisher_name": "FAKULTAS TEKNIK UNIVERSITAS KRISTEN INDONESIA",
+		"input_date": "2015-12-08",
+		"last_update": "2015-12-08"
+	},
+	{
+		"publisher_id": 346,
+		"publisher_name": "UNIVERSITAS SRIWIJAYA",
+		"input_date": "2015-12-08",
+		"last_update": "2015-12-08"
+	},
+	{
+		"publisher_id": 347,
+		"publisher_name": "ASOSIASI KONTRAKTOR INDONESIA",
+		"input_date": "2015-12-08",
+		"last_update": "2015-12-08"
+	},
+	{
+		"publisher_id": 348,
+		"publisher_name": "DINAMIKA UNGGUL PERKASA",
+		"input_date": "2015-12-08",
+		"last_update": "2015-12-08"
+	},
+	{
+		"publisher_id": 349,
+		"publisher_name": "SAKURA DX",
+		"input_date": "2015-12-08",
+		"last_update": "2015-12-08"
+	},
+	{
+		"publisher_id": 350,
+		"publisher_name": "AD-HOUSE CORP",
+		"input_date": "2015-12-08",
+		"last_update": "2015-12-08"
+	},
+	{
+		"publisher_id": 351,
+		"publisher_name": "BOX TELEPON",
+		"input_date": "2015-12-08",
+		"last_update": "2015-12-08"
+	},
+	{
+		"publisher_id": 352,
+		"publisher_name": "KOMPAS GRAMEDIA",
+		"input_date": "2015-12-08",
+		"last_update": "2015-12-08"
+	},
+	{
+		"publisher_id": 353,
+		"publisher_name": "ASRI",
+		"input_date": "2015-12-08",
+		"last_update": "2015-12-08"
+	},
+	{
+		"publisher_id": 354,
+		"publisher_name": "MCIT",
+		"input_date": "2015-12-08",
+		"last_update": "2015-12-08"
+	},
+	{
+		"publisher_id": 355,
+		"publisher_name": "SKRIPTA MEDIA CREATIVE",
+		"input_date": "2015-12-14",
+		"last_update": "2015-12-14"
+	},
+	{
+		"publisher_id": 356,
+		"publisher_name": "SAMBILEGI BARU LOR NO.5A",
+		"input_date": "2015-12-14",
+		"last_update": "2015-12-14"
+	},
+	{
+		"publisher_id": 357,
+		"publisher_name": "GARAILMU",
+		"input_date": "2015-12-14",
+		"last_update": "2015-12-14"
+	},
+	{
+		"publisher_id": 358,
+		"publisher_name": "POLITEKNIK NEGERI 1 BANYUWANGI",
+		"input_date": "2015-12-14",
+		"last_update": "2015-12-14"
+	},
+	{
+		"publisher_id": 359,
+		"publisher_name": "UNIVERSITAS KATOLIK PARAHYANGAN",
+		"input_date": "2015-12-14",
+		"last_update": "2015-12-14"
+	},
+	{
+		"publisher_id": 360,
+		"publisher_name": "GRIYA KREASI",
+		"input_date": "2015-12-14",
+		"last_update": "2015-12-14"
+	},
+	{
+		"publisher_id": 361,
+		"publisher_name": "POLITEKNIK NEGERI BALIKPAPAN",
+		"input_date": "2015-12-14",
+		"last_update": "2015-12-14"
+	},
+	{
+		"publisher_id": 362,
+		"publisher_name": "JP BOOKS",
+		"input_date": "2015-12-14",
+		"last_update": "2015-12-14"
+	},
+	{
+		"publisher_id": 363,
+		"publisher_name": "PT SERAMBI ILMU SEMESTA",
+		"input_date": "2015-12-14",
+		"last_update": "2015-12-14"
+	},
+	{
+		"publisher_id": 364,
+		"publisher_name": "BHUANA ILMU POPULER",
+		"input_date": "2015-12-14",
+		"last_update": "2015-12-14"
+	},
+	{
+		"publisher_id": 365,
+		"publisher_name": "ASMANADIA PUBLISHING HOUSE",
+		"input_date": "2015-12-14",
+		"last_update": "2015-12-14"
+	},
+	{
+		"publisher_id": 366,
+		"publisher_name": "CV.LOKOMEDIA",
+		"input_date": "2015-12-14",
+		"last_update": "2015-12-14"
+	},
+	{
+		"publisher_id": 367,
+		"publisher_name": "NOTEBOOK",
+		"input_date": "2015-12-14",
+		"last_update": "2015-12-14"
+	},
+	{
+		"publisher_id": 368,
+		"publisher_name": "RUMAH IDE",
+		"input_date": "2015-12-14",
+		"last_update": "2015-12-14"
+	},
+	{
+		"publisher_id": 369,
+		"publisher_name": "GUNADARMA PUBLISHER",
+		"input_date": "2015-12-14",
+		"last_update": "2015-12-14"
+	},
+	{
+		"publisher_id": 370,
+		"publisher_name": "ZORA BOOK",
+		"input_date": "2015-12-14",
+		"last_update": "2015-12-14"
+	},
+	{
+		"publisher_id": 371,
+		"publisher_name": "PT.GRAMEDIA PUSTAKA UTAMA",
+		"input_date": "2015-12-14",
+		"last_update": "2015-12-14"
+	},
+	{
+		"publisher_id": 372,
+		"publisher_name": "MAHAKA PUBLISHING",
+		"input_date": "2015-12-14",
+		"last_update": "2015-12-14"
+	},
+	{
+		"publisher_id": 373,
+		"publisher_name": "CAKRAWALA",
+		"input_date": "2015-12-14",
+		"last_update": "2015-12-14"
+	},
+	{
+		"publisher_id": 374,
+		"publisher_name": "NUR ILMU",
+		"input_date": "2015-12-14",
+		"last_update": "2015-12-14"
+	},
+	{
+		"publisher_id": 375,
+		"publisher_name": "LOVEABLE",
+		"input_date": "2015-12-14",
+		"last_update": "2015-12-14"
+	},
+	{
+		"publisher_id": 376,
+		"publisher_name": "DELTA PRIMA PRESS",
+		"input_date": "2015-12-14",
+		"last_update": "2015-12-14"
+	},
+	{
+		"publisher_id": 377,
+		"publisher_name": "TUGU PUBLISHER",
+		"input_date": "2015-12-14",
+		"last_update": "2015-12-14"
+	},
+	{
+		"publisher_id": 378,
+		"publisher_name": "JARING PENA",
+		"input_date": "2015-12-14",
+		"last_update": "2015-12-14"
+	},
+	{
+		"publisher_id": 379,
+		"publisher_name": "SERI PERTANIAN MODERN",
+		"input_date": "2015-12-14",
+		"last_update": "2015-12-14"
+	},
+	{
+		"publisher_id": 380,
+		"publisher_name": "MULTI INFORMASI MANDIRI",
+		"input_date": "2015-12-14",
+		"last_update": "2015-12-14"
+	},
+	{
+		"publisher_id": 381,
+		"publisher_name": "LOKO MEDIA",
+		"input_date": "2015-12-15",
+		"last_update": "2015-12-15"
+	},
+	{
+		"publisher_id": 382,
+		"publisher_name": "MD PICTURES",
+		"input_date": "2015-12-15",
+		"last_update": "2015-12-15"
+	},
+	{
+		"publisher_id": 383,
+		"publisher_name": "PT TIGA SERANGKAI PUSTAKA MANDIRI",
+		"input_date": "2015-12-15",
+		"last_update": "2015-12-15"
+	},
+	{
+		"publisher_id": 384,
+		"publisher_name": "PT.PRIMA INFO SARANA MEDIA",
+		"input_date": "2015-12-15",
+		"last_update": "2015-12-15"
+	},
+	{
+		"publisher_id": 385,
+		"publisher_name": "M2S BANDUNG",
+		"input_date": "2015-12-15",
+		"last_update": "2015-12-15"
+	},
+	{
+		"publisher_id": 386,
+		"publisher_name": "CV.TITIK TERANG",
+		"input_date": "2015-12-15",
+		"last_update": "2015-12-15"
+	},
+	{
+		"publisher_id": 387,
+		"publisher_name": "MAJALAH PERTANIAN",
+		"input_date": "2016-01-13",
+		"last_update": "2016-01-13"
+	},
+	{
+		"publisher_id": 388,
+		"publisher_name": "KAMPUS",
+		"input_date": "2016-01-13",
+		"last_update": "2016-01-13"
+	},
+	{
+		"publisher_id": 389,
+		"publisher_name": "MINISTRY OF COMMUNICATIONS AND INFORMATION TECHNOLOGY",
+		"input_date": "2016-01-13",
+		"last_update": "2016-01-13"
+	},
+	{
+		"publisher_id": 390,
+		"publisher_name": "MAJALAH KOMPUTER",
+		"input_date": "2016-01-13",
+		"last_update": "2016-01-13"
+	},
+	{
+		"publisher_id": 391,
+		"publisher_name": "THE FRONTAGE",
+		"input_date": "2016-01-13",
+		"last_update": "2016-01-13"
+	},
+	{
+		"publisher_id": 392,
+		"publisher_name": "PUSPA SWARA ANGGOTA IKAPI",
+		"input_date": "2016-01-13",
+		"last_update": "2016-01-13"
+	},
+	{
+		"publisher_id": 393,
+		"publisher_name": "PT.ELEX MEDIA KOMPUTINDO",
+		"input_date": "2016-01-13",
+		"last_update": "2016-01-13"
+	},
+	{
+		"publisher_id": 394,
+		"publisher_name": "PADI",
+		"input_date": "2016-01-13",
+		"last_update": "2016-01-13"
+	},
+	{
+		"publisher_id": 395,
+		"publisher_name": "RISTEK DIKTI",
+		"input_date": "2016-01-13",
+		"last_update": "2016-01-13"
+	},
+	{
+		"publisher_id": 396,
+		"publisher_name": "KRIYA PUSTAKA",
+		"input_date": "2016-01-13",
+		"last_update": "2016-01-13"
+	},
+	{
+		"publisher_id": 397,
+		"publisher_name": "FSTPT",
+		"input_date": "2016-01-13",
+		"last_update": "2016-01-13"
+	},
+	{
+		"publisher_id": 398,
+		"publisher_name": "POLITEKNIK NEGERI  BANYUWANGI",
+		"input_date": "2016-01-13",
+		"last_update": "2016-01-13"
+	},
+	{
+		"publisher_id": 399,
+		"publisher_name": "KEMENTRIAN PENDIDIKAN DAN KEBUDAYAAN",
+		"input_date": "2016-01-13",
+		"last_update": "2016-01-13"
+	},
+	{
+		"publisher_id": 400,
+		"publisher_name": "CV.ASFA SOLUTION",
+		"input_date": "2016-01-13",
+		"last_update": "2016-01-13"
+	},
+	{
+		"publisher_id": 401,
+		"publisher_name": "MIZANIA",
+		"input_date": "2016-01-18",
+		"last_update": "2016-01-18"
+	},
+	{
+		"publisher_id": 402,
+		"publisher_name": "M BRIO PRESS",
+		"input_date": "2016-01-20",
+		"last_update": "2016-01-20"
+	},
+	{
+		"publisher_id": 403,
+		"publisher_name": "IPB PRESS",
+		"input_date": "2016-01-25",
+		"last_update": "2016-01-25"
+	},
+	{
+		"publisher_id": 404,
+		"publisher_name": "PT.KINISIUS",
+		"input_date": "2016-01-25",
+		"last_update": "2016-01-25"
+	},
+	{
+		"publisher_id": 405,
+		"publisher_name": "MC GRAW-HILL",
+		"input_date": "2016-01-25",
+		"last_update": "2016-01-25"
+	},
+	{
+		"publisher_id": 406,
+		"publisher_name": "JOHN WILEY AND SONS,INC.",
+		"input_date": "2016-01-25",
+		"last_update": "2016-01-25"
+	},
+	{
+		"publisher_id": 407,
+		"publisher_name": "WILEY-BLACK WELL",
+		"input_date": "2016-01-27",
+		"last_update": "2016-01-27"
+	},
+	{
+		"publisher_id": 408,
+		"publisher_name": "ROUTLEDGE",
+		"input_date": "2016-01-27",
+		"last_update": "2016-01-27"
+	},
+	{
+		"publisher_id": 409,
+		"publisher_name": "NIPA",
+		"input_date": "2016-01-27",
+		"last_update": "2016-01-27"
+	},
+	{
+		"publisher_id": 410,
+		"publisher_name": "CATERER",
+		"input_date": "2016-01-27",
+		"last_update": "2016-01-27"
+	},
+	{
+		"publisher_id": 411,
+		"publisher_name": "ACADEMIC PRESS",
+		"input_date": "2016-01-27",
+		"last_update": "2016-01-27"
+	},
+	{
+		"publisher_id": 412,
+		"publisher_name": "SOUTH WESTERN",
+		"input_date": "2016-01-27",
+		"last_update": "2016-01-27"
+	},
+	{
+		"publisher_id": 413,
+		"publisher_name": "LONGMAN",
+		"input_date": "2016-01-27",
+		"last_update": "2016-01-27"
+	},
+	{
+		"publisher_id": 414,
+		"publisher_name": "CASSELL",
+		"input_date": "2016-01-27",
+		"last_update": "2016-01-27"
+	},
+	{
+		"publisher_id": 415,
+		"publisher_name": "AMERICAN HOTEL AND LODGING EDUCATIONAL INSTITUTE",
+		"input_date": "2016-01-27",
+		"last_update": "2016-01-27"
+	},
+	{
+		"publisher_id": 416,
+		"publisher_name": "BROOKS-COLE",
+		"input_date": "2016-01-27",
+		"last_update": "2016-01-27"
+	},
+	{
+		"publisher_id": 417,
+		"publisher_name": "NOURA BOOKS",
+		"input_date": "2016-02-01",
+		"last_update": "2016-02-01"
+	},
+	{
+		"publisher_id": 418,
+		"publisher_name": "ROHI ABDULLOH",
+		"input_date": "2016-02-01",
+		"last_update": "2016-02-01"
+	},
+	{
+		"publisher_id": 419,
+		"publisher_name": "YOUNG ADULT",
+		"input_date": "2016-02-02",
+		"last_update": "2016-02-02"
+	},
+	{
+		"publisher_id": 420,
+		"publisher_name": "MIZAN FANTASI",
+		"input_date": "2016-02-02",
+		"last_update": "2016-02-02"
+	},
+	{
+		"publisher_id": 421,
+		"publisher_name": "NURA BOOKS",
+		"input_date": "2016-02-02",
+		"last_update": "2016-02-02"
+	},
+	{
+		"publisher_id": 422,
+		"publisher_name": "PT ERCONTARA RAJAWALI",
+		"input_date": "2016-02-11",
+		"last_update": "2016-02-11"
+	},
+	{
+		"publisher_id": 423,
+		"publisher_name": "CERDAS PUSTAKA PUBLISHER",
+		"input_date": "2016-02-11",
+		"last_update": "2016-02-11"
+	},
+	{
+		"publisher_id": 424,
+		"publisher_name": "PUSTAKA PELAJAR",
+		"input_date": "2016-02-11",
+		"last_update": "2016-02-11"
+	},
+	{
+		"publisher_id": 425,
+		"publisher_name": "PUSTAKA KAISWARAN",
+		"input_date": "2016-02-11",
+		"last_update": "2016-02-11"
+	},
+	{
+		"publisher_id": 426,
+		"publisher_name": "PUSTAKA INSPIRA",
+		"input_date": "2016-02-11",
+		"last_update": "2016-02-11"
+	},
+	{
+		"publisher_id": 427,
+		"publisher_name": "MERCU BUANA",
+		"input_date": "2016-02-11",
+		"last_update": "2016-02-11"
+	},
+	{
+		"publisher_id": 428,
+		"publisher_name": "PT ELEX GRAMEDIA KOMPUTINDO",
+		"input_date": "2016-02-11",
+		"last_update": "2016-02-11"
+	},
+	{
+		"publisher_id": 429,
+		"publisher_name": "KAKI LANGIT KENCANA",
+		"input_date": "2016-03-03",
+		"last_update": "2016-03-03"
+	},
+	{
+		"publisher_id": 430,
+		"publisher_name": "AMPERA UTAMA",
+		"input_date": "2016-03-03",
+		"last_update": "2016-03-03"
+	},
+	{
+		"publisher_id": 431,
+		"publisher_name": "ARGA TILANTA",
+		"input_date": "2016-03-03",
+		"last_update": "2016-03-03"
+	},
+	{
+		"publisher_id": 432,
+		"publisher_name": "ARGA PUBLISHING",
+		"input_date": "2016-03-03",
+		"last_update": "2016-03-03"
+	},
+	{
+		"publisher_id": 433,
+		"publisher_name": "MAHARDHIKA",
+		"input_date": "2016-03-03",
+		"last_update": "2016-03-03"
+	},
+	{
+		"publisher_id": 434,
+		"publisher_name": "AKSARA SUKSES",
+		"input_date": "2016-03-03",
+		"last_update": "2016-03-03"
+	},
+	{
+		"publisher_id": 435,
+		"publisher_name": "SHEILA",
+		"input_date": "2016-03-03",
+		"last_update": "2016-03-03"
+	},
+	{
+		"publisher_id": 436,
+		"publisher_name": "METAMIN MIND",
+		"input_date": "2016-03-03",
+		"last_update": "2016-03-03"
+	},
+	{
+		"publisher_id": 437,
+		"publisher_name": "POLITEKNIK NEGERI BANYUWANGI2014",
+		"input_date": "2016-03-21",
+		"last_update": "2016-03-21"
+	},
+	{
+		"publisher_id": 438,
+		"publisher_name": "BUKU PINTAR",
+		"input_date": "2016-09-27",
+		"last_update": "2016-09-27"
+	},
+	{
+		"publisher_id": 439,
+		"publisher_name": "DINAS KEBUDAYAAN DAN PARIWISATA KABUPATEN BANYUWANGI",
+		"input_date": "2016-09-27",
+		"last_update": "2016-09-27"
+	},
+	{
+		"publisher_id": 440,
+		"publisher_name": "PT.GRASINDO",
+		"input_date": "2016-09-27",
+		"last_update": "2016-09-27"
+	},
+	{
+		"publisher_id": 441,
+		"publisher_name": "OCTAPUS",
+		"input_date": "2016-09-27",
+		"last_update": "2016-09-27"
+	},
+	{
+		"publisher_id": 442,
+		"publisher_name": "GENTA GROUP PRODUCTION",
+		"input_date": "2016-09-27",
+		"last_update": "2016-09-27"
+	},
+	{
+		"publisher_id": 443,
+		"publisher_name": "DE TEENS",
+		"input_date": "2016-09-27",
+		"last_update": "2016-09-27"
+	},
+	{
+		"publisher_id": 444,
+		"publisher_name": "MEDIA NUSA CREATIVE",
+		"input_date": "2016-09-27",
+		"last_update": "2016-09-27"
+	},
+	{
+		"publisher_id": 445,
+		"publisher_name": "UNIVERSITAS GAJAH MADA",
+		"input_date": "2016-09-27",
+		"last_update": "2016-09-27"
+	},
+	{
+		"publisher_id": 446,
+		"publisher_name": "GAGASMEDIA",
+		"input_date": "2016-09-27",
+		"last_update": "2016-09-27"
+	},
+	{
+		"publisher_id": 447,
+		"publisher_name": "OMBAK",
+		"input_date": "2016-09-27",
+		"last_update": "2016-09-27"
+	},
+	{
+		"publisher_id": 448,
+		"publisher_name": "IMPRINT KPG",
+		"input_date": "2016-09-27",
+		"last_update": "2016-09-27"
+	},
+	{
+		"publisher_id": 449,
+		"publisher_name": "PT PUSTAKA ALVABET",
+		"input_date": "2016-09-28",
+		"last_update": "2016-09-28"
+	},
+	{
+		"publisher_id": 450,
+		"publisher_name": "PT.TANGGA PUSTAKA",
+		"input_date": "2016-09-28",
+		"last_update": "2016-09-28"
+	},
+	{
+		"publisher_id": 451,
+		"publisher_name": "HARU",
+		"input_date": "2016-09-28",
+		"last_update": "2016-09-28"
+	},
+	{
+		"publisher_id": 452,
+		"publisher_name": "CV.ANDI OFFSET",
+		"input_date": "2016-09-29",
+		"last_update": "2016-09-29"
+	},
+	{
+		"publisher_id": 453,
+		"publisher_name": "MADCOM",
+		"input_date": "2016-09-29",
+		"last_update": "2016-09-29"
+	},
+	{
+		"publisher_id": 454,
+		"publisher_name": "DELTA SAPUTRA",
+		"input_date": "2016-09-29",
+		"last_update": "2016-09-29"
+	},
+	{
+		"publisher_id": 455,
+		"publisher_name": "POLITEKNIK NEGERI MADURA",
+		"input_date": "2016-10-18",
+		"last_update": "2016-10-18"
+	},
+	{
+		"publisher_id": 456,
+		"publisher_name": "JURUSAN TEKNIK SIPIL POLITEKNIK NEGERI BALI",
+		"input_date": "2016-10-28",
+		"last_update": "2016-10-28"
+	},
+	{
+		"publisher_id": 457,
+		"publisher_name": "POLITEKNIK NEGERI INDRAMAYU",
+		"input_date": "2016-10-28",
+		"last_update": "2016-10-28"
+	},
+	{
+		"publisher_id": 458,
+		"publisher_name": "PT.GRAMEDIA WIDIASARANA  INDONESIA",
+		"input_date": "2016-10-28",
+		"last_update": "2016-10-28"
+	},
+	{
+		"publisher_id": 459,
+		"publisher_name": "PT.RAJAGRAFINDO PERSADA",
+		"input_date": "2016-10-28",
+		"last_update": "2016-10-28"
+	},
+	{
+		"publisher_id": 460,
+		"publisher_name": "SCRITTO BOOKS PUBLISHER",
+		"input_date": "2016-10-28",
+		"last_update": "2016-10-28"
+	},
+	{
+		"publisher_id": 461,
+		"publisher_name": "PT.GRAMEDIA PERCETAKAN",
+		"input_date": "2016-10-28",
+		"last_update": "2016-10-28"
+	},
+	{
+		"publisher_id": 462,
+		"publisher_name": "KANA MEDIA",
+		"input_date": "2016-10-28",
+		"last_update": "2016-10-28"
+	},
+	{
+		"publisher_id": 463,
+		"publisher_name": "PT.AULA MEDIA NAHDATUL ULAMA",
+		"input_date": "2016-10-28",
+		"last_update": "2016-10-28"
+	},
+	{
+		"publisher_id": 464,
+		"publisher_name": "PROGRAM STUDI POLITEKNIK INFORMATIKA",
+		"input_date": "2017-01-19",
+		"last_update": "2017-01-19"
+	},
+	{
+		"publisher_id": 465,
+		"publisher_name": "CAHAYA ATMA PUSAKA",
+		"input_date": "2017-02-02",
+		"last_update": "2017-02-02"
+	},
+	{
+		"publisher_id": 466,
+		"publisher_name": "LILY PUBLISHER",
+		"input_date": "2017-02-02",
+		"last_update": "2017-02-02"
+	},
+	{
+		"publisher_id": 467,
+		"publisher_name": "MNC",
+		"input_date": "2017-02-07",
+		"last_update": "2017-02-07"
+	},
+	{
+		"publisher_id": 468,
+		"publisher_name": "INFORATIKA",
+		"input_date": "2017-02-07",
+		"last_update": "2017-02-07"
+	},
+	{
+		"publisher_id": 469,
+		"publisher_name": "BIBIT PUBLISHER",
+		"input_date": "2017-02-07",
+		"last_update": "2017-02-07"
+	},
+	{
+		"publisher_id": 470,
+		"publisher_name": "PUSTAKA SETIA BANDUNG",
+		"input_date": "2017-02-07",
+		"last_update": "2017-02-07"
+	},
+	{
+		"publisher_id": 471,
+		"publisher_name": "AR RUZZ MEDIA",
+		"input_date": "2017-02-07",
+		"last_update": "2017-02-07"
+	},
+	{
+		"publisher_id": 472,
+		"publisher_name": "PUSTAKA FAHIMA",
+		"input_date": "2017-02-09",
+		"last_update": "2017-02-09"
+	},
+	{
+		"publisher_id": 473,
+		"publisher_name": "AZHAR RISALAH",
+		"input_date": "2017-02-09",
+		"last_update": "2017-02-09"
+	},
+	{
+		"publisher_id": 474,
+		"publisher_name": "ISTANA MEDIA",
+		"input_date": "2017-02-09",
+		"last_update": "2017-02-09"
+	},
+	{
+		"publisher_id": 475,
+		"publisher_name": "PT KAURAMA BUANA ANTARA",
+		"input_date": "2017-02-09",
+		"last_update": "2017-02-09"
+	},
+	{
+		"publisher_id": 476,
+		"publisher_name": "MATAHARI",
+		"input_date": "2017-02-09",
+		"last_update": "2017-02-09"
+	},
+	{
+		"publisher_id": 477,
+		"publisher_name": "VISI MEDIA",
+		"input_date": "2017-02-09",
+		"last_update": "2017-02-09"
+	},
+	{
+		"publisher_id": 478,
+		"publisher_name": "EUTHENIA",
+		"input_date": "2017-02-09",
+		"last_update": "2017-02-09"
+	},
+	{
+		"publisher_id": 479,
+		"publisher_name": "LASKAR AKSARA",
+		"input_date": "2017-02-09",
+		"last_update": "2017-02-09"
+	},
+	{
+		"publisher_id": 480,
+		"publisher_name": "SENJA",
+		"input_date": "2017-02-09",
+		"last_update": "2017-02-09"
+	},
+	{
+		"publisher_id": 481,
+		"publisher_name": "ZETTU",
+		"input_date": "2017-02-09",
+		"last_update": "2017-02-09"
+	},
+	{
+		"publisher_id": 482,
+		"publisher_name": "GARA ILMU",
+		"input_date": "2017-02-09",
+		"last_update": "2017-02-09"
+	},
+	{
+		"publisher_id": 483,
+		"publisher_name": "OCTOPUS",
+		"input_date": "2017-02-09",
+		"last_update": "2017-02-09"
+	},
+	{
+		"publisher_id": 484,
+		"publisher_name": "KAUNA PUSTAKA",
+		"input_date": "2017-02-09",
+		"last_update": "2017-02-09"
+	},
+	{
+		"publisher_id": 485,
+		"publisher_name": "AL QALAM KELOMPOK GEMA INSANI",
+		"input_date": "2017-02-10",
+		"last_update": "2017-02-10"
+	},
+	{
+		"publisher_id": 486,
+		"publisher_name": "SINAR KEJORA",
+		"input_date": "2017-02-10",
+		"last_update": "2017-02-10"
+	},
+	{
+		"publisher_id": 487,
+		"publisher_name": "GALANG PRESS",
+		"input_date": "2017-02-10",
+		"last_update": "2017-02-10"
+	},
+	{
+		"publisher_id": 488,
+		"publisher_name": "MEDIA KITA",
+		"input_date": "2017-02-10",
+		"last_update": "2017-02-10"
+	},
+	{
+		"publisher_id": 489,
+		"publisher_name": "BENTANG BELIA",
+		"input_date": "2017-02-10",
+		"last_update": "2017-02-10"
+	},
+	{
+		"publisher_id": 490,
+		"publisher_name": "TABORA MEDIA",
+		"input_date": "2017-02-10",
+		"last_update": "2017-02-10"
+	},
+	{
+		"publisher_id": 491,
+		"publisher_name": "PARAMA ILMU",
+		"input_date": "2017-02-10",
+		"last_update": "2017-02-10"
+	},
+	{
+		"publisher_id": 492,
+		"publisher_name": "PARAMA PUBLISHING",
+		"input_date": "2017-02-10",
+		"last_update": "2017-02-10"
+	},
+	{
+		"publisher_id": 493,
+		"publisher_name": "ASIK GENERATION",
+		"input_date": "2017-02-10",
+		"last_update": "2017-02-10"
+	},
+	{
+		"publisher_id": 494,
+		"publisher_name": "AGRIFLO",
+		"input_date": "2017-02-10",
+		"last_update": "2017-02-10"
+	},
+	{
+		"publisher_id": 495,
+		"publisher_name": "RIFKA ANNISA",
+		"input_date": "2017-02-10",
+		"last_update": "2017-02-10"
+	},
+	{
+		"publisher_id": 496,
+		"publisher_name": "LOVE ABLE",
+		"input_date": "2017-02-10",
+		"last_update": "2017-02-10"
+	},
+	{
+		"publisher_id": 497,
+		"publisher_name": "SHIRA MEDIA",
+		"input_date": "2017-02-10",
+		"last_update": "2017-02-10"
+	},
+	{
+		"publisher_id": 498,
+		"publisher_name": "KAIFA",
+		"input_date": "2017-02-23",
+		"last_update": "2017-02-23"
+	},
+	{
+		"publisher_id": 499,
+		"publisher_name": "B FIRST",
+		"input_date": "2017-02-23",
+		"last_update": "2017-02-23"
+	},
+	{
+		"publisher_id": 500,
+		"publisher_name": "PLOT POINT",
+		"input_date": "2017-02-23",
+		"last_update": "2017-02-23"
+	},
+	{
+		"publisher_id": 501,
+		"publisher_name": "MB-IPB",
+		"input_date": "2017-03-20",
+		"last_update": "2017-03-20"
+	},
+	{
+		"publisher_id": 502,
+		"publisher_name": "KEMENTERIAN PEKERJAAN UMUM",
+		"input_date": "2017-03-20",
+		"last_update": "2017-03-20"
+	},
+	{
+		"publisher_id": 503,
+		"publisher_name": "POLITEKNIK NEGERI JEMBER",
+		"input_date": "2017-03-20",
+		"last_update": "2017-03-20"
+	},
+	{
+		"publisher_id": 504,
+		"publisher_name": "UNIVERSITAS SURABAYA",
+		"input_date": "2017-03-20",
+		"last_update": "2017-03-20"
+	},
+	{
+		"publisher_id": 505,
+		"publisher_name": "POLITEKNIK NEGERI BANJARMASIN",
+		"input_date": "2017-03-20",
+		"last_update": "2017-03-20"
+	},
+	{
+		"publisher_id": 506,
+		"publisher_name": "LPPM UNIVERSITAS INDRAPRASTA PGRI",
+		"input_date": "2017-03-20",
+		"last_update": "2017-03-20"
+	},
+	{
+		"publisher_id": 507,
+		"publisher_name": "UNPAD JATINANGOR",
+		"input_date": "2017-03-20",
+		"last_update": "2017-03-20"
+	},
+	{
+		"publisher_id": 508,
+		"publisher_name": "UNINDRA PRESS",
+		"input_date": "2017-03-20",
+		"last_update": "2017-03-20"
+	},
+	{
+		"publisher_id": 509,
+		"publisher_name": "KAMPUS ITS",
+		"input_date": "2017-03-29",
+		"last_update": "2017-03-29"
+	},
+	{
+		"publisher_id": 510,
+		"publisher_name": "INSTITUT TEKNOLOGI SEPULUH NOVEMBER",
+		"input_date": "2017-03-29",
+		"last_update": "2017-03-29"
+	},
+	{
+		"publisher_id": 511,
+		"publisher_name": "INSTITUT PERTANIAN BOGOR",
+		"input_date": "2017-03-29",
+		"last_update": "2017-03-29"
+	},
+	{
+		"publisher_id": 512,
+		"publisher_name": "STMIK SMIKOM",
+		"input_date": "2017-04-10",
+		"last_update": "2017-04-10"
+	},
+	{
+		"publisher_id": 513,
+		"publisher_name": "STMIK AMIKOM",
+		"input_date": "2017-04-10",
+		"last_update": "2017-04-10"
+	},
+	{
+		"publisher_id": 514,
+		"publisher_name": "UNIVERSITAS SULTAN AGENG TIRTAYASA",
+		"input_date": "2017-04-10",
+		"last_update": "2017-04-10"
+	},
+	{
+		"publisher_id": 515,
+		"publisher_name": "FTI UNIVERSITAS SEMBILANBELAS NOVEMBER KOLAKA",
+		"input_date": "2017-05-09",
+		"last_update": "2017-05-09"
+	},
+	{
+		"publisher_id": 516,
+		"publisher_name": "POLITEKNIK ELEKTRONIKA NEGERI SURABAYA",
+		"input_date": "2017-05-09",
+		"last_update": "2017-05-09"
+	},
+	{
+		"publisher_id": 517,
+		"publisher_name": "SEKOLAH VOKASI UGM",
+		"input_date": "2017-06-15",
+		"last_update": "2017-06-15"
+	},
+	{
+		"publisher_id": 518,
+		"publisher_name": "FAKULTAS TEKNIK UNIVERSITAS NEGERI SURABAYA",
+		"input_date": "2017-06-15",
+		"last_update": "2017-06-15"
+	},
+	{
+		"publisher_id": 519,
+		"publisher_name": "SEMARANG STATE UNIVERSITY",
+		"input_date": "2017-06-15",
+		"last_update": "2017-06-15"
+	},
+	{
+		"publisher_id": 520,
+		"publisher_name": "UNIVERITAS NUSANTARA PGRI KEDIRI",
+		"input_date": "2017-06-15",
+		"last_update": "2017-06-15"
+	},
+	{
+		"publisher_id": 521,
+		"publisher_name": "GRAMMATICAL",
+		"input_date": "2017-09-28",
+		"last_update": "2017-09-28"
+	},
+	{
+		"publisher_id": 522,
+		"publisher_name": "AR-RUZZMEDIA",
+		"input_date": "2017-09-28",
+		"last_update": "2017-09-28"
+	},
+	{
+		"publisher_id": 523,
+		"publisher_name": "IDE SEGAR MEDIA",
+		"input_date": "2017-09-28",
+		"last_update": "2017-09-28"
+	},
+	{
+		"publisher_id": 524,
+		"publisher_name": "CEMERLANG PUBLISHING",
+		"input_date": "2017-09-28",
+		"last_update": "2017-09-28"
+	},
+	{
+		"publisher_id": 525,
+		"publisher_name": "PENEBAR PLUS",
+		"input_date": "2017-09-28",
+		"last_update": "2017-09-28"
+	},
+	{
+		"publisher_id": 526,
+		"publisher_name": "BASABASI",
+		"input_date": "2017-09-28",
+		"last_update": "2017-09-28"
+	},
+	{
+		"publisher_id": 527,
+		"publisher_name": "RENEBOOK",
+		"input_date": "2017-09-28",
+		"last_update": "2017-09-28"
+	},
+	{
+		"publisher_id": 528,
+		"publisher_name": "BHUANA ILMU POPULAR",
+		"input_date": "2017-09-28",
+		"last_update": "2017-09-28"
+	},
+	{
+		"publisher_id": 529,
+		"publisher_name": "LENTERA HATI",
+		"input_date": "2017-09-28",
+		"last_update": "2017-09-28"
+	},
+	{
+		"publisher_id": 530,
+		"publisher_name": "AMELIA SURABAYA",
+		"input_date": "2017-09-28",
+		"last_update": "2017-09-28"
+	},
+	{
+		"publisher_id": 531,
+		"publisher_name": "PUSAT STUDI BAHASA",
+		"input_date": "2017-10-11",
+		"last_update": "2017-10-11"
+	},
+	{
+		"publisher_id": 532,
+		"publisher_name": "SAUFA",
+		"input_date": "2017-10-11",
+		"last_update": "2017-10-11"
+	},
+	{
+		"publisher_id": 533,
+		"publisher_name": "NUMED",
+		"input_date": "2017-10-11",
+		"last_update": "2017-10-11"
+	},
+	{
+		"publisher_id": 534,
+		"publisher_name": "MADANI",
+		"input_date": "2017-10-11",
+		"last_update": "2017-10-11"
+	},
+	{
+		"publisher_id": 535,
+		"publisher_name": "BUKA BUKU",
+		"input_date": "2017-10-11",
+		"last_update": "2017-10-11"
+	},
+	{
+		"publisher_id": 536,
+		"publisher_name": "PEMKAB BANYUWANGI",
+		"input_date": "2017-10-16",
+		"last_update": "2017-10-16"
+	},
+	{
+		"publisher_id": 537,
+		"publisher_name": "KEMENTERIAN KOMUNIKASI DAN INFORMATIKA RI",
+		"input_date": "2017-10-16",
+		"last_update": "2017-10-16"
+	},
+	{
+		"publisher_id": 538,
+		"publisher_name": "UNIVERSITAS ATMA JAYA YOGYAKARTA",
+		"input_date": "2017-10-16",
+		"last_update": "2017-10-16"
+	},
+	{
+		"publisher_id": 539,
+		"publisher_name": "CV.YRAMA WIDYA",
+		"input_date": "2017-10-16",
+		"last_update": "2017-10-16"
+	},
+	{
+		"publisher_id": 540,
+		"publisher_name": "TIARA PUSTAKA",
+		"input_date": "2017-10-16",
+		"last_update": "2017-10-16"
+	},
+	{
+		"publisher_id": 541,
+		"publisher_name": "AL IKHLAS",
+		"input_date": "2017-10-16",
+		"last_update": "2017-10-16"
+	},
+	{
+		"publisher_id": 542,
+		"publisher_name": "KARYA UTAMA",
+		"input_date": "2017-10-16",
+		"last_update": "2017-10-16"
+	},
+	{
+		"publisher_id": 543,
+		"publisher_name": "AL HIMAH",
+		"input_date": "2017-10-16",
+		"last_update": "2017-10-16"
+	},
+	{
+		"publisher_id": 544,
+		"publisher_name": "CAHAYA FIKSI",
+		"input_date": "2017-10-16",
+		"last_update": "2017-10-16"
+	},
+	{
+		"publisher_id": 545,
+		"publisher_name": "GENTA HIDAYAH",
+		"input_date": "2017-10-16",
+		"last_update": "2017-10-16"
+	},
+	{
+		"publisher_id": 546,
+		"publisher_name": "UNIT PENERBIT DAN PERCETAKAN",
+		"input_date": "2017-10-16",
+		"last_update": "2017-10-16"
+	},
+	{
+		"publisher_id": 547,
+		"publisher_name": "CV. SIMPLEX",
+		"input_date": "2017-10-16",
+		"last_update": "2017-10-16"
+	},
+	{
+		"publisher_id": 548,
+		"publisher_name": "PT.TIGA SERANGKAI PUSTAKA MANDIRI",
+		"input_date": "2017-10-16",
+		"last_update": "2017-10-16"
+	},
+	{
+		"publisher_id": 549,
+		"publisher_name": "GANESHA",
+		"input_date": "2017-10-17",
+		"last_update": "2017-10-17"
+	},
+	{
+		"publisher_id": 550,
+		"publisher_name": "RISALAH GUSTI",
+		"input_date": "2017-10-17",
+		"last_update": "2017-10-17"
+	},
+	{
+		"publisher_id": 551,
+		"publisher_name": "DAARUS SALAAM",
+		"input_date": "2017-10-17",
+		"last_update": "2017-10-17"
+	},
+	{
+		"publisher_id": 552,
+		"publisher_name": "PELAYANAN KASIH A & A RACHMAT",
+		"input_date": "2017-10-17",
+		"last_update": "2017-10-17"
+	},
+	{
+		"publisher_id": 553,
+		"publisher_name": "COIMGRAFF.S.L.",
+		"input_date": "2017-10-17",
+		"last_update": "2017-10-17"
+	},
+	{
+		"publisher_id": 554,
+		"publisher_name": "ALIANSI JURNALIS INDEPENDEN",
+		"input_date": "2017-10-17",
+		"last_update": "2017-10-17"
+	},
+	{
+		"publisher_id": 555,
+		"publisher_name": "PT PENEBAR SWADAYA",
+		"input_date": "2017-10-17",
+		"last_update": "2017-10-17"
+	},
+	{
+		"publisher_id": 556,
+		"publisher_name": "MASAGENA PRESS",
+		"input_date": "2017-10-17",
+		"last_update": "2017-10-17"
+	},
+	{
+		"publisher_id": 557,
+		"publisher_name": "PT INTERMASA",
+		"input_date": "2017-10-17",
+		"last_update": "2017-10-17"
+	},
+	{
+		"publisher_id": 558,
+		"publisher_name": "YAYASAN LEMBAGA PENYELIDIKAN MASALAH BANGUNAN",
+		"input_date": "2017-10-17",
+		"last_update": "2017-10-17"
+	},
+	{
+		"publisher_id": 559,
+		"publisher_name": "GAMA PRESS",
+		"input_date": "2017-10-17",
+		"last_update": "2017-10-17"
+	},
+	{
+		"publisher_id": 560,
+		"publisher_name": "PELITA JAYA",
+		"input_date": "2017-10-17",
+		"last_update": "2017-10-17"
+	},
+	{
+		"publisher_id": 561,
+		"publisher_name": "MEDIAKITA",
+		"input_date": "2017-10-18",
+		"last_update": "2017-10-18"
+	},
+	{
+		"publisher_id": 562,
+		"publisher_name": "VISI 7 (BINTANG PELAJAR GROUP)",
+		"input_date": "2017-10-18",
+		"last_update": "2017-10-18"
+	},
+	{
+		"publisher_id": 563,
+		"publisher_name": "TITIK MEDIA PUBLISHER",
+		"input_date": "2017-10-18",
+		"last_update": "2017-10-18"
+	},
+	{
+		"publisher_id": 564,
+		"publisher_name": "ITN PRESS",
+		"input_date": "2017-10-18",
+		"last_update": "2017-10-18"
+	},
+	{
+		"publisher_id": 565,
+		"publisher_name": "PT KOMPAS MEDIA NUSANTARA",
+		"input_date": "2017-10-18",
+		"last_update": "2017-10-18"
+	},
+	{
+		"publisher_id": 566,
+		"publisher_name": "KAWAN PUSTAKA",
+		"input_date": "2017-10-19",
+		"last_update": "2017-10-19"
+	},
+	{
+		"publisher_id": 567,
+		"publisher_name": "SETARA PRESS",
+		"input_date": "2017-10-23",
+		"last_update": "2017-10-23"
+	},
+	{
+		"publisher_id": 568,
+		"publisher_name": "KEBON MEDIA",
+		"input_date": "2017-10-23",
+		"last_update": "2017-10-23"
+	},
+	{
+		"publisher_id": 569,
+		"publisher_name": "pakar media",
+		"input_date": "2017-10-23",
+		"last_update": "2017-10-23"
+	},
+	{
+		"publisher_id": 570,
+		"publisher_name": "PUSTAKA SAINS",
+		"input_date": "2017-10-24",
+		"last_update": "2017-10-24"
+	},
+	{
+		"publisher_id": 571,
+		"publisher_name": "NUHA MEDIKA",
+		"input_date": "2017-10-24",
+		"last_update": "2017-10-24"
+	},
+	{
+		"publisher_id": 572,
+		"publisher_name": "indoliterasi",
+		"input_date": "2017-10-24",
+		"last_update": "2017-10-24"
+	},
+	{
+		"publisher_id": 573,
+		"publisher_name": "PENAKITA PUBLISHER",
+		"input_date": "2017-10-24",
+		"last_update": "2017-10-24"
+	},
+	{
+		"publisher_id": 574,
+		"publisher_name": "PUSTAKA KHAZANAH FAWA'ID",
+		"input_date": "2017-10-24",
+		"last_update": "2017-10-24"
+	},
+	{
+		"publisher_id": 575,
+		"publisher_name": "GRAHA CENDEKIA",
+		"input_date": "2017-10-24",
+		"last_update": "2017-10-24"
+	},
+	{
+		"publisher_id": 576,
+		"publisher_name": "AL-DUDS",
+		"input_date": "2017-10-24",
+		"last_update": "2017-10-24"
+	},
+	{
+		"publisher_id": 577,
+		"publisher_name": "PUSTAKA TOKOH BANGSA",
+		"input_date": "2017-10-24",
+		"last_update": "2017-10-24"
+	},
+	{
+		"publisher_id": 578,
+		"publisher_name": "SENJA PUBLISHER",
+		"input_date": "2017-10-24",
+		"last_update": "2017-10-24"
+	},
+	{
+		"publisher_id": 579,
+		"publisher_name": "PROGRESSIO",
+		"input_date": "2017-10-24",
+		"last_update": "2017-10-24"
+	},
+	{
+		"publisher_id": 580,
+		"publisher_name": "AL-WAFI",
+		"input_date": "2017-10-24",
+		"last_update": "2017-10-24"
+	},
+	{
+		"publisher_id": 581,
+		"publisher_name": "MEDIA ILMU",
+		"input_date": "2017-10-24",
+		"last_update": "2017-10-24"
+	},
+	{
+		"publisher_id": 582,
+		"publisher_name": "INTI MEDIA",
+		"input_date": "2017-10-24",
+		"last_update": "2017-10-24"
+	},
+	{
+		"publisher_id": 583,
+		"publisher_name": "ONCOR SEMESTA ILMU",
+		"input_date": "2017-10-24",
+		"last_update": "2017-10-24"
+	},
+	{
+		"publisher_id": 584,
+		"publisher_name": "CAKRAWALA ILMU",
+		"input_date": "2017-10-25",
+		"last_update": "2017-10-25"
+	},
+	{
+		"publisher_id": 585,
+		"publisher_name": "GRAHA CENDIKIA",
+		"input_date": "2017-10-25",
+		"last_update": "2017-10-25"
+	},
+	{
+		"publisher_id": 586,
+		"publisher_name": "LKIS",
+		"input_date": "2017-10-25",
+		"last_update": "2017-10-25"
+	},
+	{
+		"publisher_id": 587,
+		"publisher_name": "UMMUL QURA",
+		"input_date": "2017-10-25",
+		"last_update": "2017-10-25"
+	},
+	{
+		"publisher_id": 588,
+		"publisher_name": "MUTIAR ALLAMAH UTAMA",
+		"input_date": "2017-10-25",
+		"last_update": "2017-10-25"
+	},
+	{
+		"publisher_id": 589,
+		"publisher_name": "QUADRANT",
+		"input_date": "2017-11-06",
+		"last_update": "2017-11-06"
+	},
+	{
+		"publisher_id": 590,
+		"publisher_name": "MITRA WACANA MEDIA",
+		"input_date": "2017-11-06",
+		"last_update": "2017-11-06"
+	},
+	{
+		"publisher_id": 591,
+		"publisher_name": "PRASETIYA MULYA PUBLISHING",
+		"input_date": "2017-11-06",
+		"last_update": "2017-11-06"
+	},
+	{
+		"publisher_id": 592,
+		"publisher_name": "VISIMEDIA",
+		"input_date": "2017-11-06",
+		"last_update": "2017-11-06"
+	},
+	{
+		"publisher_id": 593,
+		"publisher_name": "IN MEDIA",
+		"input_date": "2017-11-06",
+		"last_update": "2017-11-06"
+	},
+	{
+		"publisher_id": 594,
+		"publisher_name": "PT RAJA GRAFIND0 PERSADA",
+		"input_date": "2017-11-06",
+		"last_update": "2017-11-06"
+	},
+	{
+		"publisher_id": 595,
+		"publisher_name": "UPP STIM YKPN",
+		"input_date": "2017-11-06",
+		"last_update": "2017-11-06"
+	},
+	{
+		"publisher_id": 596,
+		"publisher_name": "GRASINDO Media",
+		"input_date": "2017-11-06",
+		"last_update": "2017-11-06"
+	},
+	{
+		"publisher_id": 597,
+		"publisher_name": "BUMI ASKARA",
+		"input_date": "2017-11-06",
+		"last_update": "2017-11-06"
+	},
+	{
+		"publisher_id": 598,
+		"publisher_name": "RAIH ASA SUKSES",
+		"input_date": "2017-11-06",
+		"last_update": "2017-11-06"
+	},
+	{
+		"publisher_id": 599,
+		"publisher_name": "SAINS PRESS",
+		"input_date": "2017-11-06",
+		"last_update": "2017-11-06"
+	},
+	{
+		"publisher_id": 600,
+		"publisher_name": "PT CITRA ADITYA BAKTI",
+		"input_date": "2017-11-06",
+		"last_update": "2017-11-06"
+	},
+	{
+		"publisher_id": 601,
+		"publisher_name": "DIANDRA KREATIF",
+		"input_date": "2017-11-06",
+		"last_update": "2017-11-06"
+	},
+	{
+		"publisher_id": 602,
+		"publisher_name": "PT GRAMEDIA WIDIASARANA",
+		"input_date": "2017-11-06",
+		"last_update": "2017-11-06"
+	},
+	{
+		"publisher_id": 603,
+		"publisher_name": "ANDI OFFSET Media",
+		"input_date": "2017-11-06",
+		"last_update": "2017-11-06"
+	},
+	{
+		"publisher_id": 604,
+		"publisher_name": "PRIMA GRAFIKA",
+		"input_date": "2017-11-06",
+		"last_update": "2017-11-06"
+	},
+	{
+		"publisher_id": 605,
+		"publisher_name": "KEPUSTAKAAN POPULER GRAMEDIA",
+		"input_date": "2017-11-06",
+		"last_update": "2017-11-06"
+	},
+	{
+		"publisher_id": 606,
+		"publisher_name": "TEKNOSAIN",
+		"input_date": "2017-11-06",
+		"last_update": "2017-11-06"
+	},
+	{
+		"publisher_id": 607,
+		"publisher_name": "LAKS BANG",
+		"input_date": "2017-11-06",
+		"last_update": "2017-11-06"
+	},
+	{
+		"publisher_id": 608,
+		"publisher_name": "MEDIA TERA",
+		"input_date": "2017-11-06",
+		"last_update": "2017-11-06"
+	},
+	{
+		"publisher_id": 609,
+		"publisher_name": "BIP",
+		"input_date": "2017-11-06",
+		"last_update": "2017-11-06"
+	},
+	{
+		"publisher_id": 610,
+		"publisher_name": "INTRANS",
+		"input_date": "2017-11-06",
+		"last_update": "2017-11-06"
+	},
+	{
+		"publisher_id": 611,
+		"publisher_name": "MANAJEMEN BISNIS PARIWISATA",
+		"input_date": "2017-12-06",
+		"last_update": "2017-12-06"
+	},
+	{
+		"publisher_id": 612,
+		"publisher_name": "GALANGPRESS",
+		"input_date": "2017-12-06",
+		"last_update": "2017-12-06"
+	},
+	{
+		"publisher_id": 613,
+		"publisher_name": "ALVABETA",
+		"input_date": "2017-12-06",
+		"last_update": "2017-12-06"
+	},
+	{
+		"publisher_id": 614,
+		"publisher_name": "SEMESTA HIKMAH",
+		"input_date": "2017-12-06",
+		"last_update": "2017-12-06"
+	},
+	{
+		"publisher_id": 615,
+		"publisher_name": "CHECKLIST",
+		"input_date": "2017-12-07",
+		"last_update": "2017-12-07"
+	},
+	{
+		"publisher_id": 616,
+		"publisher_name": "TRANS MEDIA PUSTAKA",
+		"input_date": "2017-12-07",
+		"last_update": "2017-12-07"
+	},
+	{
+		"publisher_id": 617,
+		"publisher_name": "ECOSYSTEM PUBLISHING",
+		"input_date": "2017-12-07",
+		"last_update": "2017-12-07"
+	},
+	{
+		"publisher_id": 618,
+		"publisher_name": "TEKNOLOGI PENGOLAHAN HASIL TERNAK",
+		"input_date": "2017-12-12",
+		"last_update": "2017-12-12"
+	},
+	{
+		"publisher_id": 619,
+		"publisher_name": "AGRIBISNIS",
+		"input_date": "2017-12-12",
+		"last_update": "2017-12-12"
+	},
+	{
+		"publisher_id": 620,
+		"publisher_name": "TEKNIK MANUFATKUR KAPAL",
+		"input_date": "2017-12-12",
+		"last_update": "2017-12-12"
+	},
+	{
+		"publisher_id": 621,
+		"publisher_name": "KEMENTRIAN PARIWISATA",
+		"input_date": "2017-12-29",
+		"last_update": "2017-12-29"
+	},
+	{
+		"publisher_id": 622,
+		"publisher_name": "PESONA INDONESIA",
+		"input_date": "2017-12-29",
+		"last_update": "2017-12-29"
+	},
+	{
+		"publisher_id": 623,
+		"publisher_name": "KEMENTRIAN PARIWISATA REPUBLIK INDONESIA",
+		"input_date": "2017-12-29",
+		"last_update": "2017-12-29"
+	},
+	{
+		"publisher_id": 624,
+		"publisher_name": "WONDERFUL INDONESIA",
+		"input_date": "2017-12-29",
+		"last_update": "2017-12-29"
+	},
+	{
+		"publisher_id": 625,
+		"publisher_name": "PT RAJA GRAFINDO",
+		"input_date": "2018-01-04",
+		"last_update": "2018-01-04"
+	},
+	{
+		"publisher_id": 626,
+		"publisher_name": "PT RAJA GRAFINDO PERSADA",
+		"input_date": "2018-01-04",
+		"last_update": "2018-01-04"
+	},
+	{
+		"publisher_id": 627,
+		"publisher_name": "POLITEKNIK NEGRI BANYUWANGI",
+		"input_date": "2018-01-18",
+		"last_update": "2018-01-18"
+	},
+	{
+		"publisher_id": 628,
+		"publisher_name": "PENERBIT GAVA MEDIA",
+		"input_date": "2018-02-07",
+		"last_update": "2018-02-07"
+	},
+	{
+		"publisher_id": 629,
+		"publisher_name": "WIPRESS",
+		"input_date": "2018-02-07",
+		"last_update": "2018-02-07"
+	},
+	{
+		"publisher_id": 630,
+		"publisher_name": "CV. LINTAS MEDIA",
+		"input_date": "2018-02-07",
+		"last_update": "2018-02-07"
+	},
+	{
+		"publisher_id": 631,
+		"publisher_name": "INSTITUTE OF CIVIL SOCIETY (ICS)",
+		"input_date": "2018-02-07",
+		"last_update": "2018-02-07"
+	},
+	{
+		"publisher_id": 632,
+		"publisher_name": "SALARIS PUBLISHER",
+		"input_date": "2018-02-07",
+		"last_update": "2018-02-07"
+	},
+	{
+		"publisher_id": 633,
+		"publisher_name": "PT. BUKUNE KREATIF CIPTA",
+		"input_date": "2018-02-07",
+		"last_update": "2018-02-07"
+	},
+	{
+		"publisher_id": 634,
+		"publisher_name": "JOGJA BANGKIT PUBLISHER (ANGGOTA IKAPAI)",
+		"input_date": "2018-02-07",
+		"last_update": "2018-02-07"
+	},
+	{
+		"publisher_id": 635,
+		"publisher_name": "GRAMEDIA WIDIASARANA INDONESIA",
+		"input_date": "2018-02-07",
+		"last_update": "2018-02-07"
+	},
+	{
+		"publisher_id": 636,
+		"publisher_name": "NABAWI",
+		"input_date": "2018-02-07",
+		"last_update": "2018-02-07"
+	},
+	{
+		"publisher_id": 637,
+		"publisher_name": "PT REFIKA ADITAMA",
+		"input_date": "2018-02-07",
+		"last_update": "2018-02-07"
+	},
+	{
+		"publisher_id": 638,
+		"publisher_name": "GENTA SMART PUBLISHER",
+		"input_date": "2018-02-08",
+		"last_update": "2018-02-08"
+	},
+	{
+		"publisher_id": 639,
+		"publisher_name": "BUNDEL TRUBUS",
+		"input_date": "2018-02-08",
+		"last_update": "2018-02-08"
+	},
+	{
+		"publisher_id": 640,
+		"publisher_name": "TEKNIK SISPIL",
+		"input_date": "2018-02-08",
+		"last_update": "2018-02-08"
+	},
+	{
+		"publisher_id": 641,
+		"publisher_name": "ARCITRA",
+		"input_date": "2018-02-09",
+		"last_update": "2018-02-09"
+	},
+	{
+		"publisher_id": 642,
+		"publisher_name": "PT. LATIF KITTO MAHESA",
+		"input_date": "2018-02-09",
+		"last_update": "2018-02-09"
+	},
+	{
+		"publisher_id": 643,
+		"publisher_name": "CV. LOKOMEDIA",
+		"input_date": "2018-02-09",
+		"last_update": "2018-02-09"
+	},
+	{
+		"publisher_id": 644,
+		"publisher_name": "POLITEKNIK BANDUNG",
+		"input_date": "2018-02-26",
+		"last_update": "2018-02-26"
+	},
+	{
+		"publisher_id": 645,
+		"publisher_name": "PROGRAM STUDI MATEMATIKA FMIPA UNISDA LAMONGAN",
+		"input_date": "2018-02-26",
+		"last_update": "2018-02-26"
+	},
+	{
+		"publisher_id": 646,
+		"publisher_name": "FAKULTAS TEKNIK UNIVERSITAS NEGERI YOGYAKARTA",
+		"input_date": "2018-02-26",
+		"last_update": "2018-02-26"
+	},
+	{
+		"publisher_id": 647,
+		"publisher_name": "JURUSAN TEKNOLOGI INFORMASI POLITEKNIK NEGERI JEMBER",
+		"input_date": "2018-02-26",
+		"last_update": "2018-02-26"
+	},
+	{
+		"publisher_id": 648,
+		"publisher_name": "UNIVERSITAS AMIKOM YOGYAKARTA",
+		"input_date": "2018-02-26",
+		"last_update": "2018-02-26"
+	},
+	{
+		"publisher_id": 649,
+		"publisher_name": "UNIVERSITAS MERDEKA MALANG",
+		"input_date": "2018-02-26",
+		"last_update": "2018-02-26"
+	},
+	{
+		"publisher_id": 650,
+		"publisher_name": "UNIVERSITAS WIDYA KARTIKA",
+		"input_date": "2018-02-26",
+		"last_update": "2018-02-26"
+	},
+	{
+		"publisher_id": 651,
+		"publisher_name": "POLITEKNIK NEGERI MALANG",
+		"input_date": "2018-02-26",
+		"last_update": "2018-02-26"
+	},
+	{
+		"publisher_id": 652,
+		"publisher_name": "PT.GRAMEDIA WIDIASARANA INDONESIA",
+		"input_date": "2018-02-28",
+		"last_update": "2018-02-28"
+	},
+	{
+		"publisher_id": 653,
+		"publisher_name": "PUSTAKA DIANTARA",
+		"input_date": "2018-02-28",
+		"last_update": "2018-02-28"
+	},
+	{
+		"publisher_id": 654,
+		"publisher_name": "TEKNIK SIPIL POLITEKNIK NEGERI BANYUWANGI",
+		"input_date": "2018-03-07",
+		"last_update": "2018-03-07"
+	},
+	{
+		"publisher_id": 655,
+		"publisher_name": "TEKNIK MESIN POLITEKNIK NEGERI BANYUWANGI",
+		"input_date": "2018-03-07",
+		"last_update": "2018-03-07"
+	},
+	{
+		"publisher_id": 656,
+		"publisher_name": "DENPASAR BALI",
+		"input_date": "2018-04-04",
+		"last_update": "2018-04-04"
+	},
+	{
+		"publisher_id": 657,
+		"publisher_name": "PROGRAM STUDI AGROTEKNOLOGI  FAKULTAS PERTANIAN UNS",
+		"input_date": "2018-05-02",
+		"last_update": "2018-05-02"
+	},
+	{
+		"publisher_id": 658,
+		"publisher_name": "TEKNOLOGI PENGOLAHAN HASIL TERNAK POLITEKNIK NEGERI BANYUWANGI",
+		"input_date": "2018-05-17",
+		"last_update": "2018-05-17"
+	},
+	{
+		"publisher_id": 659,
+		"publisher_name": "TPHT POLITEKNIK NEGERI BANYUWANGI",
+		"input_date": "2018-05-17",
+		"last_update": "2018-05-17"
+	},
+	{
+		"publisher_id": 660,
+		"publisher_name": "UNIVERSITAS NEGERI SURAKARTA",
+		"input_date": "2018-05-25",
+		"last_update": "2018-05-25"
+	},
+	{
+		"publisher_id": 661,
+		"publisher_name": "DWIMEDIA PRESS",
+		"input_date": "2018-07-18",
+		"last_update": "2018-07-18"
+	},
+	{
+		"publisher_id": 662,
+		"publisher_name": "CV PUSTAKA SETIA",
+		"input_date": "2018-07-18",
+		"last_update": "2018-07-18"
+	},
+	{
+		"publisher_id": 663,
+		"publisher_name": "multi pressindo",
+		"input_date": "2018-08-20",
+		"last_update": "2018-08-20"
+	},
+	{
+		"publisher_id": 664,
+		"publisher_name": "BAYU MEDIA",
+		"input_date": "2018-08-20",
+		"last_update": "2018-08-20"
+	},
+	{
+		"publisher_id": 665,
+		"publisher_name": "PT ALEX MEDIA KOMPUTINDO",
+		"input_date": "2018-08-27",
+		"last_update": "2018-08-27"
+	},
+	{
+		"publisher_id": 666,
+		"publisher_name": "CAPS",
+		"input_date": "2018-08-28",
+		"last_update": "2018-08-28"
+	},
+	{
+		"publisher_id": 667,
+		"publisher_name": "BASA BASI",
+		"input_date": "2018-08-28",
+		"last_update": "2018-08-28"
+	},
+	{
+		"publisher_id": 668,
+		"publisher_name": "FAKULTAS TEKNIK UNIVERSITAS DI PONEGORO",
+		"input_date": "2018-08-28",
+		"last_update": "2018-08-28"
+	},
+	{
+		"publisher_id": 669,
+		"publisher_name": "UNTAD PRESS",
+		"input_date": "2018-08-28",
+		"last_update": "2018-08-28"
+	},
+	{
+		"publisher_id": 670,
+		"publisher_name": "UR PRESS",
+		"input_date": "2018-08-28",
+		"last_update": "2018-08-28"
+	},
+	{
+		"publisher_id": 671,
+		"publisher_name": "AUP",
+		"input_date": "2018-08-28",
+		"last_update": "2018-08-28"
+	},
+	{
+		"publisher_id": 672,
+		"publisher_name": "LAIQA",
+		"input_date": "2018-08-31",
+		"last_update": "2018-08-31"
+	},
+	{
+		"publisher_id": 673,
+		"publisher_name": "BHUANA SASTRA",
+		"input_date": "2018-10-03",
+		"last_update": "2018-10-03"
+	},
+	{
+		"publisher_id": 674,
+		"publisher_name": "COCONOT BOOKS",
+		"input_date": "2018-10-09",
+		"last_update": "2018-10-09"
+	},
+	{
+		"publisher_id": 675,
+		"publisher_name": "PT BALAI PUSTAKA",
+		"input_date": "2018-10-09",
+		"last_update": "2018-10-09"
+	},
+	{
+		"publisher_id": 676,
+		"publisher_name": "BINTANG NUSANTARA",
+		"input_date": "2018-10-09",
+		"last_update": "2018-10-09"
+	},
+	{
+		"publisher_id": 677,
+		"publisher_name": "PRENADA MEDIA GROUP",
+		"input_date": "2018-10-10",
+		"last_update": "2018-10-10"
+	},
+	{
+		"publisher_id": 678,
+		"publisher_name": "SOCIALITY",
+		"input_date": "2018-10-15",
+		"last_update": "2018-10-15"
+	},
+	{
+		"publisher_id": 679,
+		"publisher_name": "PT SARANA TUTORIAL NURANI SEJAHTERA",
+		"input_date": "2018-10-17",
+		"last_update": "2018-10-17"
+	},
+	{
+		"publisher_id": 680,
+		"publisher_name": "TRANS IDEA PUBLISHING",
+		"input_date": "2018-10-17",
+		"last_update": "2018-10-17"
+	},
+	{
+		"publisher_id": 681,
+		"publisher_name": "IMMORTAL PUBLISHING",
+		"input_date": "2018-10-17",
+		"last_update": "2018-10-17"
+	},
+	{
+		"publisher_id": 682,
+		"publisher_name": "PSIKOLOGI CORNER",
+		"input_date": "2018-12-07",
+		"last_update": "2018-12-07"
+	},
+	{
+		"publisher_id": 683,
+		"publisher_name": "ALEX MEDIA KOMPUTINDO",
+		"input_date": "2018-12-07",
+		"last_update": "2018-12-07"
+	},
+	{
+		"publisher_id": 684,
+		"publisher_name": "TIGA SERANGKAI",
+		"input_date": "2018-12-10",
+		"last_update": "2018-12-10"
+	},
+	{
+		"publisher_id": 685,
+		"publisher_name": "PUSTAKA KEMANG",
+		"input_date": "2018-12-31",
+		"last_update": "2018-12-31"
+	},
+	{
+		"publisher_id": 686,
+		"publisher_name": "DAHARA PRIZE",
+		"input_date": "2018-12-31",
+		"last_update": "2018-12-31"
+	},
+	{
+		"publisher_id": 687,
+		"publisher_name": "HUMANIORA",
+		"input_date": "2018-12-31",
+		"last_update": "2018-12-31"
+	},
+	{
+		"publisher_id": 688,
+		"publisher_name": "CHARISSA PUBLISHER",
+		"input_date": "2018-12-31",
+		"last_update": "2018-12-31"
+	},
+	{
+		"publisher_id": 689,
+		"publisher_name": "LENTERA DI PANTARA",
+		"input_date": "2018-12-31",
+		"last_update": "2018-12-31"
+	},
+	{
+		"publisher_id": 690,
+		"publisher_name": "BELIBIS PUSTAKA",
+		"input_date": "2019-01-02",
+		"last_update": "2019-01-02"
+	},
+	{
+		"publisher_id": 691,
+		"publisher_name": "WAHYU QOLBU",
+		"input_date": "2019-01-02",
+		"last_update": "2019-01-02"
+	},
+	{
+		"publisher_id": 692,
+		"publisher_name": "STORY HOUSE",
+		"input_date": "2019-01-02",
+		"last_update": "2019-01-02"
+	},
+	{
+		"publisher_id": 693,
+		"publisher_name": "BUKU MOJOK",
+		"input_date": "2019-01-02",
+		"last_update": "2019-01-02"
+	},
+	{
+		"publisher_id": 694,
+		"publisher_name": "DEEPUBLISH",
+		"input_date": "2019-01-07",
+		"last_update": "2019-01-07"
+	},
+	{
+		"publisher_id": 695,
+		"publisher_name": "PT. DUNIA PUSTAKA JAYA",
+		"input_date": "2019-01-28",
+		"last_update": "2019-01-28"
+	},
+	{
+		"publisher_id": 696,
+		"publisher_name": "ROWMAN AND LITTLEFIELD PUBLISHERS",
+		"input_date": "2019-01-28",
+		"last_update": "2019-01-28"
+	},
+	{
+		"publisher_id": 697,
+		"publisher_name": "TEACHERS COLLEGE PRESS",
+		"input_date": "2019-01-28",
+		"last_update": "2019-01-28"
+	},
+	{
+		"publisher_id": 698,
+		"publisher_name": "YUMA PUSTAKA",
+		"input_date": "2019-01-28",
+		"last_update": "2019-01-28"
+	},
+	{
+		"publisher_id": 699,
+		"publisher_name": "PLANTAXIA",
+		"input_date": "2019-01-28",
+		"last_update": "2019-01-28"
+	},
+	{
+		"publisher_id": 700,
+		"publisher_name": "INTIMEDIA",
+		"input_date": "2019-01-29",
+		"last_update": "2019-01-29"
+	},
+	{
+		"publisher_id": 701,
+		"publisher_name": "PRENAMEDIA GROUP",
+		"input_date": "2019-01-29",
+		"last_update": "2019-01-29"
+	},
+	{
+		"publisher_id": 702,
+		"publisher_name": "UNIVERSITAS TERBUKA",
+		"input_date": "2019-02-22",
+		"last_update": "2019-02-22"
+	},
+	{
+		"publisher_id": 703,
+		"publisher_name": "ADDISON - WESLEY",
+		"input_date": "2019-02-25",
+		"last_update": "2019-02-25"
+	},
+	{
+		"publisher_id": 704,
+		"publisher_name": "APRESS",
+		"input_date": "2019-02-25",
+		"last_update": "2019-02-25"
+	},
+	{
+		"publisher_id": 705,
+		"publisher_name": "PT. INDEKS",
+		"input_date": "2019-02-25",
+		"last_update": "2019-02-25"
+	},
+	{
+		"publisher_id": 706,
+		"publisher_name": "MC GRAW HILL EDUCATION",
+		"input_date": "2019-02-26",
+		"last_update": "2019-02-26"
+	},
+	{
+		"publisher_id": 707,
+		"publisher_name": "BUTTERWORTH- HEINEMANN",
+		"input_date": "2019-02-26",
+		"last_update": "2019-02-26"
+	},
+	{
+		"publisher_id": 708,
+		"publisher_name": "WILEY INDIA EDITION",
+		"input_date": "2019-02-26",
+		"last_update": "2019-02-26"
+	},
+	{
+		"publisher_id": 709,
+		"publisher_name": "PACKT PUBLISHING",
+		"input_date": "2019-02-27",
+		"last_update": "2019-02-27"
+	},
+	{
+		"publisher_id": 710,
+		"publisher_name": "PEARSEN",
+		"input_date": "2019-02-27",
+		"last_update": "2019-02-27"
+	},
+	{
+		"publisher_id": 711,
+		"publisher_name": "ROCKPORT PUBLISH Inc",
+		"input_date": "2019-02-27",
+		"last_update": "2019-02-27"
+	},
+	{
+		"publisher_id": 712,
+		"publisher_name": "SAGE PUBLISH",
+		"input_date": "2019-02-27",
+		"last_update": "2019-02-27"
+	},
+	{
+		"publisher_id": 713,
+		"publisher_name": "CHANNEL VIEW PUBLICATIONS",
+		"input_date": "2019-02-27",
+		"last_update": "2019-02-27"
+	},
+	{
+		"publisher_id": 714,
+		"publisher_name": "McGRAW HILL EDUCATION",
+		"input_date": "2019-02-27",
+		"last_update": "2019-02-27"
+	},
+	{
+		"publisher_id": 715,
+		"publisher_name": "JOSEPH SAWYER",
+		"input_date": "2019-02-27",
+		"last_update": "2019-02-27"
+	},
+	{
+		"publisher_id": 716,
+		"publisher_name": "ITB PRESS",
+		"input_date": "2019-02-27",
+		"last_update": "2019-02-27"
+	},
+	{
+		"publisher_id": 717,
+		"publisher_name": "McGRAW HILL EDUCATIONS",
+		"input_date": "2019-02-27",
+		"last_update": "2019-02-27"
+	},
+	{
+		"publisher_id": 718,
+		"publisher_name": "JONN WILEY & SONS",
+		"input_date": "2019-02-27",
+		"last_update": "2019-02-27"
+	},
+	{
+		"publisher_id": 719,
+		"publisher_name": "DIAN RAKYAT",
+		"input_date": "2019-02-27",
+		"last_update": "2019-02-27"
+	},
+	{
+		"publisher_id": 720,
+		"publisher_name": "UIN-MALIKI PRESS",
+		"input_date": "2019-03-01",
+		"last_update": "2019-03-01"
+	},
+	{
+		"publisher_id": 721,
+		"publisher_name": "CRS PRESS",
+		"input_date": "2019-03-04",
+		"last_update": "2019-03-04"
+	},
+	{
+		"publisher_id": 722,
+		"publisher_name": "WILEY - BLAVKWELL",
+		"input_date": "2019-03-05",
+		"last_update": "2019-03-05"
+	},
+	{
+		"publisher_id": 723,
+		"publisher_name": "CABI",
+		"input_date": "2019-03-05",
+		"last_update": "2019-03-05"
+	},
+	{
+		"publisher_id": 724,
+		"publisher_name": "DJANGKAR",
+		"input_date": "2019-03-05",
+		"last_update": "2019-03-05"
+	},
+	{
+		"publisher_id": 725,
+		"publisher_name": "ARASKA PUBLISER",
+		"input_date": "2019-03-06",
+		"last_update": "2019-03-06"
+	},
+	{
+		"publisher_id": 726,
+		"publisher_name": "PENERBIT BUKU KEDOKTERAN",
+		"input_date": "2019-03-08",
+		"last_update": "2019-03-08"
+	},
+	{
+		"publisher_id": 727,
+		"publisher_name": "INNOSAIN",
+		"input_date": "2019-03-08",
+		"last_update": "2019-03-08"
+	},
+	{
+		"publisher_id": 728,
+		"publisher_name": "WILLIAM MORROW",
+		"input_date": "2019-03-08",
+		"last_update": "2019-03-08"
+	},
+	{
+		"publisher_id": 729,
+		"publisher_name": "ICEAT",
+		"input_date": "2019-03-08",
+		"last_update": "2019-03-08"
+	},
+	{
+		"publisher_id": 730,
+		"publisher_name": "PROGRAM STUDI AGROTEKNOLOGI,FAKULTAS PERTANIAN UNS",
+		"input_date": "2019-03-08",
+		"last_update": "2019-03-08"
+	},
+	{
+		"publisher_id": 731,
+		"publisher_name": "FGDT.PTM",
+		"input_date": "2019-08-21",
+		"last_update": "2019-08-21"
+	},
+	{
+		"publisher_id": 732,
+		"publisher_name": "UNIVERSITAS JEMBER",
+		"input_date": "2019-08-21",
+		"last_update": "2019-08-21"
+	},
+	{
+		"publisher_id": 733,
+		"publisher_name": "UNINUS",
+		"input_date": "2019-08-21",
+		"last_update": "2019-08-21"
+	},
+	{
+		"publisher_id": 734,
+		"publisher_name": "PPPM",
+		"input_date": "2019-08-21",
+		"last_update": "2019-08-21"
+	},
+	{
+		"publisher_id": 735,
+		"publisher_name": "MITRA BEBESTARI",
+		"input_date": "2019-08-21",
+		"last_update": "2019-08-21"
+	},
+	{
+		"publisher_id": 736,
+		"publisher_name": "P3M POLITEKNIK NEGERI JEMBER",
+		"input_date": "2019-08-21",
+		"last_update": "2019-08-21"
+	},
+	{
+		"publisher_id": 737,
+		"publisher_name": "FISIP UNIVERSITAS JEMBER",
+		"input_date": "2019-08-21",
+		"last_update": "2019-08-21"
+	},
+	{
+		"publisher_id": 738,
+		"publisher_name": "AGROTEKNOLOGI FAKULTAS PERTANIAN UNS",
+		"input_date": "2019-08-21",
+		"last_update": "2019-08-21"
+	},
+	{
+		"publisher_id": 739,
+		"publisher_name": "JURUSAN PETERNAKAN POLITEKNIK NEGERI JEMBER",
+		"input_date": "2019-08-21",
+		"last_update": "2019-08-21"
+	},
+	{
+		"publisher_id": 740,
+		"publisher_name": "POLITEKNIK NEGERI TANAH LAUT",
+		"input_date": "2019-08-21",
+		"last_update": "2019-08-21"
+	},
+	{
+		"publisher_id": 741,
+		"publisher_name": "JURUSAN PETERNAKAN FAKULTAS PERTANIAN",
+		"input_date": "2019-08-21",
+		"last_update": "2019-08-21"
+	},
+	{
+		"publisher_id": 742,
+		"publisher_name": "JIIP",
+		"input_date": "2019-08-21",
+		"last_update": "2019-08-21"
+	},
+	{
+		"publisher_id": 743,
+		"publisher_name": "AKADEMI KOMUNITAS MAPINDO",
+		"input_date": "2019-08-21",
+		"last_update": "2019-08-21"
+	},
+	{
+		"publisher_id": 744,
+		"publisher_name": "MADZA MEDIA",
+		"input_date": "2019-09-30",
+		"last_update": "2019-09-30"
+	},
+	{
+		"publisher_id": 745,
+		"publisher_name": "TRANSMEDIA",
+		"input_date": "2019-10-09",
+		"last_update": "2019-10-09"
+	},
+	{
+		"publisher_id": 746,
+		"publisher_name": "FAKULTAS KEGURUAN DAN ILMU PENDIDIKAN UNIVERSITAS KATOLIK WIDYA MANDALA SURABAYA",
+		"input_date": "2019-10-14",
+		"last_update": "2019-10-14"
+	},
+	{
+		"publisher_id": 747,
+		"publisher_name": "GAVA MDEIA",
+		"input_date": "2019-12-09",
+		"last_update": "2019-12-09"
+	},
+	{
+		"publisher_id": 748,
+		"publisher_name": "PUSTAKA MAKMUR",
+		"input_date": "2019-12-09",
+		"last_update": "2019-12-09"
+	},
+	{
+		"publisher_id": 749,
+		"publisher_name": "CV.ASFA SOLUTION,SOFTWARE DEVELOPMENT,IT DAN PUBLISHING",
+		"input_date": "2019-12-09",
+		"last_update": "2019-12-09"
+	},
+	{
+		"publisher_id": 750,
+		"publisher_name": "KATA PENA",
+		"input_date": "2019-12-10",
+		"last_update": "2019-12-10"
+	},
+	{
+		"publisher_id": 751,
+		"publisher_name": "WHITTLES PUBLISHING",
+		"input_date": "2019-12-10",
+		"last_update": "2019-12-10"
+	},
+	{
+		"publisher_id": 752,
+		"publisher_name": "PALGRAVE MACMILLAN",
+		"input_date": "2019-12-10",
+		"last_update": "2019-12-10"
+	},
+	{
+		"publisher_id": 753,
+		"publisher_name": "UB PRESS",
+		"input_date": "2019-12-11",
+		"last_update": "2019-12-11"
+	},
+	{
+		"publisher_id": 754,
+		"publisher_name": "BUKU OBOR",
+		"input_date": "2019-12-11",
+		"last_update": "2019-12-11"
+	},
+	{
+		"publisher_id": 755,
+		"publisher_name": "KAKTUS",
+		"input_date": "2019-12-12",
+		"last_update": "2019-12-12"
+	},
+	{
+		"publisher_id": 756,
+		"publisher_name": "TINTA MEDINA",
+		"input_date": "2019-12-12",
+		"last_update": "2019-12-12"
+	},
+	{
+		"publisher_id": 757,
+		"publisher_name": "DIDA PUSTAKA",
+		"input_date": "2019-12-12",
+		"last_update": "2019-12-12"
+	},
+	{
+		"publisher_id": 758,
+		"publisher_name": "REAL BOOKS",
+		"input_date": "2019-12-12",
+		"last_update": "2019-12-12"
+	},
+	{
+		"publisher_id": 759,
+		"publisher_name": "KATA DEPAN",
+		"input_date": "2019-12-12",
+		"last_update": "2019-12-12"
+	},
+	{
+		"publisher_id": 760,
+		"publisher_name": "UNS PRESS",
+		"input_date": "2019-12-13",
+		"last_update": "2019-12-13"
+	},
+	{
+		"publisher_id": 761,
+		"publisher_name": "PUSTAKA MAHARDIKA",
+		"input_date": "2019-12-16",
+		"last_update": "2019-12-16"
+	},
+	{
+		"publisher_id": 762,
+		"publisher_name": "IAP",
+		"input_date": "2019-12-16",
+		"last_update": "2019-12-16"
+	},
+	{
+		"publisher_id": 763,
+		"publisher_name": "METAGRAF",
+		"input_date": "2019-12-17",
+		"last_update": "2019-12-17"
+	},
+	{
+		"publisher_id": 764,
+		"publisher_name": "C-KLIK MEDIA",
+		"input_date": "2019-12-17",
+		"last_update": "2019-12-17"
+	},
+	{
+		"publisher_id": 765,
+		"publisher_name": "GENESIS",
+		"input_date": "2019-12-17",
+		"last_update": "2019-12-17"
+	},
+	{
+		"publisher_id": 766,
+		"publisher_name": "ROEMAH SOEKARNO",
+		"input_date": "2019-12-17",
+		"last_update": "2019-12-17"
+	},
+	{
+		"publisher_id": 767,
+		"publisher_name": "GRADIEN MEDIATAMA",
+		"input_date": "2019-12-18",
+		"last_update": "2019-12-18"
+	},
+	{
+		"publisher_id": 768,
+		"publisher_name": "URBAN ROMANCE",
+		"input_date": "2019-12-18",
+		"last_update": "2019-12-18"
+	},
+	{
+		"publisher_id": 769,
+		"publisher_name": "BRIGHT PUBLISHER",
+		"input_date": "2019-12-19",
+		"last_update": "2019-12-19"
+	},
+	{
+		"publisher_id": 770,
+		"publisher_name": "PASTEL BOOKS",
+		"input_date": "2019-12-19",
+		"last_update": "2019-12-19"
+	},
+	{
+		"publisher_id": 771,
+		"publisher_name": "SYALMAHAT PUBLISHING",
+		"input_date": "2019-12-20",
+		"last_update": "2019-12-20"
+	},
+	{
+		"publisher_id": 772,
+		"publisher_name": "ERAMEDIA",
+		"input_date": "2019-12-20",
+		"last_update": "2019-12-20"
+	},
+	{
+		"publisher_id": 773,
+		"publisher_name": "ANDALIMAN BOOKS",
+		"input_date": "2019-12-23",
+		"last_update": "2019-12-23"
+	},
+	{
+		"publisher_id": 774,
+		"publisher_name": "IMMORTAL PUBLISHING DAN OCTOPUS",
+		"input_date": "2019-12-23",
+		"last_update": "2019-12-23"
+	},
+	{
+		"publisher_id": 775,
+		"publisher_name": "NAURA",
+		"input_date": "2019-12-23",
+		"last_update": "2019-12-23"
+	},
+	{
+		"publisher_id": 776,
+		"publisher_name": "PAPAS SINAR SINANTI",
+		"input_date": "2019-12-23",
+		"last_update": "2019-12-23"
+	},
+	{
+		"publisher_id": 777,
+		"publisher_name": "NOKTAH",
+		"input_date": "2019-12-27",
+		"last_update": "2019-12-27"
+	},
+	{
+		"publisher_id": 778,
+		"publisher_name": "UD.ERIKA BOOKS MEDIA PUBLISHING",
+		"input_date": "2019-12-30",
+		"last_update": "2019-12-30"
+	},
+	{
+		"publisher_id": 779,
+		"publisher_name": "WALI PUSTAKA",
+		"input_date": "2019-12-30",
+		"last_update": "2019-12-30"
+	},
+	{
+		"publisher_id": 780,
+		"publisher_name": "PUSTAKA IMAN",
+		"input_date": "2019-12-31",
+		"last_update": "2019-12-31"
+	},
+	{
+		"publisher_id": 781,
+		"publisher_name": "EA BOOKS",
+		"input_date": "2019-12-31",
+		"last_update": "2019-12-31"
+	},
+	{
+		"publisher_id": 782,
+		"publisher_name": "SALAM BOOKS",
+		"input_date": "2020-01-02",
+		"last_update": "2020-01-02"
+	},
+	{
+		"publisher_id": 783,
+		"publisher_name": "NAULI",
+		"input_date": "2020-01-02",
+		"last_update": "2020-01-02"
+	},
+	{
+		"publisher_id": 784,
+		"publisher_name": "CAESAR MEDIA PUSTAKA",
+		"input_date": "2020-01-02",
+		"last_update": "2020-01-02"
+	},
+	{
+		"publisher_id": 785,
+		"publisher_name": "QUANTA",
+		"input_date": "2020-01-13",
+		"last_update": "2020-01-13"
+	},
+	{
+		"publisher_id": 786,
+		"publisher_name": "EFDE MEDIA",
+		"input_date": "2020-01-14",
+		"last_update": "2020-01-14"
+	},
+	{
+		"publisher_id": 787,
+		"publisher_name": "SUPALA CEMERLANG",
+		"input_date": "2020-01-14",
+		"last_update": "2020-01-14"
+	},
+	{
+		"publisher_id": 788,
+		"publisher_name": "DARI MIZAN",
+		"input_date": "2020-01-14",
+		"last_update": "2020-01-14"
+	},
+	{
+		"publisher_id": 789,
+		"publisher_name": "HISTERIA",
+		"input_date": "2020-01-15",
+		"last_update": "2020-01-15"
+	},
+	{
+		"publisher_id": 790,
+		"publisher_name": "THE PANAS DALAM PUBLI SHING",
+		"input_date": "2020-01-16",
+		"last_update": "2020-01-16"
+	},
+	{
+		"publisher_id": 791,
+		"publisher_name": "PT.BUKUNE KREATIF CIPTA",
+		"input_date": "2020-01-16",
+		"last_update": "2020-01-16"
+	},
+	{
+		"publisher_id": 792,
+		"publisher_name": "NARASI",
+		"input_date": "2020-01-17",
+		"last_update": "2020-01-17"
+	},
+	{
+		"publisher_id": 793,
+		"publisher_name": "AZKA",
+		"input_date": "2020-01-20",
+		"last_update": "2020-01-20"
+	},
+	{
+		"publisher_id": 794,
+		"publisher_name": "AKAR INDONESIA",
+		"input_date": "2020-01-20",
+		"last_update": "2020-01-20"
+	},
+	{
+		"publisher_id": 795,
+		"publisher_name": "PT KANISIUS",
+		"input_date": "2020-01-20",
+		"last_update": "2020-01-20"
+	},
+	{
+		"publisher_id": 796,
+		"publisher_name": "CV BUDI UTAMA",
+		"input_date": "2020-01-21",
+		"last_update": "2020-01-21"
+	},
+	{
+		"publisher_id": 797,
+		"publisher_name": "ANDALAS UNIVERSITY PRESS",
+		"input_date": "2020-01-21",
+		"last_update": "2020-01-21"
+	},
+	{
+		"publisher_id": 798,
+		"publisher_name": "REKAYASA SAIN1S",
+		"input_date": "2020-01-24",
+		"last_update": "2020-01-24"
+	},
+	{
+		"publisher_id": 799,
+		"publisher_name": "SECURITY LABEL",
+		"input_date": "2020-01-29",
+		"last_update": "2020-01-29"
+	},
+	{
+		"publisher_id": 800,
+		"publisher_name": "PENGUIN RANDOM HOUSE",
+		"input_date": "2020-02-03",
+		"last_update": "2020-02-03"
+	},
+	{
+		"publisher_id": 801,
+		"publisher_name": "SAPTA BOOKS",
+		"input_date": "2020-02-06",
+		"last_update": "2020-02-06"
+	},
+	{
+		"publisher_id": 802,
+		"publisher_name": "PT.SAPTA SENTOSA",
+		"input_date": "2020-02-10",
+		"last_update": "2020-02-10"
+	},
+	{
+		"publisher_id": 803,
+		"publisher_name": "BINA PATRIA",
+		"input_date": "2020-02-24",
+		"last_update": "2020-02-24"
+	},
+	{
+		"publisher_id": 804,
+		"publisher_name": "FAKULTAS TEKNOLOGI PANGAN DAN AGROINDUSTRI UNIVERSITAS MATARAM",
+		"input_date": "2020-02-24",
+		"last_update": "2020-02-24"
+	},
+	{
+		"publisher_id": 805,
+		"publisher_name": "FAKULTAS PENDIDIKAN BAHASA DAN SENI PROGRAM STUDI PENDIDIKAN BAHASA INGGRIS IKIP MATARAM",
+		"input_date": "2020-02-24",
+		"last_update": "2020-02-24"
+	},
+	{
+		"publisher_id": 806,
+		"publisher_name": "PROGRAM STUDI PENDIDIKAN BIOLOGI FAKULTAS MATEMATIKA DAN ILMU PENGETAHUAN ALAM IKIP PGRI JEMBER",
+		"input_date": "2020-02-24",
+		"last_update": "2020-02-24"
+	},
+	{
+		"publisher_id": 807,
+		"publisher_name": "POLITEKNIK NEGERI BANYUWANGI3",
+		"input_date": "2020-12-30",
+		"last_update": "2020-12-30"
+	},
+	{
+		"publisher_id": 808,
+		"publisher_name": "MEHRA OFFSET PRESS",
+		"input_date": "2021-01-26",
+		"last_update": "2021-01-26"
+	},
+	{
+		"publisher_id": 809,
+		"publisher_name": "TILAK WASAN",
+		"input_date": "2021-01-26",
+		"last_update": "2021-01-26"
+	},
+	{
+		"publisher_id": 810,
+		"publisher_name": "CRC Press \/ Balkema",
+		"input_date": "2021-02-09",
+		"last_update": "2021-02-09"
+	},
+	{
+		"publisher_id": 811,
+		"publisher_name": "SHEILA PUBLISHER",
+		"input_date": "2021-02-16",
+		"last_update": "2021-02-16"
+	},
+	{
+		"publisher_id": 812,
+		"publisher_name": "POLITEKNIK NEGERI BANYUWANGI2021",
+		"input_date": "2021-02-24",
+		"last_update": "2021-02-24"
+	},
+	{
+		"publisher_id": 813,
+		"publisher_name": "GADJAH MADA  UNIVERSITY PRESS",
+		"input_date": "2021-03-02",
+		"last_update": "2021-03-02"
+	},
+	{
+		"publisher_id": 814,
+		"publisher_name": "SOLUSI DISTRIBUSI",
+		"input_date": "2021-03-03",
+		"last_update": "2021-03-03"
+	},
+	{
+		"publisher_id": 815,
+		"publisher_name": "PRENADAMEDIA GROUP",
+		"input_date": "2021-03-03",
+		"last_update": "2021-03-03"
+	},
+	{
+		"publisher_id": 816,
+		"publisher_name": "GARASI",
+		"input_date": "2021-03-17",
+		"last_update": "2021-03-17"
+	},
+	{
+		"publisher_id": 817,
+		"publisher_name": "RANKING",
+		"input_date": "2021-03-17",
+		"last_update": "2021-03-17"
+	},
+	{
+		"publisher_id": 818,
+		"publisher_name": "Wiley Custom",
+		"input_date": "2021-03-18",
+		"last_update": "2021-03-18"
+	},
+	{
+		"publisher_id": 819,
+		"publisher_name": "STOREY PUBLISHING",
+		"input_date": "2021-03-18",
+		"last_update": "2021-03-18"
+	},
+	{
+		"publisher_id": 820,
+		"publisher_name": "START UP",
+		"input_date": "2021-03-18",
+		"last_update": "2021-03-18"
+	},
+	{
+		"publisher_id": 821,
+		"publisher_name": "GRAFIKA MARDI YUANA",
+		"input_date": "2021-03-18",
+		"last_update": "2021-03-18"
+	},
+	{
+		"publisher_id": 822,
+		"publisher_name": "ARASKA PUBLISHER",
+		"input_date": "2021-03-22",
+		"last_update": "2021-03-22"
+	},
+	{
+		"publisher_id": 823,
+		"publisher_name": "PENEBAR SWADAYA GRUP",
+		"input_date": "2021-03-23",
+		"last_update": "2021-03-23"
+	},
+	{
+		"publisher_id": 824,
+		"publisher_name": "COCONUT BOOKS",
+		"input_date": "2021-03-24",
+		"last_update": "2021-03-24"
+	},
+	{
+		"publisher_id": 825,
+		"publisher_name": "QAF MEDIA KREATIF",
+		"input_date": "2021-03-25",
+		"last_update": "2021-03-25"
+	},
+	{
+		"publisher_id": 826,
+		"publisher_name": "CHELSEA GREEN PUBLISHING",
+		"input_date": "2021-03-31",
+		"last_update": "2021-03-31"
+	},
+	{
+		"publisher_id": 827,
+		"publisher_name": "SOCIETY FOR MINING, METALLURGE, AND EXPLORATION",
+		"input_date": "2021-03-31",
+		"last_update": "2021-03-31"
+	},
+	{
+		"publisher_id": 828,
+		"publisher_name": "BIO-DIVERSITY CONSERVATION AND WILDLIFE TOURISM",
+		"input_date": "2021-03-31",
+		"last_update": "2021-03-31"
+	},
+	{
+		"publisher_id": 829,
+		"publisher_name": "DPH",
+		"input_date": "2021-04-05",
+		"last_update": "2021-04-05"
+	},
+	{
+		"publisher_id": 830,
+		"publisher_name": "Discovery Publishing House PVT. LTD",
+		"input_date": "2021-04-07",
+		"last_update": "2021-04-07"
+	},
+	{
+		"publisher_id": 831,
+		"publisher_name": "RAIN BOOK",
+		"input_date": "2021-04-20",
+		"last_update": "2021-04-20"
+	},
+	{
+		"publisher_id": 832,
+		"publisher_name": "ZIKRUL HAKIM",
+		"input_date": "2021-04-20",
+		"last_update": "2021-04-20"
+	},
+	{
+		"publisher_id": 833,
+		"publisher_name": "DISCOVERY PUBLISHING HOUSE PVT.LTD",
+		"input_date": "2021-04-20",
+		"last_update": "2021-04-20"
+	},
+	{
+		"publisher_id": 834,
+		"publisher_name": "UNICORN",
+		"input_date": "2021-04-28",
+		"last_update": "2021-04-28"
+	},
+	{
+		"publisher_id": 835,
+		"publisher_name": "SALSABILA",
+		"input_date": "2021-04-28",
+		"last_update": "2021-04-28"
+	},
+	{
+		"publisher_id": 836,
+		"publisher_name": "MANGGU MAKMUR TANJUNG LESTARI",
+		"input_date": "2021-05-21",
+		"last_update": "2021-05-21"
+	},
+	{
+		"publisher_id": 837,
+		"publisher_name": "STARTUP",
+		"input_date": "2021-06-09",
+		"last_update": "2021-06-09"
+	},
+	{
+		"publisher_id": 838,
+		"publisher_name": "NOVA SCIENCE PUBLIESHER",
+		"input_date": "2021-06-10",
+		"last_update": "2021-06-10"
+	},
+	{
+		"publisher_id": 839,
+		"publisher_name": "Spinger",
+		"input_date": "2021-06-22",
+		"last_update": "2021-06-22"
+	},
+	{
+		"publisher_id": 840,
+		"publisher_name": "Elsevier , Joe Hayton",
+		"input_date": "2021-06-22",
+		"last_update": "2021-06-22"
+	},
+	{
+		"publisher_id": 841,
+		"publisher_name": "USA  Middletown, DE",
+		"input_date": "2021-06-22",
+		"last_update": "2021-06-22"
+	},
+	{
+		"publisher_id": 842,
+		"publisher_name": "World Scientific Publishing Europe Ltd",
+		"input_date": "2021-06-22",
+		"last_update": "2021-06-22"
+	},
+	{
+		"publisher_id": 843,
+		"publisher_name": "CV.ASVA SOLUTION",
+		"input_date": "2021-09-02",
+		"last_update": "2021-09-02"
+	},
+	{
+		"publisher_id": 844,
+		"publisher_name": "PRENADA  MEDIA GRUP",
+		"input_date": "2021-09-02",
+		"last_update": "2021-09-02"
+	},
+	{
+		"publisher_id": 845,
+		"publisher_name": "MIZAN EXPOSE",
+		"input_date": "2021-09-02",
+		"last_update": "2021-09-02"
+	},
+	{
+		"publisher_id": 846,
+		"publisher_name": "PUSTAKA MEDIA SETIA",
+		"input_date": "2021-09-06",
+		"last_update": "2021-09-06"
+	},
+	{
+		"publisher_id": 847,
+		"publisher_name": "KAMBOJA KELOPAK ENAM",
+		"input_date": "2021-09-06",
+		"last_update": "2021-09-06"
+	},
+	{
+		"publisher_id": 848,
+		"publisher_name": "AGROMEDIA PUSTAKA",
+		"input_date": "2021-09-06",
+		"last_update": "2021-09-06"
+	},
+	{
+		"publisher_id": 849,
+		"publisher_name": "NOVA SCIENCE PUBLISHER,INC",
+		"input_date": "2021-09-07",
+		"last_update": "2021-09-07"
+	},
+	{
+		"publisher_id": 850,
+		"publisher_name": "LAUTAN PUSTAKA",
+		"input_date": "2021-09-07",
+		"last_update": "2021-09-07"
+	},
+	{
+		"publisher_id": 851,
+		"publisher_name": "OUTRE",
+		"input_date": "2021-09-08",
+		"last_update": "2021-09-08"
+	},
+	{
+		"publisher_id": 852,
+		"publisher_name": "SEKOLAH TIMGGI ILMU EKONOMI",
+		"input_date": "2021-09-08",
+		"last_update": "2021-09-08"
+	},
+	{
+		"publisher_id": 853,
+		"publisher_name": "SPRINGER NATURE",
+		"input_date": "2021-09-08",
+		"last_update": "2021-09-08"
+	},
+	{
+		"publisher_id": 854,
+		"publisher_name": "ELSEVIER INC.",
+		"input_date": "2021-09-08",
+		"last_update": "2021-09-08"
+	},
+	{
+		"publisher_id": 855,
+		"publisher_name": "VICTORY INTI CIPTA",
+		"input_date": "2021-09-09",
+		"last_update": "2021-09-09"
+	},
+	{
+		"publisher_id": 856,
+		"publisher_name": "PUSTAKA BARU",
+		"input_date": "2021-09-10",
+		"last_update": "2021-09-10"
+	},
+	{
+		"publisher_id": 857,
+		"publisher_name": "APOLLO LESTARI",
+		"input_date": "2021-09-10",
+		"last_update": "2021-09-10"
+	},
+	{
+		"publisher_id": 858,
+		"publisher_name": "ANDI",
+		"input_date": "2021-09-13",
+		"last_update": "2021-09-13"
+	},
+	{
+		"publisher_id": 859,
+		"publisher_name": "INDOMEDIA PUSTAKA",
+		"input_date": "2021-09-13",
+		"last_update": "2021-09-13"
+	},
+	{
+		"publisher_id": 860,
+		"publisher_name": "LITERASI NUSANTARA",
+		"input_date": "2021-09-13",
+		"last_update": "2021-09-13"
+	},
+	{
+		"publisher_id": 861,
+		"publisher_name": "PENA BASWARA",
+		"input_date": "2021-09-14",
+		"last_update": "2021-09-14"
+	},
+	{
+		"publisher_id": 862,
+		"publisher_name": "PENERBIT BESTARI",
+		"input_date": "2021-09-14",
+		"last_update": "2021-09-14"
+	},
+	{
+		"publisher_id": 863,
+		"publisher_name": "CAMEL BOOKS",
+		"input_date": "2021-09-15",
+		"last_update": "2021-09-15"
+	},
+	{
+		"publisher_id": 864,
+		"publisher_name": "LITERATI",
+		"input_date": "2021-09-15",
+		"last_update": "2021-09-15"
+	},
+	{
+		"publisher_id": 865,
+		"publisher_name": "TAUSHIA",
+		"input_date": "2021-09-16",
+		"last_update": "2021-09-16"
+	},
+	{
+		"publisher_id": 866,
+		"publisher_name": "MARKONO PRINT MEDIA PTE LTD",
+		"input_date": "2021-09-16",
+		"last_update": "2021-09-16"
+	},
+	{
+		"publisher_id": 867,
+		"publisher_name": "CV. PUSTAKA SETIA",
+		"input_date": "2021-09-20",
+		"last_update": "2021-09-20"
+	},
+	{
+		"publisher_id": 868,
+		"publisher_name": "PT. GRAMEDIA WIDIASARANA INDONESIA",
+		"input_date": "2021-09-20",
+		"last_update": "2021-09-20"
+	},
+	{
+		"publisher_id": 869,
+		"publisher_name": "PARARATON BUBLISHING",
+		"input_date": "2021-09-21",
+		"last_update": "2021-09-21"
+	},
+	{
+		"publisher_id": 870,
+		"publisher_name": "PENERBIT PPM",
+		"input_date": "2021-09-21",
+		"last_update": "2021-09-21"
+	},
+	{
+		"publisher_id": 871,
+		"publisher_name": "PT QAF MEDIA KREATIVA",
+		"input_date": "2021-09-21",
+		"last_update": "2021-09-21"
+	},
+	{
+		"publisher_id": 872,
+		"publisher_name": "BUKUNE KREATIVE CIPTA",
+		"input_date": "2021-09-24",
+		"last_update": "2021-09-24"
+	},
+	{
+		"publisher_id": 873,
+		"publisher_name": "MBRIDGE PRESS",
+		"input_date": "2021-09-24",
+		"last_update": "2021-09-24"
+	},
+	{
+		"publisher_id": 874,
+		"publisher_name": "PT. BENTANG PUSTAKA",
+		"input_date": "2021-09-24",
+		"last_update": "2021-09-24"
+	},
+	{
+		"publisher_id": 875,
+		"publisher_name": "PENA PERSADA",
+		"input_date": "2021-09-24",
+		"last_update": "2021-09-24"
+	},
+	{
+		"publisher_id": 876,
+		"publisher_name": "YAYASAN KITA MENULIS",
+		"input_date": "2021-09-24",
+		"last_update": "2021-09-24"
+	},
+	{
+		"publisher_id": 877,
+		"publisher_name": "UI PRESS",
+		"input_date": "2021-09-24",
+		"last_update": "2021-09-24"
+	},
+	{
+		"publisher_id": 878,
+		"publisher_name": "BUANA ILMU POPULER",
+		"input_date": "2021-09-24",
+		"last_update": "2021-09-24"
+	},
+	{
+		"publisher_id": 879,
+		"publisher_name": "GALLERY ILMU",
+		"input_date": "2021-09-24",
+		"last_update": "2021-09-24"
+	},
+	{
+		"publisher_id": 880,
+		"publisher_name": "BIO GENESIS",
+		"input_date": "2021-09-28",
+		"last_update": "2021-09-28"
+	},
+	{
+		"publisher_id": 881,
+		"publisher_name": "WARNING BOOK",
+		"input_date": "2021-09-28",
+		"last_update": "2021-09-28"
+	},
+	{
+		"publisher_id": 882,
+		"publisher_name": "MUEEZA",
+		"input_date": "2021-09-28",
+		"last_update": "2021-09-28"
+	},
+	{
+		"publisher_id": 883,
+		"publisher_name": "QIBLA",
+		"input_date": "2021-09-28",
+		"last_update": "2021-09-28"
+	},
+	{
+		"publisher_id": 884,
+		"publisher_name": "PENERBIT LENTERA HATI",
+		"input_date": "2021-09-28",
+		"last_update": "2021-09-28"
+	},
+	{
+		"publisher_id": 885,
+		"publisher_name": "CRC PREES",
+		"input_date": "2021-09-28",
+		"last_update": "2021-09-28"
+	},
+	{
+		"publisher_id": 886,
+		"publisher_name": "DIGLOSSIA",
+		"input_date": "2021-09-28",
+		"last_update": "2021-09-28"
+	},
+	{
+		"publisher_id": 887,
+		"publisher_name": "TANKALI",
+		"input_date": "2021-09-28",
+		"last_update": "2021-09-28"
+	},
+	{
+		"publisher_id": 888,
+		"publisher_name": "PT REJOFE GLOBAL UNIVERSAL INDONESIA",
+		"input_date": "2021-09-28",
+		"last_update": "2021-09-28"
+	},
+	{
+		"publisher_id": 889,
+		"publisher_name": "SEMESTA HIKMAH PUBLISHING",
+		"input_date": "2021-09-29",
+		"last_update": "2021-09-29"
+	},
+	{
+		"publisher_id": 890,
+		"publisher_name": "PENERBIT BENTANG",
+		"input_date": "2021-09-29",
+		"last_update": "2021-09-29"
+	},
+	{
+		"publisher_id": 891,
+		"publisher_name": "FUTABASHA PUBLISHER",
+		"input_date": "2021-09-29",
+		"last_update": "2021-09-29"
+	},
+	{
+		"publisher_id": 892,
+		"publisher_name": "TRANSMEDIA PUSTAKA",
+		"input_date": "2021-09-29",
+		"last_update": "2021-09-29"
+	},
+	{
+		"publisher_id": 893,
+		"publisher_name": "ZIKRUL MEDIA INTELEKTUAL",
+		"input_date": "2021-09-29",
+		"last_update": "2021-09-29"
+	},
+	{
+		"publisher_id": 894,
+		"publisher_name": "BRILIAN",
+		"input_date": "2021-09-30",
+		"last_update": "2021-09-30"
+	},
+	{
+		"publisher_id": 895,
+		"publisher_name": "RAPHA",
+		"input_date": "2021-10-04",
+		"last_update": "2021-10-04"
+	},
+	{
+		"publisher_id": 896,
+		"publisher_name": "ROMANCIOUS",
+		"input_date": "2021-10-05",
+		"last_update": "2021-10-05"
+	},
+	{
+		"publisher_id": 897,
+		"publisher_name": "PERMATA PRESS",
+		"input_date": "2021-10-05",
+		"last_update": "2021-10-05"
+	},
+	{
+		"publisher_id": 898,
+		"publisher_name": "SCOPINDO MEDIA PUSTAKA",
+		"input_date": "2021-10-12",
+		"last_update": "2021-10-12"
+	},
+	{
+		"publisher_id": 899,
+		"publisher_name": "BACA",
+		"input_date": "2021-10-12",
+		"last_update": "2021-10-12"
+	},
+	{
+		"publisher_id": 900,
+		"publisher_name": "ROSDA",
+		"input_date": "2021-10-12",
+		"last_update": "2021-10-12"
+	},
+	{
+		"publisher_id": 901,
+		"publisher_name": "RENELU",
+		"input_date": "2021-10-12",
+		"last_update": "2021-10-12"
+	},
+	{
+		"publisher_id": 902,
+		"publisher_name": "BHUMI ANOMA",
+		"input_date": "2021-10-13",
+		"last_update": "2021-10-13"
+	},
+	{
+		"publisher_id": 903,
+		"publisher_name": "PT TOKO GUNUNG AGUNG",
+		"input_date": "2021-10-13",
+		"last_update": "2021-10-13"
+	},
+	{
+		"publisher_id": 904,
+		"publisher_name": "SINAR GRAFIKA",
+		"input_date": "2021-10-14",
+		"last_update": "2021-10-14"
+	},
+	{
+		"publisher_id": 905,
+		"publisher_name": "LIGHT NOVEL",
+		"input_date": "2021-10-14",
+		"last_update": "2021-10-14"
+	},
+	{
+		"publisher_id": 906,
+		"publisher_name": "DAMIGO BOOKS",
+		"input_date": "2021-10-14",
+		"last_update": "2021-10-14"
+	},
+	{
+		"publisher_id": 907,
+		"publisher_name": "KMO INDONESIA",
+		"input_date": "2021-10-14",
+		"last_update": "2021-10-14"
+	},
+	{
+		"publisher_id": 908,
+		"publisher_name": "JAVA LITERA",
+		"input_date": "2021-10-15",
+		"last_update": "2021-10-15"
+	},
+	{
+		"publisher_id": 909,
+		"publisher_name": "AKADEMIKA",
+		"input_date": "2021-10-21",
+		"last_update": "2021-10-21"
+	},
+	{
+		"publisher_id": 910,
+		"publisher_name": "INTELIGENSIA MEDIA",
+		"input_date": "2021-10-27",
+		"last_update": "2021-10-27"
+	},
+	{
+		"publisher_id": 911,
+		"publisher_name": "RAPHA PUBLISHING",
+		"input_date": "2021-11-02",
+		"last_update": "2021-11-02"
+	},
+	{
+		"publisher_id": 912,
+		"publisher_name": "LOVEABLE X BHUMI ANOMA",
+		"input_date": "2021-11-02",
+		"last_update": "2021-11-02"
+	},
+	{
+		"publisher_id": 913,
+		"publisher_name": "PT MAGENTA MEDIA",
+		"input_date": "2021-11-02",
+		"last_update": "2021-11-02"
+	},
+	{
+		"publisher_id": 914,
+		"publisher_name": "VETVICE",
+		"input_date": "2021-11-03",
+		"last_update": "2021-11-03"
+	},
+	{
+		"publisher_id": 915,
+		"publisher_name": "JELLYFISH",
+		"input_date": "2021-11-03",
+		"last_update": "2021-11-03"
+	},
+	{
+		"publisher_id": 916,
+		"publisher_name": "PEARSON EDUCATION LIMITED",
+		"input_date": "2021-11-04",
+		"last_update": "2021-11-04"
+	},
+	{
+		"publisher_id": 917,
+		"publisher_name": "CENGAGE TECNOLOGY EDITION",
+		"input_date": "2021-11-04",
+		"last_update": "2021-11-04"
+	},
+	{
+		"publisher_id": 918,
+		"publisher_name": "ELSAVIER",
+		"input_date": "2021-11-04",
+		"last_update": "2021-11-04"
+	},
+	{
+		"publisher_id": 919,
+		"publisher_name": "WILLEY",
+		"input_date": "2021-11-04",
+		"last_update": "2021-11-04"
+	},
+	{
+		"publisher_id": 920,
+		"publisher_name": "WORLD SCIENTIFIC PUBLSHING",
+		"input_date": "2021-11-04",
+		"last_update": "2021-11-04"
+	},
+	{
+		"publisher_id": 921,
+		"publisher_name": "PENERBIT DESA PUSTAKA INDONESIA",
+		"input_date": "2021-11-10",
+		"last_update": "2021-11-10"
+	},
+	{
+		"publisher_id": 922,
+		"publisher_name": "BCI MEDIA",
+		"input_date": "2021-11-29",
+		"last_update": "2021-11-29"
+	},
+	{
+		"publisher_id": 923,
+		"publisher_name": "UD. ERIKA BOOK MEDIA PUBLISHING",
+		"input_date": "2021-11-29",
+		"last_update": "2021-11-29"
+	},
+	{
+		"publisher_id": 924,
+		"publisher_name": "RISTEKDIKTI",
+		"input_date": "2021-11-29",
+		"last_update": "2021-11-29"
+	},
+	{
+		"publisher_id": 925,
+		"publisher_name": "BANK INONESIA",
+		"input_date": "2021-11-29",
+		"last_update": "2021-11-29"
+	},
+	{
+		"publisher_id": 926,
+		"publisher_name": "CEMERLANG BULISHING",
+		"input_date": "2021-12-08",
+		"last_update": "2021-12-08"
+	},
+	{
+		"publisher_id": 927,
+		"publisher_name": "P",
+		"input_date": "2022-01-25",
+		"last_update": "2022-01-25"
+	},
+	{
+		"publisher_id": 928,
+		"publisher_name": "PUSTKA PRANALA",
+		"input_date": "2022-04-13",
+		"last_update": "2022-04-13"
+	},
+	{
+		"publisher_id": 929,
+		"publisher_name": "FOKUSMEDIA",
+		"input_date": "2022-04-13",
+		"last_update": "2022-04-13"
+	},
+	{
+		"publisher_id": 930,
+		"publisher_name": "BCI MEDIA PUBLISHING",
+		"input_date": "2022-04-13",
+		"last_update": "2022-04-13"
+	},
+	{
+		"publisher_id": 931,
+		"publisher_name": "KELOMPOK INTRANS PUBLISHING",
+		"input_date": "2022-04-14",
+		"last_update": "2022-04-14"
+	},
+	{
+		"publisher_id": 932,
+		"publisher_name": "NUANSA CENDEKIA",
+		"input_date": "2022-04-18",
+		"last_update": "2022-04-18"
+	},
+	{
+		"publisher_id": 933,
+		"publisher_name": "BASHISH PUBLISHING",
+		"input_date": "2022-04-18",
+		"last_update": "2022-04-18"
+	},
+	{
+		"publisher_id": 934,
+		"publisher_name": "TOKO BUKU TEKNIK",
+		"input_date": "2022-04-18",
+		"last_update": "2022-04-18"
+	},
+	{
+		"publisher_id": 935,
+		"publisher_name": "978-623-359-045-7",
+		"input_date": "2022-04-20",
+		"last_update": "2022-04-20"
+	},
+	{
+		"publisher_id": 936,
+		"publisher_name": "PT. REFIKA ADITAMA",
+		"input_date": "2022-04-21",
+		"last_update": "2022-04-21"
+	},
+	{
+		"publisher_id": 937,
+		"publisher_name": "WAHANA RESOLUSI",
+		"input_date": "2022-04-21",
+		"last_update": "2022-04-21"
+	},
+	{
+		"publisher_id": 938,
+		"publisher_name": "AMERTA MEDIA",
+		"input_date": "2022-04-25",
+		"last_update": "2022-04-25"
+	},
+	{
+		"publisher_id": 939,
+		"publisher_name": "PENERBIT YRAMA WIDYA",
+		"input_date": "2022-04-28",
+		"last_update": "2022-04-28"
+	},
+	{
+		"publisher_id": 940,
+		"publisher_name": "PT REMAJA ROSDAKARYA",
+		"input_date": "2022-04-28",
+		"last_update": "2022-04-28"
+	},
+	{
+		"publisher_id": 941,
+		"publisher_name": "GARUDA PUSTAKA",
+		"input_date": "2022-05-27",
+		"last_update": "2022-05-27"
+	},
+	{
+		"publisher_id": 942,
+		"publisher_name": "TEMPO BUBLISHING",
+		"input_date": "2022-06-09",
+		"last_update": "2022-06-09"
+	},
+	{
+		"publisher_id": 943,
+		"publisher_name": "PT. KANISTUS",
+		"input_date": "2022-06-09",
+		"last_update": "2022-06-09"
+	},
+	{
+		"publisher_id": 944,
+		"publisher_name": "PUSTAKA PRANALA",
+		"input_date": "2022-06-10",
+		"last_update": "2022-06-10"
+	},
+	{
+		"publisher_id": 945,
+		"publisher_name": "PT. PRIMA INFOSARANA  MEDIA",
+		"input_date": "2022-06-10",
+		"last_update": "2022-06-10"
+	},
+	{
+		"publisher_id": 946,
+		"publisher_name": "KOMINFO",
+		"input_date": "2022-06-10",
+		"last_update": "2022-06-10"
+	},
+	{
+		"publisher_id": 947,
+		"publisher_name": "MUTIARA ILMU",
+		"input_date": "2022-06-10",
+		"last_update": "2022-06-10"
+	},
+	{
+		"publisher_id": 948,
+		"publisher_name": "PT. AKSORO SABDA NUSANTARA",
+		"input_date": "2022-06-10",
+		"last_update": "2022-06-10"
+	},
+	{
+		"publisher_id": 949,
+		"publisher_name": "KOBIS",
+		"input_date": "2022-06-10",
+		"last_update": "2022-06-10"
+	},
+	{
+		"publisher_id": 950,
+		"publisher_name": "RADAR BANYUWANGI",
+		"input_date": "2022-06-10",
+		"last_update": "2022-06-10"
+	},
+	{
+		"publisher_id": 951,
+		"publisher_name": "ELSEVIER SCIENTIFIC PUBLISHING COMPANY",
+		"input_date": "2022-07-05",
+		"last_update": "2022-07-05"
+	},
+	{
+		"publisher_id": 952,
+		"publisher_name": "THE ECONOMIC GEOLOGY PUBLISHING COMPANY",
+		"input_date": "2022-07-05",
+		"last_update": "2022-07-05"
+	},
+	{
+		"publisher_id": 953,
+		"publisher_name": "U.S. GEOLOGICAL SURVEY BULLETIN 1693",
+		"input_date": "2022-07-05",
+		"last_update": "2022-07-05"
+	},
+	{
+		"publisher_id": 954,
+		"publisher_name": "MINERAL RESOURCES DEPARTMENT",
+		"input_date": "2022-07-05",
+		"last_update": "2022-07-05"
+	},
+	{
+		"publisher_id": 955,
+		"publisher_name": "JABATAN PENYIASATAN KAJI BUMI",
+		"input_date": "2022-07-05",
+		"last_update": "2022-07-05"
+	},
+	{
+		"publisher_id": 956,
+		"publisher_name": "BY THE STAFF OF WESTERN MINING CORPORATION LIMITED",
+		"input_date": "2022-07-05",
+		"last_update": "2022-07-05"
+	},
+	{
+		"publisher_id": 957,
+		"publisher_name": "THE AUSTRALASIAN INSTITUTE OF MINING AND METALLURGY",
+		"input_date": "2022-07-05",
+		"last_update": "2022-07-05"
+	},
+	{
+		"publisher_id": 958,
+		"publisher_name": "U.S.DEPARTMENT OF THE INTERIOR",
+		"input_date": "2022-07-05",
+		"last_update": "2022-07-05"
+	},
+	{
+		"publisher_id": 959,
+		"publisher_name": "CHAPMAN & HALL",
+		"input_date": "2022-07-05",
+		"last_update": "2022-07-05"
+	},
+	{
+		"publisher_id": 960,
+		"publisher_name": "DOVER PUBLICATIONS",
+		"input_date": "2022-07-05",
+		"last_update": "2022-07-05"
+	},
+	{
+		"publisher_id": 961,
+		"publisher_name": "CAMBRIDGE EARTH SCIENCE SERIES",
+		"input_date": "2022-07-05",
+		"last_update": "2022-07-05"
+	},
+	{
+		"publisher_id": 962,
+		"publisher_name": "SCHIEFERDECKER",
+		"input_date": "2022-07-05",
+		"last_update": "2022-07-05"
+	},
+	{
+		"publisher_id": 963,
+		"publisher_name": "EDWARD ARNOLD",
+		"input_date": "2022-07-05",
+		"last_update": "2022-07-05"
+	},
+	{
+		"publisher_id": 964,
+		"publisher_name": "MCGRAW-HILL BOOK COMPANY",
+		"input_date": "2022-07-05",
+		"last_update": "2022-07-05"
+	},
+	{
+		"publisher_id": 965,
+		"publisher_name": "COLLINS",
+		"input_date": "2022-07-05",
+		"last_update": "2022-07-05"
+	},
+	{
+		"publisher_id": 966,
+		"publisher_name": "BARTLEBY PRESS",
+		"input_date": "2022-07-06",
+		"last_update": "2022-07-06"
+	},
+	{
+		"publisher_id": 967,
+		"publisher_name": "MARSDEN AWARD",
+		"input_date": "2022-07-06",
+		"last_update": "2022-07-06"
+	},
+	{
+		"publisher_id": 968,
+		"publisher_name": "BUSINES\/PRODUCTION OFFICE",
+		"input_date": "2022-07-06",
+		"last_update": "2022-07-06"
+	},
+	{
+		"publisher_id": 969,
+		"publisher_name": "AMF",
+		"input_date": "2022-07-06",
+		"last_update": "2022-07-06"
+	},
+	{
+		"publisher_id": 970,
+		"publisher_name": "SOCIETY OF ECONOMIC GEOLOGISTS",
+		"input_date": "2022-07-06",
+		"last_update": "2022-07-06"
+	},
+	{
+		"publisher_id": 971,
+		"publisher_name": "WILEY TOPPAN",
+		"input_date": "2022-07-06",
+		"last_update": "2022-07-06"
+	},
+	{
+		"publisher_id": 972,
+		"publisher_name": "GUANAJUATO TIERRA DE OPORTUNIDADES",
+		"input_date": "2022-07-06",
+		"last_update": "2022-07-06"
+	},
+	{
+		"publisher_id": 973,
+		"publisher_name": "UQP",
+		"input_date": "2022-07-06",
+		"last_update": "2022-07-06"
+	},
+	{
+		"publisher_id": 974,
+		"publisher_name": "SEKOLAH TINGGI PARIWISATA MATARAM",
+		"input_date": "2022-07-13",
+		"last_update": "2022-07-13"
+	},
+	{
+		"publisher_id": 975,
+		"publisher_name": "KEMENTRIAN KOMUNIKASI DAN INFORMATIKA",
+		"input_date": "2022-07-13",
+		"last_update": "2022-07-13"
+	},
+	{
+		"publisher_id": 976,
+		"publisher_name": "UNIVERSITAS TRISAKTI",
+		"input_date": "2022-07-13",
+		"last_update": "2022-07-13"
+	},
+	{
+		"publisher_id": 977,
+		"publisher_name": "PROF. DR. SUGIYONO",
+		"input_date": "2022-08-08",
+		"last_update": "2022-08-08"
+	},
+	{
+		"publisher_id": 978,
+		"publisher_name": "PT. INDEKS KELOMPOK GRAMEDIA",
+		"input_date": "2022-08-08",
+		"last_update": "2022-08-08"
+	},
+	{
+		"publisher_id": 979,
+		"publisher_name": "PT PENERBIT IPB PRESS",
+		"input_date": "2022-08-10",
+		"last_update": "2022-08-10"
+	},
+	{
+		"publisher_id": 980,
+		"publisher_name": "PT PRADNYA PARAMITA",
+		"input_date": "2022-08-19",
+		"last_update": "2022-08-19"
+	},
+	{
+		"publisher_id": 981,
+		"publisher_name": "Poliwangi",
+		"input_date": "2022-08-23",
+		"last_update": "2022-08-23"
+	},
+	{
+		"publisher_id": 982,
+		"publisher_name": "ARKOLA",
+		"input_date": "2022-08-23",
+		"last_update": "2022-08-23"
+	},
+	{
+		"publisher_id": 983,
+		"publisher_name": "JABAL",
+		"input_date": "2022-08-24",
+		"last_update": "2022-08-24"
+	},
+	{
+		"publisher_id": 984,
+		"publisher_name": "BIOGENESIS",
+		"input_date": "2022-08-24",
+		"last_update": "2022-08-24"
+	},
+	{
+		"publisher_id": 985,
+		"publisher_name": "PT SERAMBI SEMESTA DISTRIBUSI",
+		"input_date": "2022-09-01",
+		"last_update": "2022-09-01"
+	},
+	{
+		"publisher_id": 986,
+		"publisher_name": "KOMUNIKA",
+		"input_date": "2022-09-02",
+		"last_update": "2022-09-02"
+	},
+	{
+		"publisher_id": 987,
+		"publisher_name": "IMMORTAL PUBLISHER",
+		"input_date": "2022-09-02",
+		"last_update": "2022-09-02"
+	},
+	{
+		"publisher_id": 988,
+		"publisher_name": "SENAYAN ABADI PUBLISHING",
+		"input_date": "2022-09-02",
+		"last_update": "2022-09-02"
+	},
+	{
+		"publisher_id": 989,
+		"publisher_name": "KARYA ILMU SURABAYA",
+		"input_date": "2022-09-02",
+		"last_update": "2022-09-02"
+	},
+	{
+		"publisher_id": 990,
+		"publisher_name": "MAXIKOM",
+		"input_date": "2022-09-02",
+		"last_update": "2022-09-02"
+	},
+	{
+		"publisher_id": 991,
+		"publisher_name": "BAYU KRISNAPATY",
+		"input_date": "2022-09-05",
+		"last_update": "2022-09-05"
+	},
+	{
+		"publisher_id": 992,
+		"publisher_name": "VINA NAILIL FAZA",
+		"input_date": "2022-09-05",
+		"last_update": "2022-09-05"
+	},
+	{
+		"publisher_id": 993,
+		"publisher_name": "DHEA ANANDA RAMADHANI",
+		"input_date": "2022-09-05",
+		"last_update": "2022-09-05"
+	},
+	{
+		"publisher_id": 994,
+		"publisher_name": "SUCI ALIFIA PUTRI WIJAYA",
+		"input_date": "2022-09-05",
+		"last_update": "2022-09-05"
+	},
+	{
+		"publisher_id": 995,
+		"publisher_name": "KHOIROTUS SHOLIHA",
+		"input_date": "2022-09-05",
+		"last_update": "2022-09-05"
+	},
+	{
+		"publisher_id": 996,
+		"publisher_name": "NUR HAJIZAH",
+		"input_date": "2022-09-05",
+		"last_update": "2022-09-05"
+	},
+	{
+		"publisher_id": 997,
+		"publisher_name": "DHEA TITTANIA PUTRI MOESLIM",
+		"input_date": "2022-09-05",
+		"last_update": "2022-09-05"
+	},
+	{
+		"publisher_id": 998,
+		"publisher_name": "ASIYAH",
+		"input_date": "2022-09-05",
+		"last_update": "2022-09-05"
+	},
+	{
+		"publisher_id": 999,
+		"publisher_name": "HIDA ARIYANTI",
+		"input_date": "2022-09-05",
+		"last_update": "2022-09-05"
+	},
+	{
+		"publisher_id": 1000,
+		"publisher_name": "DIMAS PRAYOGI",
+		"input_date": "2022-09-05",
+		"last_update": "2022-09-05"
+	},
+	{
+		"publisher_id": 1001,
+		"publisher_name": "ROSIYANA ADIYA MONSI",
+		"input_date": "2022-09-05",
+		"last_update": "2022-09-05"
+	},
+	{
+		"publisher_id": 1002,
+		"publisher_name": "BUNGA RIZKY MAULIDA",
+		"input_date": "2022-09-05",
+		"last_update": "2022-09-05"
+	},
+	{
+		"publisher_id": 1003,
+		"publisher_name": "PUTRI QUROTA A'YUNIN",
+		"input_date": "2022-09-05",
+		"last_update": "2022-09-05"
+	},
+	{
+		"publisher_id": 1004,
+		"publisher_name": "NOVITA INDAH LESTARI",
+		"input_date": "2022-09-05",
+		"last_update": "2022-09-05"
+	},
+	{
+		"publisher_id": 1005,
+		"publisher_name": "SHINTA RIZQI QURNIA SAVITRI",
+		"input_date": "2022-09-05",
+		"last_update": "2022-09-05"
+	},
+	{
+		"publisher_id": 1006,
+		"publisher_name": "ILMAR RASUNDA",
+		"input_date": "2022-09-05",
+		"last_update": "2022-09-05"
+	},
+	{
+		"publisher_id": 1007,
+		"publisher_name": "GERY FERNADI",
+		"input_date": "2022-09-05",
+		"last_update": "2022-09-05"
+	},
+	{
+		"publisher_id": 1008,
+		"publisher_name": "GUSTI FRIVANA FARADIVA",
+		"input_date": "2022-09-05",
+		"last_update": "2022-09-05"
+	},
+	{
+		"publisher_id": 1009,
+		"publisher_name": "ANDIKA PUTRA",
+		"input_date": "2022-09-06",
+		"last_update": "2022-09-06"
+	},
+	{
+		"publisher_id": 1010,
+		"publisher_name": "APRILIA RAHMAWATI PUTRI",
+		"input_date": "2022-09-06",
+		"last_update": "2022-09-06"
+	},
+	{
+		"publisher_id": 1011,
+		"publisher_name": "GALUH RIZKI PRATIWI",
+		"input_date": "2022-09-06",
+		"last_update": "2022-09-06"
+	},
+	{
+		"publisher_id": 1012,
+		"publisher_name": "MAULIDIYA RIZKY",
+		"input_date": "2022-09-06",
+		"last_update": "2022-09-06"
+	},
+	{
+		"publisher_id": 1013,
+		"publisher_name": "DIAH REZA RAFIKA",
+		"input_date": "2022-09-06",
+		"last_update": "2022-09-06"
+	},
+	{
+		"publisher_id": 1014,
+		"publisher_name": "MOHAMMAD ISKANDAR",
+		"input_date": "2022-09-06",
+		"last_update": "2022-09-06"
+	},
+	{
+		"publisher_id": 1015,
+		"publisher_name": "FERMAN PRADANA TRIASGI",
+		"input_date": "2022-09-06",
+		"last_update": "2022-09-06"
+	},
+	{
+		"publisher_id": 1016,
+		"publisher_name": "DANIK EKAWATI",
+		"input_date": "2022-09-06",
+		"last_update": "2022-09-06"
+	},
+	{
+		"publisher_id": 1017,
+		"publisher_name": "MARATUS SHOLIHAH",
+		"input_date": "2022-09-06",
+		"last_update": "2022-09-06"
+	},
+	{
+		"publisher_id": 1018,
+		"publisher_name": "YULIANA DEWI FATIMA",
+		"input_date": "2022-09-06",
+		"last_update": "2022-09-06"
+	},
+	{
+		"publisher_id": 1019,
+		"publisher_name": "LAILY TAHAJJUDY",
+		"input_date": "2022-09-06",
+		"last_update": "2022-09-06"
+	},
+	{
+		"publisher_id": 1020,
+		"publisher_name": "ENGGAR PRIYADI",
+		"input_date": "2022-09-06",
+		"last_update": "2022-09-06"
+	},
+	{
+		"publisher_id": 1021,
+		"publisher_name": "KHIMATUL KARIMA",
+		"input_date": "2022-09-06",
+		"last_update": "2022-09-06"
+	},
+	{
+		"publisher_id": 1022,
+		"publisher_name": "MOCHAMAD RAKHA SWARDHANA",
+		"input_date": "2022-09-06",
+		"last_update": "2022-09-06"
+	},
+	{
+		"publisher_id": 1023,
+		"publisher_name": "RENDY FAJAR SETIAWAN",
+		"input_date": "2022-09-06",
+		"last_update": "2022-09-06"
+	},
+	{
+		"publisher_id": 1024,
+		"publisher_name": "WAHYU RYAN REFANY",
+		"input_date": "2022-09-06",
+		"last_update": "2022-09-06"
+	},
+	{
+		"publisher_id": 1025,
+		"publisher_name": "ALI REZA NAURI",
+		"input_date": "2022-09-06",
+		"last_update": "2022-09-06"
+	},
+	{
+		"publisher_id": 1026,
+		"publisher_name": "DEVIS ALFIAN RHAMADHANI",
+		"input_date": "2022-09-06",
+		"last_update": "2022-09-06"
+	},
+	{
+		"publisher_id": 1027,
+		"publisher_name": "DINDA YULI HANDAYANI",
+		"input_date": "2022-09-06",
+		"last_update": "2022-09-06"
+	},
+	{
+		"publisher_id": 1028,
+		"publisher_name": "THAARIQ ADAM HIDAYAT",
+		"input_date": "2022-09-06",
+		"last_update": "2022-09-06"
+	},
+	{
+		"publisher_id": 1029,
+		"publisher_name": "ALIFIA HELDA CAHYANI",
+		"input_date": "2022-09-06",
+		"last_update": "2022-09-06"
+	},
+	{
+		"publisher_id": 1030,
+		"publisher_name": "IN AINATUL MUNIROH",
+		"input_date": "2022-09-06",
+		"last_update": "2022-09-06"
+	},
+	{
+		"publisher_id": 1031,
+		"publisher_name": "SELLA METNANDA ARBELIAHARISTI",
+		"input_date": "2022-09-06",
+		"last_update": "2022-09-06"
+	},
+	{
+		"publisher_id": 1032,
+		"publisher_name": "NURUL AQILA MAULIDIYA",
+		"input_date": "2022-09-06",
+		"last_update": "2022-09-06"
+	},
+	{
+		"publisher_id": 1033,
+		"publisher_name": "SULTAN IZZA FAIZAL",
+		"input_date": "2022-09-06",
+		"last_update": "2022-09-06"
+	},
+	{
+		"publisher_id": 1034,
+		"publisher_name": "KAHVI ANANTO MAJID",
+		"input_date": "2022-09-06",
+		"last_update": "2022-09-06"
+	},
+	{
+		"publisher_id": 1035,
+		"publisher_name": "SUCI DEWI LUTFIAH",
+		"input_date": "2022-09-06",
+		"last_update": "2022-09-06"
+	},
+	{
+		"publisher_id": 1036,
+		"publisher_name": "NATARYN SILKYNTA WIRIDILLA MALAWANGI",
+		"input_date": "2022-09-06",
+		"last_update": "2022-09-06"
+	},
+	{
+		"publisher_id": 1037,
+		"publisher_name": "RIAN SAPUTRA",
+		"input_date": "2022-09-06",
+		"last_update": "2022-09-06"
+	},
+	{
+		"publisher_id": 1038,
+		"publisher_name": "ROBIATUL ADAWIYAH",
+		"input_date": "2022-09-06",
+		"last_update": "2022-09-06"
+	},
+	{
+		"publisher_id": 1039,
+		"publisher_name": "BUKU BIJAK",
+		"input_date": "2022-09-16",
+		"last_update": "2022-09-16"
+	},
+	{
+		"publisher_id": 1040,
+		"publisher_name": "CAHAYA BERKAH",
+		"input_date": "2022-09-16",
+		"last_update": "2022-09-16"
+	},
+	{
+		"publisher_id": 1041,
+		"publisher_name": "GRADIEN BOOKS",
+		"input_date": "2022-09-16",
+		"last_update": "2022-09-16"
+	},
+	{
+		"publisher_id": 1042,
+		"publisher_name": "DIVA PRESS (ANGGOTA IKAPI)",
+		"input_date": "2022-09-16",
+		"last_update": "2022-09-16"
+	},
+	{
+		"publisher_id": 1043,
+		"publisher_name": "ARKOLA OFFSET",
+		"input_date": "2022-09-26",
+		"last_update": "2022-09-26"
+	},
+	{
+		"publisher_id": 1044,
+		"publisher_name": "CV LOKOMEDIA",
+		"input_date": "2022-09-27",
+		"last_update": "2022-09-27"
+	},
+	{
+		"publisher_id": 1045,
+		"publisher_name": "LITERINDO",
+		"input_date": "2022-09-27",
+		"last_update": "2022-09-27"
+	},
+	{
+		"publisher_id": 1046,
+		"publisher_name": "CV CITRAMEDIA",
+		"input_date": "2022-09-27",
+		"last_update": "2022-09-27"
+	},
+	{
+		"publisher_id": 1047,
+		"publisher_name": "SALEMBA HUMANIKA",
+		"input_date": "2022-09-27",
+		"last_update": "2022-09-27"
+	},
+	{
+		"publisher_id": 1048,
+		"publisher_name": "JOGJA GREAT! PUBLISHER",
+		"input_date": "2022-09-27",
+		"last_update": "2022-09-27"
+	},
+	{
+		"publisher_id": 1049,
+		"publisher_name": "BADAN PENERBIT UNDIP",
+		"input_date": "2022-09-27",
+		"last_update": "2022-09-27"
+	},
+	{
+		"publisher_id": 1050,
+		"publisher_name": "ALVI ARDHI PUBLISHING",
+		"input_date": "2022-09-27",
+		"last_update": "2022-09-27"
+	},
+	{
+		"publisher_id": 1051,
+		"publisher_name": "McGRAW-HILL EDUCATION (ASIA) AND SALEMBA EMPAT",
+		"input_date": "2022-09-27",
+		"last_update": "2022-09-27"
+	},
+	{
+		"publisher_id": 1052,
+		"publisher_name": "PT. TIGA SERANGKAI PUSTAKA MANDIRI\tSOLO",
+		"input_date": "2022-09-27",
+		"last_update": "2022-09-27"
+	},
+	{
+		"publisher_id": 1053,
+		"publisher_name": "BELANOOR",
+		"input_date": "2022-09-27",
+		"last_update": "2022-09-27"
+	},
+	{
+		"publisher_id": 1054,
+		"publisher_name": "SALSABILA PUSTAKA AL-KAUTSAR GROUP",
+		"input_date": "2022-09-27",
+		"last_update": "2022-09-27"
+	},
+	{
+		"publisher_id": 1055,
+		"publisher_name": "AYYANA",
+		"input_date": "2022-09-27",
+		"last_update": "2022-09-27"
+	},
+	{
+		"publisher_id": 1056,
+		"publisher_name": "WAFA PRODUCTION",
+		"input_date": "2022-09-27",
+		"last_update": "2022-09-27"
+	},
+	{
+		"publisher_id": 1057,
+		"publisher_name": "CV ANDI OFFSET",
+		"input_date": "2022-09-27",
+		"last_update": "2022-09-27"
+	},
+	{
+		"publisher_id": 1058,
+		"publisher_name": "CV LITERASI NUSANTARA ABADI",
+		"input_date": "2022-09-28",
+		"last_update": "2022-09-28"
+	},
+	{
+		"publisher_id": 1059,
+		"publisher_name": "LEGALITY",
+		"input_date": "2022-09-28",
+		"last_update": "2022-09-28"
+	},
+	{
+		"publisher_id": 1060,
+		"publisher_name": "MEDIA PRESSINDO",
+		"input_date": "2022-09-28",
+		"last_update": "2022-09-28"
+	},
+	{
+		"publisher_id": 1061,
+		"publisher_name": "REPUBLIKA PENERBIT (PT PUSTAKA ABDI BANGSA)",
+		"input_date": "2022-09-28",
+		"last_update": "2022-09-28"
+	},
+	{
+		"publisher_id": 1062,
+		"publisher_name": "ZENDEGI",
+		"input_date": "2022-09-28",
+		"last_update": "2022-09-28"
+	},
+	{
+		"publisher_id": 1063,
+		"publisher_name": "NAVILA",
+		"input_date": "2022-09-28",
+		"last_update": "2022-09-28"
+	},
+	{
+		"publisher_id": 1064,
+		"publisher_name": "SINAR BARU ALGENSINDO",
+		"input_date": "2022-09-28",
+		"last_update": "2022-09-28"
+	},
+	{
+		"publisher_id": 1065,
+		"publisher_name": "SUNRICH PUBLISHING CO., Ltd.",
+		"input_date": "2022-09-28",
+		"last_update": "2022-09-28"
+	},
+	{
+		"publisher_id": 1066,
+		"publisher_name": "SOLUSI OFFSET",
+		"input_date": "2022-09-28",
+		"last_update": "2022-09-28"
+	},
+	{
+		"publisher_id": 1067,
+		"publisher_name": "ARABIC SCIENTIFIC PUBLISHER",
+		"input_date": "2022-09-28",
+		"last_update": "2022-09-28"
+	},
+	{
+		"publisher_id": 1068,
+		"publisher_name": "SYGMA PUBLISHING",
+		"input_date": "2022-09-28",
+		"last_update": "2022-09-28"
+	},
+	{
+		"publisher_id": 1069,
+		"publisher_name": "AGOBOS PUBLISHING",
+		"input_date": "2022-09-29",
+		"last_update": "2022-09-29"
+	},
+	{
+		"publisher_id": 1070,
+		"publisher_name": "Bukune'",
+		"input_date": "2022-10-03",
+		"last_update": "2022-10-03"
+	},
+	{
+		"publisher_id": 1071,
+		"publisher_name": "DUA MEDIA",
+		"input_date": "2022-10-03",
+		"last_update": "2022-10-03"
+	},
+	{
+		"publisher_id": 1072,
+		"publisher_name": "PT. PUSTAKA BARU",
+		"input_date": "2022-10-03",
+		"last_update": "2022-10-03"
+	},
+	{
+		"publisher_id": 1073,
+		"publisher_name": "PUSTAKA HATI",
+		"input_date": "2022-10-04",
+		"last_update": "2022-10-04"
+	},
+	{
+		"publisher_id": 1074,
+		"publisher_name": "FAJAR SULAIMAN OFFICIAL",
+		"input_date": "2022-10-04",
+		"last_update": "2022-10-04"
+	},
+	{
+		"publisher_id": 1075,
+		"publisher_name": "CV PUSTAKA GRAFIKA",
+		"input_date": "2022-10-04",
+		"last_update": "2022-10-04"
+	},
+	{
+		"publisher_id": 1076,
+		"publisher_name": "CAHAYA INSAN SUCI",
+		"input_date": "2022-10-06",
+		"last_update": "2022-10-06"
+	},
+	{
+		"publisher_id": 1077,
+		"publisher_name": "KANISIUS (ANGGOTA IKAPI)",
+		"input_date": "2022-10-14",
+		"last_update": "2022-10-14"
+	},
+	{
+		"publisher_id": 1078,
+		"publisher_name": "PT ALONA INDONESIA RAYA",
+		"input_date": "2022-10-14",
+		"last_update": "2022-10-14"
+	},
+	{
+		"publisher_id": 1079,
+		"publisher_name": "CV YRAMA WIDYA",
+		"input_date": "2022-10-14",
+		"last_update": "2022-10-14"
+	},
+	{
+		"publisher_id": 1080,
+		"publisher_name": "QULTUM MEDIA",
+		"input_date": "2022-10-14",
+		"last_update": "2022-10-14"
+	},
+	{
+		"publisher_id": 1081,
+		"publisher_name": "PENERBIT WR",
+		"input_date": "2022-10-19",
+		"last_update": "2022-10-19"
+	},
+	{
+		"publisher_id": 1082,
+		"publisher_name": "MITRA MEDIA",
+		"input_date": "2022-10-19",
+		"last_update": "2022-10-19"
+	},
+	{
+		"publisher_id": 1083,
+		"publisher_name": "GEMA INSANI PRESS",
+		"input_date": "2022-10-19",
+		"last_update": "2022-10-19"
+	},
+	{
+		"publisher_id": 1084,
+		"publisher_name": "ANAK HEBAT INDONESIA",
+		"input_date": "2022-10-19",
+		"last_update": "2022-10-19"
+	},
+	{
+		"publisher_id": 1085,
+		"publisher_name": "GRAMMATICAL PUBLISHING",
+		"input_date": "2022-10-19",
+		"last_update": "2022-10-19"
+	},
+	{
+		"publisher_id": 1086,
+		"publisher_name": "PT BUKUNE KREATIF CIPTA",
+		"input_date": "2022-10-19",
+		"last_update": "2022-10-19"
+	},
+	{
+		"publisher_id": 1087,
+		"publisher_name": "KARYA AGUNG",
+		"input_date": "2022-10-19",
+		"last_update": "2022-10-19"
+	},
+	{
+		"publisher_id": 1088,
+		"publisher_name": "ENTERMEDIA",
+		"input_date": "2022-10-19",
+		"last_update": "2022-10-19"
+	},
+	{
+		"publisher_id": 1089,
+		"publisher_name": "SAHIMA",
+		"input_date": "2022-10-19",
+		"last_update": "2022-10-19"
+	},
+	{
+		"publisher_id": 1090,
+		"publisher_name": "LINTANG HAYUNING BUWANA",
+		"input_date": "2022-10-19",
+		"last_update": "2022-10-19"
+	},
+	{
+		"publisher_id": 1091,
+		"publisher_name": "MAGHFIRAH PUSTAKA",
+		"input_date": "2022-10-19",
+		"last_update": "2022-10-19"
+	},
+	{
+		"publisher_id": 1092,
+		"publisher_name": "PT. BUKU PINTAR INDONESIA",
+		"input_date": "2022-10-19",
+		"last_update": "2022-10-19"
+	},
+	{
+		"publisher_id": 1093,
+		"publisher_name": "SAHIMA (KELOMPOK PENERBIT PT MAGENTA MEDIA)",
+		"input_date": "2022-10-19",
+		"last_update": "2022-10-19"
+	},
+	{
+		"publisher_id": 1094,
+		"publisher_name": "GALANG PUSTAKA",
+		"input_date": "2022-10-19",
+		"last_update": "2022-10-19"
+	},
+	{
+		"publisher_id": 1095,
+		"publisher_name": "PUSPA POPULER, GRUP PUSPA SWARA",
+		"input_date": "2022-10-19",
+		"last_update": "2022-10-19"
+	},
+	{
+		"publisher_id": 1096,
+		"publisher_name": "BUKUBIRU",
+		"input_date": "2022-10-19",
+		"last_update": "2022-10-19"
+	},
+	{
+		"publisher_id": 1097,
+		"publisher_name": "PT BHUANA ILMU POPULER",
+		"input_date": "2022-10-19",
+		"last_update": "2022-10-19"
+	},
+	{
+		"publisher_id": 1098,
+		"publisher_name": "RM BOOKS PT WAHANA SEMESTA INTERMEDIA",
+		"input_date": "2022-10-19",
+		"last_update": "2022-10-19"
+	},
+	{
+		"publisher_id": 1099,
+		"publisher_name": "NOURA BOOKS ( PT MIZAN PUBLIKA)",
+		"input_date": "2022-10-19",
+		"last_update": "2022-10-19"
+	},
+	{
+		"publisher_id": 1100,
+		"publisher_name": "PT FALCON",
+		"input_date": "2022-10-21",
+		"last_update": "2022-10-21"
+	},
+	{
+		"publisher_id": 1101,
+		"publisher_name": "WILEY JOHN WILEY& SONS, Inc",
+		"input_date": "2022-10-21",
+		"last_update": "2022-10-21"
+	},
+	{
+		"publisher_id": 1102,
+		"publisher_name": "LUMENTA PUBLISHING",
+		"input_date": "2022-11-09",
+		"last_update": "2022-11-09"
+	},
+	{
+		"publisher_id": 1103,
+		"publisher_name": "PT AGROMEDIA PUSTAKA",
+		"input_date": "2022-11-09",
+		"last_update": "2022-11-09"
+	},
+	{
+		"publisher_id": 1104,
+		"publisher_name": "PT. DUNIA OTOMOTIFINDO MEDIATAMA",
+		"input_date": "2022-11-09",
+		"last_update": "2022-11-09"
+	},
+	{
+		"publisher_id": 1105,
+		"publisher_name": "PT BINA ADIAKSARA",
+		"input_date": "2022-11-16",
+		"last_update": "2022-11-16"
+	},
+	{
+		"publisher_id": 1106,
+		"publisher_name": "KANTOR PERWAKILAN BANK INDONESIA PROVINSI JAWA TIMUR",
+		"input_date": "2022-11-18",
+		"last_update": "2022-11-18"
+	},
+	{
+		"publisher_id": 1107,
+		"publisher_name": "PROGRAM STUDI DIPLOMA III KEPARIWISATAAN",
+		"input_date": "2022-11-18",
+		"last_update": "2022-11-18"
+	},
+	{
+		"publisher_id": 1108,
+		"publisher_name": "PROGRAM STUDI MESIN OTOMOTIF",
+		"input_date": "2022-11-21",
+		"last_update": "2022-11-21"
+	},
+	{
+		"publisher_id": 1109,
+		"publisher_name": "KEP BANGKA BELITUNG",
+		"input_date": "2022-11-21",
+		"last_update": "2022-11-21"
+	},
+	{
+		"publisher_id": 1110,
+		"publisher_name": "INSTITUT TEKNOLOGI NASIONAL MALANG",
+		"input_date": "2022-11-21",
+		"last_update": "2022-11-21"
+	},
+	{
+		"publisher_id": 1111,
+		"publisher_name": "ISSTAP",
+		"input_date": "2022-11-21",
+		"last_update": "2022-11-21"
+	},
+	{
+		"publisher_id": 1112,
+		"publisher_name": "PESONA JURNAL PARIWISATA",
+		"input_date": "2022-11-21",
+		"last_update": "2022-11-21"
+	},
+	{
+		"publisher_id": 1113,
+		"publisher_name": "KEMENTRIAN PEKERJAAN UMUM DIREKTORAT JENDERAL SUMBER DAYA AIR DIREKTORAT IRIGASI DAN RAWA",
+		"input_date": "2022-11-24",
+		"last_update": "2022-11-24"
+	},
+	{
+		"publisher_id": 1114,
+		"publisher_name": "FAKULTAS TEKNIK UNIVERSITAS JEMBER",
+		"input_date": "2022-11-28",
+		"last_update": "2022-11-28"
+	},
+	{
+		"publisher_id": 1115,
+		"publisher_name": "STATE ISLAMIC UNIVERSITY (UIN) OF SUNAN AMPEL SURABAYA",
+		"input_date": "2022-11-28",
+		"last_update": "2022-11-28"
+	},
+	{
+		"publisher_id": 1116,
+		"publisher_name": "PROGRAM STUDI DIPLOMA III USAHA PERJALANAN WISATA",
+		"input_date": "2022-11-30",
+		"last_update": "2022-11-30"
+	},
+	{
+		"publisher_id": 1117,
+		"publisher_name": "E-DIMAS",
+		"input_date": "2022-12-02",
+		"last_update": "2022-12-02"
+	},
+	{
+		"publisher_id": 1118,
+		"publisher_name": "PERHIMPUNAN EKONOMI PERTANIAN",
+		"input_date": "2022-12-05",
+		"last_update": "2022-12-05"
+	},
+	{
+		"publisher_id": 1119,
+		"publisher_name": "INCLUDES INDEX",
+		"input_date": "2022-12-05",
+		"last_update": "2022-12-05"
+	},
+	{
+		"publisher_id": 1120,
+		"publisher_name": "ISSS-AISS-IBG,ITC,ISRIC",
+		"input_date": "2022-12-05",
+		"last_update": "2022-12-05"
+	},
+	{
+		"publisher_id": 1121,
+		"publisher_name": "BELANBOOK MEDIA",
+		"input_date": "2022-12-23",
+		"last_update": "2022-12-23"
+	},
+	{
+		"publisher_id": 1122,
+		"publisher_name": "AS SALAM PUBLISHING",
+		"input_date": "2022-12-23",
+		"last_update": "2022-12-23"
+	},
+	{
+		"publisher_id": 1123,
+		"publisher_name": "SEKRETARIAT JENDERAL MPR RI",
+		"input_date": "2022-12-23",
+		"last_update": "2022-12-23"
+	},
+	{
+		"publisher_id": 1124,
+		"publisher_name": "PT BENGAWAN ILMU",
+		"input_date": "2022-12-23",
+		"last_update": "2022-12-23"
+	},
+	{
+		"publisher_id": 1125,
+		"publisher_name": "PT BALAI PUSTAKA (Persero)",
+		"input_date": "2022-12-23",
+		"last_update": "2022-12-23"
+	},
+	{
+		"publisher_id": 1126,
+		"publisher_name": "PUSAT KAJIAN MEDIA DAN BUDAYA POPULER",
+		"input_date": "2022-12-23",
+		"last_update": "2022-12-23"
+	},
+	{
+		"publisher_id": 1127,
+		"publisher_name": "PT. DUNIA PUSTAKA JAYA\tPT. DUNIA PUSTAKA JAYA",
+		"input_date": "2022-12-23",
+		"last_update": "2022-12-23"
+	},
+	{
+		"publisher_id": 1128,
+		"publisher_name": "EKONISIA",
+		"input_date": "2023-01-17",
+		"last_update": "2023-01-17"
+	},
+	{
+		"publisher_id": 1129,
+		"publisher_name": "PT. SERAMBI SEMESTA DISTRIBUSI",
+		"input_date": "2023-01-17",
+		"last_update": "2023-01-17"
+	},
+	{
+		"publisher_id": 1130,
+		"publisher_name": "KOMPAS MEDIA NUSANTARA",
+		"input_date": "2023-01-17",
+		"last_update": "2023-01-17"
+	},
+	{
+		"publisher_id": 1131,
+		"publisher_name": "MIZAN ANGGOTA IKAPI",
+		"input_date": "2023-01-26",
+		"last_update": "2023-01-26"
+	},
+	{
+		"publisher_id": 1132,
+		"publisher_name": "GHYYAS PUTRA",
+		"input_date": "2023-01-27",
+		"last_update": "2023-01-27"
+	},
+	{
+		"publisher_id": 1133,
+		"publisher_name": "CV PUSTAKA RAFIKA",
+		"input_date": "2023-01-27",
+		"last_update": "2023-01-27"
+	},
+	{
+		"publisher_id": 1134,
+		"publisher_name": "UM PURWOKERTO PRESS",
+		"input_date": "2023-01-27",
+		"last_update": "2023-01-27"
+	},
+	{
+		"publisher_id": 1135,
+		"publisher_name": "PENEAR SWADAYA",
+		"input_date": "2023-01-30",
+		"last_update": "2023-01-30"
+	},
+	{
+		"publisher_id": 1136,
+		"publisher_name": "YAYASAN TIFA JAKARTA",
+		"input_date": "2023-01-30",
+		"last_update": "2023-01-30"
+	},
+	{
+		"publisher_id": 1137,
+		"publisher_name": "RAYYANA KOMUNIKASINDO",
+		"input_date": "2023-01-31",
+		"last_update": "2023-01-31"
+	},
+	{
+		"publisher_id": 1138,
+		"publisher_name": "CV CAHAYA AGENCY",
+		"input_date": "2023-01-31",
+		"last_update": "2023-01-31"
+	},
+	{
+		"publisher_id": 1139,
+		"publisher_name": "TERBIT TERANG",
+		"input_date": "2023-01-31",
+		"last_update": "2023-01-31"
+	},
+	{
+		"publisher_id": 1140,
+		"publisher_name": "INANDRA\/ INTIBOOK PUBLISHING",
+		"input_date": "2023-01-31",
+		"last_update": "2023-01-31"
+	},
+	{
+		"publisher_id": 1141,
+		"publisher_name": "ILMU",
+		"input_date": "2023-02-16",
+		"last_update": "2023-02-16"
+	},
+	{
+		"publisher_id": 1142,
+		"publisher_name": "PT. RINEKA CIPTA",
+		"input_date": "2023-02-16",
+		"last_update": "2023-02-16"
+	},
+	{
+		"publisher_id": 1143,
+		"publisher_name": "UNIVERSITAS INDONESIA (UI-PRESS)",
+		"input_date": "2023-02-16",
+		"last_update": "2023-02-16"
+	},
+	{
+		"publisher_id": 1144,
+		"publisher_name": "NIGTOON COOKERY",
+		"input_date": "2023-02-27",
+		"last_update": "2023-02-27"
+	},
+	{
+		"publisher_id": 1145,
+		"publisher_name": "GADJAH MADA UNIVERSITY PRESS ANGGOTA IKAPI DAN APPTI",
+		"input_date": "2023-02-27",
+		"last_update": "2023-02-27"
+	},
+	{
+		"publisher_id": 1146,
+		"publisher_name": "EFATA PUBLISHING",
+		"input_date": "2023-03-01",
+		"last_update": "2023-03-01"
+	},
+	{
+		"publisher_id": 1147,
+		"publisher_name": "THINK",
+		"input_date": "2023-03-01",
+		"last_update": "2023-03-01"
+	},
+	{
+		"publisher_id": 1148,
+		"publisher_name": "BEE MEDIA PUSTAKA",
+		"input_date": "2023-03-28",
+		"last_update": "2023-03-28"
+	},
+	{
+		"publisher_id": 1149,
+		"publisher_name": "INTIMEDIA KELOMPOK INTRANS PUBLISHING",
+		"input_date": "2023-03-28",
+		"last_update": "2023-03-28"
+	},
+	{
+		"publisher_id": 1150,
+		"publisher_name": "PLATAXIA",
+		"input_date": "2023-03-28",
+		"last_update": "2023-03-28"
+	},
+	{
+		"publisher_id": 1151,
+		"publisher_name": "BADAN PENERBIT-UNDIP",
+		"input_date": "2023-03-28",
+		"last_update": "2023-03-28"
+	},
+	{
+		"publisher_id": 1152,
+		"publisher_name": "PT WIDYA DUTA GRAFIKA",
+		"input_date": "2023-03-28",
+		"last_update": "2023-03-28"
+	},
+	{
+		"publisher_id": 1153,
+		"publisher_name": "ELSEVIER BUTTERWORTH-HEINEMANN",
+		"input_date": "2023-04-14",
+		"last_update": "2023-04-14"
+	},
+	{
+		"publisher_id": 1154,
+		"publisher_name": "PT KANISIUS ( ANGGOTA IKAPI)",
+		"input_date": "2023-04-14",
+		"last_update": "2023-04-14"
+	},
+	{
+		"publisher_id": 1155,
+		"publisher_name": "GADJAH MADA UNIVERSITY PRESS (ANGGOTA IKAPI)",
+		"input_date": "2023-04-14",
+		"last_update": "2023-04-14"
+	},
+	{
+		"publisher_id": 1156,
+		"publisher_name": "LEMBAGA PENDIDIKAN SENI NUSANTARA",
+		"input_date": "2023-05-25",
+		"last_update": "2023-05-25"
+	},
+	{
+		"publisher_id": 1157,
+		"publisher_name": "PENERBIT ILMU",
+		"input_date": "2023-05-25",
+		"last_update": "2023-05-25"
+	},
+	{
+		"publisher_id": 1158,
+		"publisher_name": "UM PURWOKERTO PRESS (APPTI MEMBER)",
+		"input_date": "2023-05-25",
+		"last_update": "2023-05-25"
+	},
+	{
+		"publisher_id": 1159,
+		"publisher_name": "BIRO PENERBIT KMTS UGM",
+		"input_date": "2023-05-25",
+		"last_update": "2023-05-25"
+	},
+	{
+		"publisher_id": 1160,
+		"publisher_name": "UNIVERITAS SANATA DHARMA",
+		"input_date": "2023-06-27",
+		"last_update": "2023-06-27"
+	},
+	{
+		"publisher_id": 1161,
+		"publisher_name": "BINTANG MEDIA",
+		"input_date": "2023-07-03",
+		"last_update": "2023-07-03"
+	},
+	{
+		"publisher_id": 1162,
+		"publisher_name": "UNIVERSITAS BRAWIJAYA PRESS  UB PRESS",
+		"input_date": "2023-08-07",
+		"last_update": "2023-08-07"
+	},
+	{
+		"publisher_id": 1163,
+		"publisher_name": "PT. SINDUR PRESS",
+		"input_date": "2023-08-16",
+		"last_update": "2023-08-16"
+	},
+	{
+		"publisher_id": 1164,
+		"publisher_name": "BOOM PUBLISHING",
+		"input_date": "2023-08-29",
+		"last_update": "2023-08-29"
+	},
+	{
+		"publisher_id": 1165,
+		"publisher_name": "PENERBITAN UNIVERSITAS MUHAMMADIYAH MALANG",
+		"input_date": "2023-08-29",
+		"last_update": "2023-08-29"
+	},
+	{
+		"publisher_id": 1166,
+		"publisher_name": "ADDISON-WESLEY PROFESSIONAL",
+		"input_date": "2023-12-18",
+		"last_update": "2023-12-18"
+	},
+	{
+		"publisher_id": 1167,
+		"publisher_name": "IT REVOLUTION PRESS",
+		"input_date": "2023-12-18",
+		"last_update": "2023-12-18"
+	},
+	{
+		"publisher_id": 1168,
+		"publisher_name": "O\\'REILLY MEDIA",
+		"input_date": "2023-12-18",
+		"last_update": "2023-12-18"
+	},
+	{
+		"publisher_id": 1169,
+		"publisher_name": "ROUTLEDGE FOCUS",
+		"input_date": "2023-12-18",
+		"last_update": "2023-12-18"
+	},
+	{
+		"publisher_id": 1170,
+		"publisher_name": "NELSON CENGAGE",
+		"input_date": "2023-12-18",
+		"last_update": "2023-12-18"
+	},
+	{
+		"publisher_id": 1171,
+		"publisher_name": "SYBEX JOHN WILEY",
+		"input_date": "2023-12-19",
+		"last_update": "2023-12-19"
+	},
+	{
+		"publisher_id": 1172,
+		"publisher_name": "UNIVERSITAS GADJAH MADA",
+		"input_date": "2023-12-19",
+		"last_update": "2023-12-19"
+	},
+	{
+		"publisher_id": 1173,
+		"publisher_name": "EXPERT",
+		"input_date": "2023-12-20",
+		"last_update": "2023-12-20"
+	},
+	{
+		"publisher_id": 1174,
+		"publisher_name": "ANAK HEBAT NDONESIA",
+		"input_date": "2023-12-21",
+		"last_update": "2023-12-21"
+	},
+	{
+		"publisher_id": 1175,
+		"publisher_name": "GLOBAL PUSTAKA UTAMA",
+		"input_date": "2023-12-21",
+		"last_update": "2023-12-21"
+	},
+	{
+		"publisher_id": 1176,
+		"publisher_name": "NASMEDIA PUSTAKA",
+		"input_date": "2023-12-21",
+		"last_update": "2023-12-21"
+	},
+	{
+		"publisher_id": 1177,
+		"publisher_name": "UMY PRESS",
+		"input_date": "2023-12-21",
+		"last_update": "2023-12-21"
+	},
+	{
+		"publisher_id": 1178,
+		"publisher_name": "PRIMA PRINT",
+		"input_date": "2023-12-21",
+		"last_update": "2023-12-21"
+	},
+	{
+		"publisher_id": 1179,
+		"publisher_name": "EMPAT DUA",
+		"input_date": "2023-12-21",
+		"last_update": "2023-12-21"
+	},
+	{
+		"publisher_id": 1180,
+		"publisher_name": "SELAKSA MEDIA",
+		"input_date": "2023-12-22",
+		"last_update": "2023-12-22"
+	},
+	{
+		"publisher_id": 1181,
+		"publisher_name": "BUMI AKSARA GROUP",
+		"input_date": "2023-12-27",
+		"last_update": "2023-12-27"
+	},
+	{
+		"publisher_id": 1182,
+		"publisher_name": "PUSTAKA REFERENSI",
+		"input_date": "2023-12-28",
+		"last_update": "2023-12-28"
+	},
+	{
+		"publisher_id": 1183,
+		"publisher_name": "EUREKA MEDIA AKSARA",
+		"input_date": "2023-12-28",
+		"last_update": "2023-12-28"
+	}
+]

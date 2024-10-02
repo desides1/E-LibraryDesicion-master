@@ -1,0 +1,93 @@
+[
+    {
+        "No": "380",
+        "Kode": "07-0117",
+        "ISBN": "978-623-92373-0-1",
+        "title": "Berpikir Komputasional dan Pemrograman dengan Phyton",
+        "Pengarang": "Meredita Susanty",
+        "": "",
+        "Halaman": "190",
+        "Ukuran": "19X26",
+        "Terbit": "2020",
+        "Kategori": "Komputer",
+        "Harga": " 165.900 "
+    },
+    {
+        "No": "381",
+        "Kode": "07-0111",
+        "ISBN": "978-602-8126-16-8",
+        "title": "Generasi Baru Mengolah Data Penelitian dng Partial Least Square Path Modeling",
+        "Pengarang": "Sofyan Yamin",
+        "": "",
+        "Halaman": "256",
+        "Ukuran": "15.5x24",
+        "Terbit": "2011",
+        "Kategori": "Komputer",
+        "Harga": " 67.900 "
+    },
+    {
+        "No": "382",
+        "Kode": "07-0114",
+        "ISBN": "978-981-4410-32-8",
+        "title": "Menjelajah Dunia Komputer-Hidup dalam Era Digital",
+        "Pengarang": "Gary B. Shelly, Misty E. Vermaat(Cengage)",
+        "": "",
+        "Halaman": "882",
+        "Ukuran": "21x28",
+        "Terbit": "2012",
+        "Kategori": "Komputer",
+        "Harga": " 317.900 "
+    },
+    {
+        "No": "383",
+        "Kode": "07-0116",
+        "ISBN": "978-602-8126-19-9",
+        "title": "Pendidikan Administrasi Perkantoran Berbasis TIK",
+        "Pengarang": "Agung Kuswantoro",
+        "": "",
+        "Halaman": "212",
+        "Ukuran": "17x24",
+        "Terbit": "2014",
+        "Kategori": "Komputer",
+        "Harga": " 107.900 "
+    },
+    {
+        "No": "384",
+        "Kode": "07-0110",
+        "ISBN": "978-602-8126-14-4",
+        "title": "Pengantar Desain dan Analisis Algoritma (e2)",
+        "Pengarang": "Levitin",
+        "": "",
+        "Halaman": "336",
+        "Ukuran": "19x26",
+        "Terbit": "2010",
+        "Kategori": "Komputer",
+        "Harga": " 97.900 "
+    },
+    {
+        "No": "385",
+        "Kode": "07-0119",
+        "ISBN": "978-623-92373-2-5",
+        "title": "Seri 1 Digital Forensik: Panduan Umum Digital Forensik pada Platform Windows, Linux, Mac & Mobile[SOFTCOVER]",
+        "Pengarang": "Muhammad Nuh Al-Azhar",
+        "": "",
+        "Halaman": "334",
+        "Ukuran": "19x26",
+        "Terbit": "2020",
+        "Kategori": "Komputer",
+        "Harga": " 195.900 "
+    },
+    {
+        "No": "386",
+        "Kode": "07-0115",
+        "ISBN": "978-602-8126-20-5",
+        "title": "SPSS Complete: Teknik Analisis Terlengkap dengan Software SPSS (e2)",
+        "Pengarang": "Sofyan Yamin & Heri Kurniawan",
+        "": "",
+        "Halaman": "342",
+        "Ukuran": "15.5x24",
+        "Terbit": "2014",
+        "Kategori": "Komputer",
+        "Harga": " 123.900"
+    }
+]

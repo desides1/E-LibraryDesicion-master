@@ -1,0 +1,147 @@
+[
+    {
+        "criteria_id": 1,
+        "subcriteria": [
+            {
+                "name_sub": "< 3",
+                "value": 1.0
+            },
+            {
+                "name_sub": "3 - 5",
+                "value": 0.8
+            },
+            {
+                "name_sub": "6 - 10",
+                "value": 0.6
+            },
+            {
+                "name_sub": "11 - 15",
+                "value": 0.4
+            },
+            {
+                "name_sub": "> 15",
+                "value": 0.2
+            }
+        ]
+    },
+    {
+        "criteria_id": 2,
+        "subcriteria": [
+            {
+                "name_sub": "> 15",
+                "value": 1.0
+            },
+            {
+                "name_sub": "12 - 15",
+                "value": 0.8
+            },
+            {
+                "name_sub": "9 - 11",
+                "value": 0.6
+            },
+            {
+                "name_sub": "5 - 8",
+                "value": 0.4
+            },
+            {
+                "name_sub": "1 - 4",
+                "value": 0.2
+            }
+        ]
+    },
+    {
+        "criteria_id": 3,
+        "subcriteria": [
+            {
+                "name_sub": "< 200000",
+                "value": 1.0
+            },
+            {
+                "name_sub": "200000 - 500000",
+                "value": 0.8
+            },
+            {
+                "name_sub": "500001 - 1000000",
+                "value": 0.6
+            },
+            {
+                "name_sub": "1000001 - 2000000",
+                "description": "Kurang Baik",
+                "value": 0.4
+            },
+            {
+                "name_sub": "> 2000000",
+                "value": 0.2
+            }
+        ]
+    },
+    {
+        "criteria_id": 6,
+        "subcriteria": [
+            {
+                "name_sub": "Agribisnis",
+                "value": 0.06
+            },
+            {
+                "name_sub": "Teknologi Pengolahan Hasil Ternak",
+                "value": 0.05
+            },
+            {
+                "name_sub": "Teknik Manufaktur Kapal",
+                "value": 0.03
+            },
+            {
+                "name_sub": "Manajemen Bisnis Pariwisata",
+                "value": 0.06
+            },
+            {
+                "name_sub": "Teknologi Rekayasa Manufaktur",
+                "value": 0.08
+            },
+            {
+                "name_sub": "Teknologi Rekayasa Perangkat Lunak",
+                "value": 0.15
+            },
+            {
+                "name_sub": "Teknologi Rekayasa Komputer",
+                "value": 0.14
+            },
+            {
+                "name_sub": "Bisnis Digital",
+                "value": 0.04
+            },
+            {
+                "name_sub": "Teknologi Rekayasa Konstruksi Jalan Dan Jembatan",
+                "value": 0.07
+            },
+            {
+                "name_sub": "Teknologi Produksi Ternak",
+                "value": 0.05
+            },
+            {
+                "name_sub": "Pengembangan Produk Agroindustri",
+                "value": 0.07
+            },
+            {
+                "name_sub": "Teknologi Budi Daya Perikanan",
+                "value": 0.06
+            },
+            {
+                "name_sub": "Teknologi Produksi Tanaman Pangan",
+                "value": 0.03
+            },
+            {
+                "name_sub": "Pengelolaan Perhotelan",
+                "value": 0.04
+            },
+            {
+                "name_sub": "Destinasi Pariwisata",
+                "value": 0.03
+            },
+            {
+                "name_sub": "Teknik Sipil",
+                "value": 0.02
+            }
+        ]
+    }
+]

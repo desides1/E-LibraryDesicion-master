@@ -1,0 +1,42 @@
+[
+    {
+        "code": "000",
+        "name": "Karya Umum"
+    },
+    {
+        "code": "100",
+        "name": "Filsafat dan Psikologi"
+    },
+    {
+        "code": "200",
+        "name": "Agama"
+    },
+    {
+        "code": "300",
+        "name": "Ilmu Sosial"
+    },
+    {
+        "code": "400",
+        "name": "Bahasa"
+    },
+    {
+        "code": "500",
+        "name": "Ilmu Sains"
+    },
+    {
+        "code": "600",
+        "name": "Ilmu Terapan"
+    },
+    {
+        "code": "700",
+        "name": "Kesenian"
+    },
+    {
+        "code": "800",
+        "name": "Kesusastraan"
+    },
+    {
+        "code": "900",
+        "name": "Geografi dan Sejarah"
+    }
+]
