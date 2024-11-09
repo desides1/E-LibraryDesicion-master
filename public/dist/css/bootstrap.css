@@ -196,6 +196,16 @@ mark {
     padding: 0.2em;
     background-color: #fcf8e3;
 }
+
+/* sidebar */
+/* a.chev:hover {
+    background-color: #999999;
+} */
+
+/* .list-menu{
+display: flex;
+
+} */
 sub,
 sup {
     position: relative;

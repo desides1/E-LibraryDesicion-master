@@ -17,6 +17,7 @@
     {{-- end icon --}}
 
     {{-- css --}}
+
     <link rel="stylesheet" href="{{ asset('dist/css/bootstrap.css') }}">
     <link rel="stylesheet" href="{{ asset('dist/vendors/iconly/bold.css') }}" media="print" onload="this.media='all'">
     <link rel="stylesheet" href="{{ asset('dist/vendors/perfect-scrollbar/perfect-scrollbar.css') }}" media="print"
@@ -34,7 +35,10 @@
         onload="this.media='all'" />
     <link rel="stylesheet" href="{{ asset('dist/css/index.css') }}" media="print" onload="this.media='all'">
     <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+
+
     @stack('styles')
+    @stack('css')
     {{-- end css --}}
 </head>
 
@@ -81,6 +85,7 @@
     <script defer src="{{ asset('dist/vendors/sweetalert2/sweetalert2.all.min.js') }}"></script>
     <script defer src="{{ asset('dist/vendors/fontawesome/all.min.js') }}"></script>
     @stack('scripts')
+    @stack('script')
     {{-- end javascript --}}
 </body>
 

@@ -737,6 +737,9 @@
 .modal.modal-borderless .modal-footer {
     border-top: 0;
 }
+
+/* side bar */
+
 #sidebar.active .sidebar-wrapper {
     left: 0;
 }
