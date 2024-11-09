@@ -45,7 +45,7 @@
                 @endforeach
             </ul> --}}
 
-            {{-- Admin --}}
+            {{-- Pustakawan --}}
 
             @php
                 $penerbitMenu = config('menu.penerbit');
@@ -55,17 +55,14 @@
                 <div class="sidebar-menu">
                     <ul class="menu">
                         @foreach ($penerbitMenu as $category)
-                            <li class="sidebar-title" data-bs-toggle="collapse"
+                            <ul class="sidebar-title d-flex justify-content-between" data-bs-toggle="collapse"
+                                aria-controls="submenu-" aria-expanded="false"
                                 data-bs-target="#submenu-{{ $loop->index }}">
-                                {{ $category['title'] }}
-
-
-                            </li>
-                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
-                                class="bi bi-chevron-down bi-primary" viewBox="0 0 16 16">
-                                <path fill-rule="evenodd"
-                                    d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" />
-                            </svg>
+                                <span>{{ $category['title'] }}</span>
+                                <div class="rotate">
+                                    <span class="bi bi-chevron-right chev"></span>
+                                </div>
+                            </ul>
                             @foreach ($category['items'] as $item)
                                 <li class="sidebar-item {{ Request::is("{$item['route']}*") ? 'active' : '' }}"
                                     id="submenu-{{ $loop->parent->index }}">
@@ -80,9 +77,7 @@
                 </div>
             @endrole
 
-
-
-            {{-- Pustakawan --}}
+            {{-- Admin --}}
             @php
                 $pustakawanMenu = config('menu.admin');
             @endphp
@@ -96,14 +91,13 @@
                                 <div class="rotate">
                                     <span class="bi bi-chevron-right chev"></span>
                                 </div>
-
                             </ul>
 
                             @foreach ($category['items'] as $item)
                                 <li class="sidebar-item {{ Request::is("{$item['route']}*") ? 'active' : '' }}"
                                     id="submenu-{{ $loop->parent->index }}"> <a href="{{ url('/' . $item['route']) }}"
                                         class="sidebar-link"> <i class="bi {{ $item['icon'] }}"></i>
-                                        <span>{{ $item['label'] }}</span> </a> </li>
+                                        <span>{{ $item['label'] }}</span> </a></li>
                             @endforeach
                         @endforeach
                     </ul>
