@@ -6,15 +6,24 @@
 <div id="sidebar" class="active">
     <div class="sidebar-wrapper active">
         <div class="sidebar-header">
-            <div class="d-flex justify-content-between align-items-center">
-                <div class="logo">
-                    <a href="{{ url('/dashboard') }}" style="color: transparent !important;"><img
-                            src="{{ asset('dist/images/logo/logo-poliwangi.png') }}" class="me-3" alt="Logo"
-                            style="max-height: 75px; height: 65px;">SiPekan</a>
+            <div class="d-flex flex-column justify-content-center align-items-center ">
+                <div class="logo mx-auto">
+                    <div class="rounded rounded-circle">
+                        <a href="{{ url('/dashboard') }}" style="color: transparent !important;" class="">
+                            <img src="{{ asset('dist/images/logo/logo-poliwangi.png') }}" class="" alt="Logo"
+                                style="max-height: 3rem; height: 3rem; margin:0.8rem">
+                        </a>
+                    </div>
                 </div>
-                <div class="toggler">
+                <div class="user-name text-center mx-auto mt-3">
+                    <h6 class="mb-0 text-gray-600">{{ auth()->user()->name }}</h6>
+                    <p class="mb-0 text-sm text-gray-600">
+                        {{ auth()->user()->getRoleNames()->contains('Penerbit') ? 'Penyedia ' . auth()->user()->getRoleNames()->implode(',') : auth()->user()->getRoleNames()->implode(',') }}
+                    </p>
+                </div>
+                {{-- <div class="toggler">
                     <a href="#" class="sidebar-hide d-xl-none d-block"><i class="bi bi-x bi-middle"></i></a>
-                </div>
+                </div> --}}
             </div>
         </div>
         <div class="sidebar-menu">
@@ -107,6 +116,7 @@
         <button class="sidebar-toggler btn x"><i data-feather="x"></i></button>
     </div>
 </div>
+
 
 @push('script')
     <script defer>

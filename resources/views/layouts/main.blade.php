@@ -57,7 +57,7 @@
             @show
             {{-- end navbar --}}
 
-            <div class="page-heading mt-5">
+            <div class="page-heading mt-5 main">
                 {{-- breadcrumb --}}
                 @section('breadcrumb_be')
                     @include('components.breadcrumb_be')

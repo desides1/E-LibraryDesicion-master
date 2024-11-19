@@ -739,6 +739,11 @@
 }
 
 /* side bar */
+.rounded {
+    border: 2px solid #435ebe;
+    border-dash: 10px 5px;
+    border-style: dashed; /* Optional, as border-dash already implies a dashed style */
+}
 
 #sidebar.active .sidebar-wrapper {
     left: 0;
@@ -763,7 +768,7 @@
 .sidebar-wrapper .sidebar-header {
     padding: 2rem 2rem 1rem;
     font-size: 2rem;
-    font-weight: 700;
+    font-weight: 500;
 }
 .sidebar-wrapper .sidebar-header img {
     height: 1.2rem;
@@ -775,9 +780,9 @@
     display: none;
 }
 .sidebar-wrapper .menu {
-    margin-top: 2rem;
+    /* margin-top: 2rem; */
     padding: 0 2rem;
-    font-weight: 600;
+    font-weight: 200;
 }
 .sidebar-wrapper .menu .sidebar-title {
     padding: 0 1rem;
@@ -1149,20 +1154,27 @@
 .burger-btn {
     display: none;
 }
+.main {
+    padding: 2rem;
+}
 #main {
     margin-left: 300px;
-    padding: 2rem;
+    /* padding: 2rem; */
 }
 @media screen and (max-width: 1199px) {
     #main {
         margin-left: 0;
     }
 }
+
+.main {
+    padding: 2rem;
+}
 #main.layout-navbar {
     padding: 0;
 }
 #main #main-content {
-    padding: 2rem;
+    /* padding: 2rem; */
 }
 .page-heading {
     margin: 0 0 2rem;
